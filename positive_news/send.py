@@ -45,6 +45,9 @@ def main() -> None:
 
     load_dotenv(ROOT / ".env")
     headers = {"Authorization": f"Token {os.environ['BUTTONDOWN_API_KEY']}"}
+    if args.live:
+        # Buttondown's explicit opt-in for API-created emails that go straight to subscribers.
+        headers["X-Buttondown-Live-Dangerously"] = "true"
     issue_date = date.fromisoformat(args.date)
     payload = {
         "subject": subject(stories, issue_date),
