@@ -1,0 +1,60 @@
+name: Daily newsletter
+
+on:
+  schedule:
+    # GitHub cron is UTC. 04:25 UTC = 06:25 Prague in summer, 05:25 UTC = 06:25 in winter.
+    # The job skips the run that lands before 06:00 Prague time.
+    - cron: "25 4 * * *"
+    - cron: "25 5 * * *"
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Send a test only to this address (leave empty to send to subscribers)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write  # to commit the issue history and spend ledger back
+
+concurrency:
+  group: daily-newsletter
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build and send
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+          TEST_EMAIL: ${{ inputs.test_email }}
+        run: |
+          if [ -n "$TEST_EMAIL" ]; then
+            python -m positive_news.daily --test "$TEST_EMAIL"
+          else
+            python -m positive_news.daily
+          fi
+
+      - name: Save issue history and spend ledger
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/issues data/spend.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "Nothing to save."
+          else
+            git commit -m "Issue $(TZ=Europe/Prague date +%F)"
+            git push
+          fi

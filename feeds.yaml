@@ -1,0 +1,65 @@
+# Mainstream news sources. `outlet` is what counts as an "independent source":
+# two articles from the same outlet (e.g. two BBC sections) never corroborate each other.
+feeds:
+  # --- General / world ---
+  - {outlet: BBC, url: "https://feeds.bbci.co.uk/news/world/rss.xml"}
+  - {outlet: The Guardian, url: "https://www.theguardian.com/world/rss"}
+  - {outlet: The New York Times, url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"}
+  - {outlet: The Washington Post, url: "https://feeds.washingtonpost.com/rss/world"}
+  - {outlet: NPR, url: "https://feeds.npr.org/1001/rss.xml"}
+  - {outlet: Al Jazeera, url: "https://www.aljazeera.com/xml/rss/all.xml"}
+  - {outlet: DW, url: "https://rss.dw.com/rdf/rss-en-all"}
+  - {outlet: France 24, url: "https://www.france24.com/en/rss"}
+  - {outlet: Euronews, url: "https://www.euronews.com/rss"}
+  - {outlet: CBC, url: "https://www.cbc.ca/webfeed/rss/rss-world"}
+  - {outlet: ABC Australia, url: "https://www.abc.net.au/news/feed/51120/rss.xml"}
+  - {outlet: The Independent, url: "https://www.independent.co.uk/news/world/rss"}
+  - {outlet: UN News, url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml"}
+  # Reuters and AP have no public RSS, and their Google News links sit behind a
+  # consent wall in the EU, so they are left out. Claude's web search can still
+  # cite them as corroborating sources.
+
+  # --- Environment / science / health / tech sections ---
+  - {outlet: BBC, url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"}
+  - {outlet: BBC, url: "https://feeds.bbci.co.uk/news/health/rss.xml"}
+  - {outlet: BBC, url: "https://feeds.bbci.co.uk/news/technology/rss.xml"}
+  - {outlet: The Guardian, url: "https://www.theguardian.com/environment/rss"}
+  - {outlet: The Guardian, url: "https://www.theguardian.com/science/rss"}
+  - {outlet: The Guardian, url: "https://www.theguardian.com/society/rss"}
+  - {outlet: The Guardian, url: "https://www.theguardian.com/technology/rss"}
+  - {outlet: The New York Times, url: "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"}
+  - {outlet: The New York Times, url: "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"}
+  - {outlet: The New York Times, url: "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"}
+  - {outlet: NPR, url: "https://feeds.npr.org/1007/rss.xml"}
+  - {outlet: NPR, url: "https://feeds.npr.org/1128/rss.xml"}
+  - {outlet: CBC, url: "https://www.cbc.ca/webfeed/rss/rss-technology"}
+  - {outlet: ABC Australia, url: "https://www.abc.net.au/news/feed/2942460/rss.xml"}
+
+  - {outlet: The New York Times, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"}
+  - {outlet: ABC Australia, url: "https://www.abc.net.au/news/feed/51892/rss.xml"}
+  - {outlet: BBC, url: "https://feeds.bbci.co.uk/news/world/africa/rss.xml"}
+  - {outlet: The Independent, url: "https://www.independent.co.uk/news/science/rss"}
+
+  # --- More general outlets (more overlap = more stories that can be corroborated) ---
+  - {outlet: Sky News, url: "https://feeds.skynews.com/feeds/rss/world.xml"}
+  - {outlet: CBS News, url: "https://www.cbsnews.com/latest/rss/world"}
+  - {outlet: NBC News, url: "https://feeds.nbcnews.com/nbcnews/public/world"}
+  - {outlet: ABC News (US), url: "https://abcnews.go.com/abcnews/internationalheadlines"}
+  - {outlet: The Irish Times, url: "https://www.irishtimes.com/arc/outboundfeeds/feed-world/?outputType=xml"}
+  - {outlet: The Hindu, url: "https://www.thehindu.com/sci-tech/feeder/default.rss"}
+  - {outlet: The Times of India, url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"}
+  - {outlet: South China Morning Post, url: "https://www.scmp.com/rss/91/feed"}
+  - {outlet: The Japan Times, url: "https://www.japantimes.co.jp/feed/"}
+  - {outlet: The Straits Times, url: "https://www.straitstimes.com/news/world/rss.xml"}
+
+  # --- Science and environment press ---
+  - {outlet: Nature, url: "https://www.nature.com/nature.rss"}
+  - {outlet: Science (AAAS), url: "https://www.science.org/rss/news_current.xml"}
+  - {outlet: New Scientist, url: "https://www.newscientist.com/feed/home/"}
+  - {outlet: Scientific American, url: "http://rss.sciam.com/ScientificAmerican-Global"}
+  - {outlet: Smithsonian, url: "https://www.smithsonianmag.com/rss/latest_articles/"}
+  - {outlet: Mongabay, url: "https://news.mongabay.com/feed/"}
+  # Aggregators mostly republish press releases: two of them together never count
+  # as independent confirmation; each story also needs a regular newsroom.
+  - {outlet: ScienceDaily, url: "https://www.sciencedaily.com/rss/top.xml", kind: aggregator}
+  - {outlet: Phys.org, url: "https://phys.org/rss-feed/", kind: aggregator}

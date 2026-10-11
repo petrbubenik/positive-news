@@ -1,0 +1,97 @@
+# Outlets whose articles found via news search count as independent confirmation.
+# Names must match `outlet` in feeds.yaml where both exist. `aliases` match the source
+# label news search shows (e.g. "Agence France-Presse on MSN"). Aggregators republish
+# press releases and never confirm a story on their own (see feeds.yaml).
+outlets:
+  # International wires and broadcasters
+  - {name: Reuters, domains: [reuters.com]}
+  - {name: AP, domains: [apnews.com], aliases: [Associated Press]}
+  - {name: AFP, domains: [afp.com], aliases: [Agence France-Presse]}
+  - {name: BBC, domains: [bbc.co.uk, bbc.com], aliases: [BBC News]}
+  - {name: Al Jazeera, domains: [aljazeera.com]}
+  - {name: DW, domains: [dw.com], aliases: [Deutsche Welle]}
+  - {name: France 24, domains: [france24.com]}
+  - {name: Euronews, domains: [euronews.com]}
+  - {name: UN News, domains: [news.un.org]}
+  # UK and Ireland
+  - {name: The Guardian, domains: [theguardian.com]}
+  - {name: The Independent, domains: [independent.co.uk]}
+  - {name: The Telegraph, domains: [telegraph.co.uk]}
+  - {name: The Times, domains: [thetimes.com, thetimes.co.uk]}
+  - {name: Sky News, domains: [news.sky.com]}
+  - {name: ITV News, domains: [itv.com]}
+  - {name: The Irish Times, domains: [irishtimes.com]}
+  - {name: RTÉ, domains: [rte.ie], aliases: [RTE]}
+  # North America
+  - {name: The New York Times, domains: [nytimes.com]}
+  - {name: The Washington Post, domains: [washingtonpost.com]}
+  - {name: NPR, domains: [npr.org]}
+  - {name: PBS, domains: [pbs.org]}
+  - {name: CNN, domains: [cnn.com]}
+  - {name: CBS News, domains: [cbsnews.com]}
+  - {name: NBC News, domains: [nbcnews.com]}
+  - {name: ABC News (US), domains: [abcnews.go.com], aliases: [ABC News]}
+  - {name: USA Today, domains: [usatoday.com]}
+  - {name: Los Angeles Times, domains: [latimes.com]}
+  - {name: Axios, domains: [axios.com]}
+  - {name: Time, domains: [time.com]}
+  - {name: Bloomberg, domains: [bloomberg.com]}
+  - {name: The Wall Street Journal, domains: [wsj.com]}
+  - {name: CBC, domains: [cbc.ca]}
+  - {name: CTV News, domains: [ctvnews.ca]}
+  # Europe
+  - {name: Le Monde, domains: [lemonde.fr]}
+  - {name: Der Spiegel, domains: [spiegel.de]}
+  - {name: El País, domains: [elpais.com], aliases: [El Pais]}
+  - {name: Financial Times, domains: [ft.com]}
+  - {name: The Economist, domains: [economist.com]}
+  # Asia-Pacific
+  - {name: ABC Australia, domains: [abc.net.au], aliases: [ABC (Australian Broadcasting Corporation), Australian Broadcasting Corporation, Australian Broadcasting Corp]}
+  - {name: SBS News, domains: [sbs.com.au]}
+  - {name: RNZ, domains: [rnz.co.nz]}
+  - {name: The Hindu, domains: [thehindu.com]}
+  - {name: The Times of India, domains: [timesofindia.indiatimes.com]}
+  - {name: Hindustan Times, domains: [hindustantimes.com]}
+  - {name: The Indian Express, domains: [indianexpress.com]}
+  - {name: NDTV, domains: [ndtv.com]}
+  - {name: South China Morning Post, domains: [scmp.com]}
+  - {name: The Japan Times, domains: [japantimes.co.jp]}
+  - {name: NHK, domains: [nhk.or.jp], aliases: [NHK World]}
+  - {name: Kyodo News, domains: [kyodonews.net]}
+  - {name: The Straits Times, domains: [straitstimes.com]}
+  - {name: CNA, domains: [channelnewsasia.com], aliases: [Channel NewsAsia]}
+  - {name: Yonhap, domains: [en.yna.co.kr]}
+  - {name: The Korea Herald, domains: [koreaherald.com]}
+  # Africa and Latin America
+  - {name: Daily Maverick, domains: [dailymaverick.co.za]}
+  - {name: News24, domains: [news24.com]}
+  - {name: Nation Africa, domains: [nation.africa]}
+  - {name: The East African, domains: [theeastafrican.co.ke]}
+  - {name: MercoPress, domains: [en.mercopress.com]}
+  # Science, environment, technology
+  - {name: Nature, domains: [nature.com]}
+  - {name: Science (AAAS), domains: [science.org]}
+  - {name: New Scientist, domains: [newscientist.com]}
+  - {name: Scientific American, domains: [scientificamerican.com]}
+  - {name: Smithsonian, domains: [smithsonianmag.com], aliases: [Smithsonian Magazine]}
+  - {name: National Geographic, domains: [nationalgeographic.com]}
+  - {name: Live Science, domains: [livescience.com]}
+  - {name: Popular Science, domains: [popsci.com]}
+  - {name: Science News, domains: [sciencenews.org]}
+  - {name: Physics World, domains: [physicsworld.com]}
+  - {name: STAT News, domains: [statnews.com], aliases: [STAT]}
+  - {name: The Atlantic, domains: [theatlantic.com]}
+  - {name: Vox, domains: [vox.com]}
+  - {name: Mongabay, domains: [mongabay.com], aliases: [Mongabay News]}
+  - {name: Carbon Brief, domains: [carbonbrief.org]}
+  - {name: Yale Environment 360, domains: [e360.yale.edu]}
+  - {name: Inside Climate News, domains: [insideclimatenews.org]}
+  - {name: Grist, domains: [grist.org]}
+  - {name: The Conversation, domains: [theconversation.com]}
+  - {name: MIT Technology Review, domains: [technologyreview.com]}
+  - {name: Ars Technica, domains: [arstechnica.com]}
+  - {name: Wired, domains: [wired.com]}
+  - {name: The Verge, domains: [theverge.com]}
+  - {name: ScienceDaily, domains: [sciencedaily.com], aggregator: true}
+  - {name: Phys.org, domains: [phys.org, medicalxpress.com, techxplore.com], aggregator: true}
+  - {name: EurekAlert!, domains: [eurekalert.org], aggregator: true}
