@@ -1,96 +1,37 @@
 {
   "date": "2026-10-11",
+  "note": "Only 1 stories passed; no issue.",
   "stories": [
-    {
-      "topic": "tech",
-      "impact": 6,
-      "published": true,
-      "rejection_reason": "",
-      "headline_cs": "Vídeňští vědci sestrojili jaderné hodiny, které se samy stabilizují",
-      "summary_cs": "Vědci z Vídeňské technické univerzity (TU Wien) sestrojili první jaderné hodiny na světě, které si dokážou udržet stabilitu bez pomoci běžných atomových hodin. Místo elektronových obalů atomů využívají jádra atomů thoria, která jsou mnohem méně citlivá na vnější vlivy. Laser mění energetický stav jader thoria a ta zároveň slouží k ustálení frekvence laseru. Zařízení podle výzkumu běželo bez zásahu přes 24 hodin. Odborníci věří, že by tato technologie mohla v budoucnu přesností překonat i nejpřesnější atomové hodiny.",
-      "region_cs": "Rakousko, Vídeň",
-      "sources": [
-        {
-          "outlet": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm"
-        },
-        {
-          "outlet": "Studie: Nature",
-          "url": "https://doi.org/10.1038/s41586-026-11084-4"
-        }
-      ],
-      "original_titles": [
-        "Scientists build a nuclear clock that could make atomic clocks obsolete",
-        "A thorium-229 optical nuclear clock with feedback loop"
-      ]
-    },
     {
       "topic": "nature",
       "impact": 5,
       "published": true,
       "rejection_reason": "",
       "headline_cs": "Indonésie vypustila osm orangutanů zachráněných před požáry do chráněného lesa",
-      "summary_cs": "Indonéské úřady spolu s organizací YIARI vypustily osm orangutanů do chráněného lesa. Zvířata byla v posledních týdnech zachráněna z požárů, které zasáhly ostrov Borneo. Podle zpráv záchranáři od srpna před ohněm zachránili celkem 46 orangutanů. Vypuštění oznámily indonéské úřady a záchranáři v neděli. Návrat do volné přírody je důležitým krokem pro ochranu tohoto ohroženého druhu, jehož přirozeným domovem jsou deštné pralesy. Zprávy neuvádějí přesné místo vypuštění ani další osud zbývajících zvířat.",
+      "summary_cs": "Osm orangutanů, kteří byli v posledních týdnech zachráněni z požárů na indonéském Borneu, vypustili úřady a záchranáři do chráněného lesa Batu Nyambu v provincii Západní Kalimantan. Zvířata, tři matky s mláďaty a dva mladí samci, přesunuli do 23 000hektarové rezervace, která má primární i sekundární lesní porost a dostatek potravy a vody. Od srpna zachránili úřady spolu s nadací YIARI celkem 46 orangutanů. Orangutani jsou kriticky ohroženi, a proto je každý přesun do bezpečí důležitý.",
       "region_cs": "Indonésie, Borneo",
       "sources": [
         {
-          "outlet": "AFP",
-          "url": "https://www.msn.com/en-us/science/ecology/indonesia-releases-eight-orangutans-rescued-from-fires-to-protected-forest/ar-AA2dYIg4"
-        },
-        {
           "outlet": "The Japan Times",
           "url": "https://www.japantimes.co.jp/news/2026/10/11/asia-pacific/science-health/indonesia-fires-orangutan-released/"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.msn.com/en-us/science/ecology/indonesia-releases-eight-orangutans-rescued-from-fires-to-protected-forest/ar-AA2dYIg4"
         }
       ],
       "original_titles": [
         "Indonesia releases eight orangutans rescued from fires to protected forest",
         "Indonesia releases eight orangutans rescued from fires to protected forest"
       ]
-    },
-    {
-      "topic": "science_health",
-      "impact": 4,
-      "published": true,
-      "rejection_reason": "",
-      "headline_cs": "Vědci vyvinuli injekčně podávané zařízení, které ovládá nervy bez operace",
-      "summary_cs": "Vědci z newyorské univerzity v Abú Zabí spolu s kliniky Cleveland Clinic Abu Dhabi vyvinuli miniaturní zařízení zhruba o velikosti semínka. Lze ho aplikovat standardní jehlou blízko konkrétního nervu bez chirurgického zákroku a bez baterií či kabelů. Energii dostává bezdrátově zvenčí těla a lékaři mohou stimulaci upravovat. Polohu zařízení lze sledovat ultrazvukem nebo počítačovou tomografií. V testech na krysách prokázalo schopnost aktivovat nerv v živém organismu. Autoři studie v časopisu Science Advances vidí potenciál pro léčbu chronické bolesti a poruch hybnosti, zatím však jde o časná testování.",
-      "region_cs": "Spojené arabské emiráty",
-      "sources": [
-        {
-          "outlet": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
-        },
-        {
-          "outlet": "Studie: Science Advances",
-          "url": "https://doi.org/10.1126/sciadv.aeg1437"
-        }
-      ],
-      "original_titles": [
-        "Scientists created a tiny device that can control your nerves to treat chronic pain",
-        "An injectable, leadless bioelectronic interface for battery-free wireless peripheral neuromodulation"
-      ]
     }
   ],
   "rejected": [
     {
-      "topic": "nature",
-      "impact": 5,
-      "published": false,
-      "rejection_reason": "Only one real news source; the biorxiv entry is garbled binary text and does not support the finding.",
-      "headline_cs": "",
-      "summary_cs": "",
-      "region_cs": "",
-      "sources": [],
-      "original_titles": [
-        "Painted wind turbines can dramatically reduce bird deaths, study finds",
-        "��8r×�a��&;�AA�;�E~�A;�C$�d���.=|�?k��Q���.hT�"
-      ]
-    },
-    {
       "topic": "science_health",
       "impact": 5,
       "published": false,
-      "rejection_reason": "The study was published in August 2025, so this is old news resurfacing more than a year later.",
+      "rejection_reason": "Old news resurfacing: the source says the findings were published in August 2025, and the item is dated October 2026. Only one news-style aggregator and one repost of the university release support it.",
       "headline_cs": "",
       "summary_cs": "",
       "region_cs": "",
@@ -101,23 +42,23 @@
       ]
     },
     {
-      "topic": "nature",
-      "impact": 4,
+      "topic": "science_health",
+      "impact": 3,
       "published": false,
-      "rejection_reason": "Only one source covers the Bubble Barrier story; the MSU page is a professor biography that does not mention the installation.",
+      "rejection_reason": "Not genuinely positive: the coverage is mixed, with mathematicians split between excitement and alarm, and some AI-generated papers were later corrected or withdrawn.",
       "headline_cs": "",
       "summary_cs": "",
       "region_cs": "",
       "sources": [],
       "original_titles": [
-        "Could This Dutch Invention Help Tackle Plastic Pollution in America's Waterways?",
-        "Phanikumar Mantha"
+        "‘Breathtaking’, ‘devastating’: Mathematics reels after new OpenAI release",
+        "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release"
       ]
     }
   ],
   "usage": {
-    "input_tokens": 82868,
-    "output_tokens": 11162,
-    "cost_usd": 0.013867800000000001
+    "input_tokens": 71515,
+    "output_tokens": 7280,
+    "cost_usd": 0.0107915
   }
 }
