@@ -93,7 +93,8 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--hours", type=float, default=48, help="max article age (default 48)")
     parser.add_argument("--candidates", type=int, default=7, help="stories to check & write (default 7)")
-    parser.add_argument("--search", type=int, default=12, help="stories to look up in news search (default 12)")
+    parser.add_argument("--search", type=int, default=25,
+                        help="stories to look for a second source for (default 25, i.e. all; it's free)")
     args = parser.parse_args()
 
     today = today_prague()

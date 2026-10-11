@@ -68,8 +68,9 @@ Does NOT qualify:
 - sports results, entertainment, celebrities, lifestyle, product launches, business deals, markets
 - "less bad" news inside a tragedy (e.g. a death toll lower than feared), memorials, disaster survivors
 - political wins for one side, campaign news, opinion pieces, live blogs
-- speculative or very early research hyped beyond the evidence: animal-only or lab-only results,
-  prototypes, "could one day" findings (these score 3 at most)
+- speculative research hyped beyond the evidence: "could one day" findings, single small studies
+  Early-stage results that are still real achievements (a working new device, an animal study with
+  a clear path to treatment) do qualify, but score 4 at most.
 - anything where the positive angle is a minor detail of a negative story
 
 Score `impact` from 1 to 10: how many lives or how much of nature it touches, how lasting and how
