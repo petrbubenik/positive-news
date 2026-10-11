@@ -12,6 +12,10 @@ on:
         description: "Send a test only to this address (leave empty to send to subscribers)"
         required: false
         default: ""
+      rebuild:
+        description: "With a test email: rebuild today's issue from scratch (never one already sent)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write  # to commit the issue history and spend ledger back
@@ -39,8 +43,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
           TEST_EMAIL: ${{ inputs.test_email }}
+          REBUILD: ${{ inputs.rebuild }}
         run: |
-          if [ -n "$TEST_EMAIL" ]; then
+          if [ -n "$TEST_EMAIL" ] && [ "$REBUILD" = "true" ]; then
+            python -m positive_news.daily --test "$TEST_EMAIL" --rebuild
+          elif [ -n "$TEST_EMAIL" ]; then
             python -m positive_news.daily --test "$TEST_EMAIL"
           else
             python -m positive_news.daily
