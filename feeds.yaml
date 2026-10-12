@@ -59,7 +59,7 @@ feeds:
   - {outlet: Scientific American, url: "http://rss.sciam.com/ScientificAmerican-Global"}
   - {outlet: Smithsonian, url: "https://www.smithsonianmag.com/rss/latest_articles/"}
   - {outlet: Mongabay, url: "https://news.mongabay.com/feed/"}
+  # Phys.org is left out: it blocks article downloads, so its stories can never be checked.
   # Aggregators mostly republish press releases: two of them together never count
   # as independent confirmation; each story also needs a regular newsroom.
   - {outlet: ScienceDaily, url: "https://www.sciencedaily.com/rss/top.xml", kind: aggregator}
-  - {outlet: Phys.org, url: "https://phys.org/rss-feed/", kind: aggregator}

@@ -21,7 +21,7 @@ from .curate import Story, Usage, check_and_write, is_corroborated, screen
 from .fetch import ROOT, collect
 from .render import render_html
 
-MIN_STORIES, MAX_STORIES = 2, 5
+MIN_STORIES, MAX_STORIES = 1, 5
 MAX_PER_TOPIC = 2
 
 # Hard monthly cap on API spend (~€1.85). A normal run costs about a cent; MAX_RUN_COST

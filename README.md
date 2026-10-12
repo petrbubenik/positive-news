@@ -1,7 +1,7 @@
 # Dobré zprávy ze světa
 
 A daily Czech newsletter of 3–5 positive news stories from around the world, each confirmed by
-at least two independent sources. Runs on GitHub Actions every morning at ~06:30 Prague time and
+at least two independent sources. Runs on GitHub Actions every morning at 06:25 Prague time (triggered by cron-job.org) and
 sends through Buttondown. API budget: under $2/month (about $0.01 per issue, Claude Haiku 5.5).
 
 ## How an issue is made
@@ -16,7 +16,7 @@ sends through Buttondown. API budget: under $2/month (about $0.01 per issue, Cla
 4. **Check & write** — Claude reads the sources, rejects stories where they disagree or the news
    is old, and writes the Czech headline and summary. Links come only from real feeds, searches
    and cited pages, never from the model.
-5. **Send** via Buttondown, at most once per day; no issue on days with fewer than 2 stories.
+5. **Send** via Buttondown, at most once per day; no issue on days when no story passes.
 
 ## Running locally
 

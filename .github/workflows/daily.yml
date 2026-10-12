@@ -1,11 +1,12 @@
 name: Daily newsletter
 
 on:
+  # The main trigger is cron-job.org calling workflow_dispatch at 06:25 Prague time, because
+  # GitHub's own schedule is best-effort and often hours late. These are only a backup in
+  # case that call fails; a day that's already done is skipped, so nothing is sent twice.
   schedule:
-    # GitHub cron is UTC. 04:25 UTC = 06:25 Prague in summer, 05:25 UTC = 06:25 in winter.
-    # The job skips the run that lands before 06:00 Prague time.
-    - cron: "25 4 * * *"
-    - cron: "25 5 * * *"
+    - cron: "40 5 * * *"
+    - cron: "40 6 * * *"
   workflow_dispatch:
     inputs:
       test_email:

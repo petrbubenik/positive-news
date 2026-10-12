@@ -50,7 +50,7 @@ def render_body(stories: list[dict], issue_date: date) -> str:
 </div>""")
 
     return f"""<div style="font-size:13px;color:#5b6b63;">{czech_date(issue_date).capitalize()}</div>
-<p style="font-size:15px;color:#5b6b63;margin:4px 0 0;">Dnes {story_count(len(stories))}, každá ověřená nejméně ve dvou nezávislých zdrojích.</p>
+<p style="font-size:15px;color:#5b6b63;margin:4px 0 0;">Dnes {story_count(len(stories))}, {"ověřená" if len(stories) == 1 else "každá ověřená"} nejméně ve dvou nezávislých zdrojích.</p>
 {"".join(blocks)}
 <p style="padding-top:16px;font-size:12px;line-height:1.5;color:#7a8a82;">
   Výběr a shrnutí připravuje AI (Claude) z článků světových médií. Každou zprávu ověřujeme

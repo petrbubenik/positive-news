@@ -22,7 +22,7 @@ from .fetch import ROOT
 from .render import render_body, subject
 
 API = "https://api.buttondown.com/v1"
-MIN_STORIES = 2
+MIN_STORIES = 1
 
 
 def main() -> None:

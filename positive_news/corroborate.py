@@ -182,6 +182,9 @@ def corroborate(story, articles: list[Article], texts: dict[int, str | None],
         if url in have_urls or not primary_label(url):
             continue
         found = primary_article(url)
+        # Some outlets register DOIs for their own articles; that isn't an independent study.
+        if found and any(o.lower() in found[0].outlet.lower() for o in have_outlets):
+            continue
         if found and found[0].url not in have_urls:
             add(*found)
             have_urls.add(found[0].url)
