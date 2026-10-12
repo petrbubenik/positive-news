@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-12",
+  "note": "Only 1 stories passed; no issue.",
+  "stories": [
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Austrálský inženýr Robert Pether po pěti letech z Iráku odletěl za rodinou",
+      "summary_cs": "Australský inženýr Robert Pether, zadržovaný v Bagdádu od dubna 2021 kvůli sporu o zakázku na rekonstrukci sídla Centrální banky Iráku, opustil Irák. Minulý týden irácký soud řízení proti němu zastavil pro nedostatek důkazů a zrušil zákaz cestování. Pether, který přes Turecko odletěl do Irska, se tam setkal s manželkou a dětmi. Z vězení byl kvůli zhoršenému zdraví propuštěn už v roce 2025. Australská ministryně zahraničí Penny Wong i irská ministryně Helen McEntee jeho návrat přivítaly. Pether vinu popřel a v dopise z vězení popisoval, jak mu chybí milníky rodinného života.",
+      "region_cs": "Irák, Irsko",
+      "sources": [
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/middle-east/2026/10/12/detained-australian-engineer-robert-pether-heading-home-to-ireland-from-iraq/"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/middle-east/australian-man-robert-pether-iraq-released-b3065149.html"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison"
+        }
+      ],
+      "original_titles": [
+        "Robert Pether: Australian held in Iraq for five years over contract dispute is finally released",
+        "Engineer Robert Pether back in Ireland after being detained in Iraq for five years",
+        "Lawyers who helped detained Australian Robert Pether leave Iraq criticise Wong for announcing news"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Only one independent news source (a Mongabay interview); the primary source is the same Mongabay article, so there are not two independent sources and the piece is an interview rather than a news event.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh",
+        "Community action to protect Cambodia’s seas: Interview with commune leader Sorn Srenh"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 72454,
+    "output_tokens": 6354,
+    "cost_usd": 0.010422400000000002
+  }
+}
