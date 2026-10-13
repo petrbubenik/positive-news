@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-13",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 7,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Po třiceti letech je tu první lék na vzácnou nemoc mozku, Alexandrovu chorobu",
+      "summary_cs": "Americký úřad FDA schválil první lék, který přímo cílí na Alexandrovu chorobu, extrémně vzácné a progresivní neurologické onemocnění, jež může být smrtelné. Přípravek Zanvastro vznikl z více než třicetiletého výzkumu na Univerzitě Wisconsin-Madison, na němž se podílela laboratoř Albee Messinga, a firma Ionis Pharmaceuticals. V klinických studiích se u pacientů zastavilo zhoršování pohybových funkcí a u některých se pohyb dokonce zlepšil. Dosud lékaři mohli nemocným nabídnout jen zmírnění příznaků. Nemoc postihuje méně než jednoho člověka z milionu.",
+      "region_cs": "Spojené státy, Celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261007042111.htm"
+        },
+        {
+          "outlet": "news.wisc.edu",
+          "url": "https://news.wisc.edu/first-drug-to-treat-alexander-disease-approved-by-the-fda-after-three-decades-of-research-at-uw-madison/"
+        }
+      ],
+      "original_titles": [
+        "After 30 years, scientists finally have a drug for a deadly brain disease",
+        "First drug to treat Alexander disease approved by the FDA after three decades of research at UW–Madison"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Lososi činook se po odstranění čtyř přehrad na řece Klamath vrátili do dřívějších končin",
+      "summary_cs": "Na řece Klamath na severozápadě USA odstranili v roce 2024 čtyři přehrady a losos činook se do dříve nedostupných úseků vrátil rychle. Podle nové studie jich v roce 2024 prošlo 7 742, v roce 2025 už více než 13 000. Ryby obsadily 345 kilometrů dříve uzavřené řeky, tedy 88 % svého historického areálu. Vědci k sledování použili sonarovou kameru, která funguje i v zakalené vodě. Obnova populace ale bude vyžadovat úspěšné rozmnožování přes několik generací a zlepšení podmínek v povodí.",
+      "region_cs": "USA, řeka Klamath",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/10/chinook-salmon-return-to-historical-habitat-following-removal-of-four-us-dams/"
+        },
+        {
+          "outlet": "nature.com",
+          "url": "https://www.nature.com/articles/s41598-026-65437-0"
+        }
+      ],
+      "original_titles": [
+        "Chinook salmon return to historical habitat following removal of four US dams",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Maďarský parlament odstranil z zákona z dob Orbána protiLGBTQ+ ustanovení",
+      "summary_cs": "Maďarští poslanci hlasovali 139 hlasy proti 51 pro změnu zákona o ochraně dětí z roku 2021, který přijala vláda Viktora Orbána. Z něj vypadla ustanovení zakazující propagaci sexuální a genderové rozmanitosti mezi nezletilými, nový text chrání děti jen před obsahem, který může vážně poškodit jejich vývoj. Změnu prosadila vláda premiéra Pétera Magyara, která má dvoutřetinovou většinu, a vycházela z loňského rozhodnutí Evropského soudního dvora, podle něhož byl původní zákon v rozporu s hodnotami EU. Aktivisté však upozorňují, že v zemi zůstávají další diskriminační předpisy.",
+      "region_cs": "Maďarsko",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/13/hungarian-lawmakers-vote-to-cut-anti-lgbtq-legislation-from-orban-era-law"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/europe/20261013-a-positive-step-hungary-removes-anti-lgbtq-provisions-from-orban-era-law"
+        }
+      ],
+      "original_titles": [
+        "Hungarian lawmakers vote to cut anti-LGBTQ+ legislation from Orbán-era law",
+        "'A positive step': Hungary removes anti-LGBTQ provisions from Orban-era law"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Na Bali vypustili do moře 20 chráněných zelených želv zachráněných při zátahu",
+      "summary_cs": "Indonéská policie na ostrově Bali vypustila zpět do moře 20 chráněných zelených želv. Zvířata zajistili policisté na lodi u ostrova Serangan, kterou pašeráci opustili těsně před příjezdem policie. Všechny želvy byly na palubě živé. Dvě jsou stále nemocné a čekají na ošetření, po němž budou také vypuštěny. Úřady doufají, že případ odradí od obchodu s těmito druhy, které jsou v Indonésii chráněny zákonem od roku 1990. Zelená želva tvořila podle studie z roku 2022 56 % zabitých mořských želv za třicet let do roku 2020.",
+      "region_cs": "Indonésie, Bali",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/indonesia-returns-20-green-sea-turtles-ocean-after-137217772"
+        },
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/indonesia-green-sea-turtles-smuggling-release-59ea1574cd61427628d51b4152e3f994"
+        }
+      ],
+      "original_titles": [
+        "20 green sea turtles returned to the ocean after Bali smuggling raid",
+        "Indonesia returns 20 green sea turtles to the ocean after Bali smuggling raid"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one source (Guardian) supports the core facts about the sea star restoration; the NOAA source covers ocean oxygen production and is only loosely related.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+        "Scientists estimate that roughly half of the oxygen production on Earth comes from the ocean. The majority of this production is from oceanic plankton"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only the NPR article covers the coral reef claims; the primary Nature paper supports the seabird-nutrient-manta chain but not the coral reef health or restoration claims.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "One way to protect coral reefs? Bring back seabirds",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Basic research mapping of brain lipids with no clear positive outcome for people; the positive angle is too weak for a positive news digest.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists uncover a hidden map of the brain with 539 distinct regions",
+        "The lipidomic architecture of the mouse brain"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 89573,
+    "output_tokens": 11161,
+    "cost_usd": 0.0145378
+  },
+  "buttondown_id": "em_3nhm8szn4p9mjrqghag9z16t90",
+  "sent_live": true
+}
