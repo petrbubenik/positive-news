@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-14",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dvě těhotné samice vzácného badoráka sumatranského v Indonésii",
+      "summary_cs": "Ve svatyni Suaka Rhino Sumatera v indonéském Way Kambas jsou dvě kriticky ohrožené samice badoráka sumatranského těhotné. Ratu nese své čtvrté mládě, její dcera Delilah druhé; porody se očekávají kolem května 2027. Ministerstvo lesnictví i organizace YABI uvedly, že pokud Ratu přivede na svět zdravé mládě, vytvoří nový rekord, protože dosud žádná známá samice neměla čtyři mláďata. Chov je přitom ztížen malou a příbuznou populací, a proto experti hledají co nejméně příbuzné páry. Ve volné přírodě na Sumatře a v jejích okolních oblastech zbývá jen několik desítek zvířat.",
+      "region_cs": "Indonésie, Sumatra",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/10/two-rare-pregnancies-spark-hope-for-sumatran-rhinos-but-also-concerns-about-inbreeding/"
+        },
+        {
+          "outlet": "kehutanan.go.id",
+          "url": "https://www.kehutanan.go.id/pers/kado-istimewa-pada-peringatan-badak-sedunia-dua-induk-badak-bunting-di-suaka-rhino-sumatera"
+        }
+      ],
+      "original_titles": [
+        "Two rare pregnancies spark hope for Sumatran rhinos — but also concerns about inbreeding",
+        "Kado Istimewa Pada Peringatan Badak Sedunia: Dua Induk Badak Bunting di Suaka Rhino Sumatera"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Celosvětové odlesňování v roce 2025 kleslo o 15 procent",
+      "summary_cs": "Podle výroční zprávy Forest Declaration Assessment se ztráta lesů ve světě v roce 2025 snížila o 15 procent na zhruba sedm milionů hektarů. Největší podíl na zlepšení měla Latinská Amerika, kde odlesňování kleslo o 33 procent, což autoři přičítají brazilskému akčnímu plánu a přísnějšímu dohledu v Amazonii. Autoři ale upozorňují, že jde spíše o výjimku než o nový trend. Situace v povodí Konga se naopak výrazně zhoršila, ztráta lesa dosáhla 2,4 milionu hektarů. Silný El Niño navíc zvyšuje riziko sucha a požárů, takže cíl zastavit odlesňování do roku 2030 zatím nebude splněn.",
+      "region_cs": "Celosvětově, Latinská Amerika, Kongo",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/global-deforestation-slowed-in-2025-but-surged-in-congo-basin-study"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/article/3370826/global-deforestation-fell-2025-congo-basin-losses-surged?utm_source=rss_feed"
+        }
+      ],
+      "original_titles": [
+        "Global deforestation fell in 2025, but Congo Basin losses surged",
+        "Global deforestation slowed in 2025 but surged in Congo basin: Study"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Saúdská Arábie zrušila trest smrti pro srílanského migrujícího pracovníka",
+      "summary_cs": "Nejvyšší soud Saúdské Arábie zrušil trest smrti, který dostal srílanský migrující pracovník Anojan Sivarasa za urážlivý komentář na Facebooku o proroku Muhammadovi. Čtyřiadvacetiletý muž z východu Srí Lanky byl v září odsouzen za rouhání poté, co jeho zaměstnavatel dostal snímky příspěvku. Srílanská vláda vyslala právní tým a prezident Anura Kumara Dissanayake případ veřejně podpořil. Není ale jasné, zda Anojan bude čelit ještě vězení, nebo novému soudnímu řízení. Organizace pro lidská práva kauzu sledovaly a žádaly zrušení rozsudku.",
+      "region_cs": "Saúdská Arábie, Srí Lanka",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/middle-east/saudi-overturns-death-penalty-sri-lanka-blasphemy-b3066451.html"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.msn.com/en-in/news/other/saudi-top-court-overturns-sri-lankan-man-anojan-sivarasa-s-death-sentence-over-facebook-post/ar-AA2edb0G"
+        }
+      ],
+      "original_titles": [
+        "Saudi Arabia overturns death sentence of Sri Lankan man convicted over Facebook post",
+        "Saudi top court overturns Sri Lankan man Anojan Sivarasa's death sentence over Facebook post"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only procedural news: the bill was merely referred to a committee, not passed, and the opposition contests its legality. Sources also conflict on which committee it went to. The positive angle is largely an opinion piece.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Towards an age-ready Keralam: translating rights into care",
+        "Keralam Senior Citizens Bill referred to Assembly Subject Committee",
+        "Keralam Senior Citizens (Care and Protection) Bill to focus on protection of rights, dignity of elderly",
+        "Explained: Keralam bill proposes first-of-its-kind framework to regulate elderly care"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the Radiology paper was published on 2026-06-01, months before today's date, and the aggregator item only repackages it. Also, only one source is a news item.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "New knee arthritis treatment delivers lasting pain relief without surgery",
+        "Genicular Artery Embolization Using Rapidly Resorbable Gelatin-based Microspheres for Osteoarthritis-related Knee Pain"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one source concerns the sunflower sea star restoration; the NOAA primary source is about ocean oxygen production and does not support the story's core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists deploy a 24-armed secret weapon to save California’s kelp forests",
+        "Scientists estimate that roughly half of the oxygen production on Earth comes from the ocean. The majority of this production is from oceanic plankton"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "The ban is only a proposed deal awaiting a council vote on Oct 22, and workers' unions contest it over job losses, so it is not settled good news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "New York City horse carriages set to be banned in 2028 after deal",
+        "New York City to ban horse-drawn carriages in 2028, City Council speaker says"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 96842,
+    "output_tokens": 14313,
+    "cost_usd": 0.0168407
+  },
+  "buttondown_id": "em_6drwf6e1fh9k19hgxwhrf4e6xd",
+  "sent_live": true
+}
