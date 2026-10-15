@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-15",
+  "note": "",
+  "stories": [
+    {
+      "topic": "people",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Brazilský Senát schválil zkrácení pracovního týdne na 40 hodin",
+      "summary_cs": "Brazilský Senát schválil ústavní novelu velkou většinou 75 hlasů proti jednomu. Zakazuje šestidenní pracovní týden a snižuje maximální délku práce z 44 na 40 hodin bez snížení platu. Týkat by se mohlo zhruba 30 až 37 milionů pracovníků, z nichž 16 milionů dosud pracuje šest dní v týdnu. Firmám se dává 14 měsíců na přechod a podpis zákona prezidentem Lulou da Silvou se očekává příští týden. Změna přichází těsně před druhým kolem prezidentských voleb 25. října, kde Lula usiluje o návrat. Dopady na zaměstnavatele zůstávají podle kritiků sporné.",
+      "region_cs": "Brazílie",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/brazil-senate-approves-bill-to-shorten-work-week-in-election-boost-for-lula"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357"
+        }
+      ],
+      "original_titles": [
+        "Brazil Senate approves Bill to shorten work week in election boost for Lula",
+        "Brazil to shorten workweek in win for Lula ahead of runoff",
+        "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+        "Brazil cuts work week to 40 hours in win for Lula ahead of runoff"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Victoria schválila největší větrnou farmu v Austrálii",
+      "summary_cs": "Státní vláda australské Victorie dala závěrečné schválení projektu Warracknabeal Energy Park se 219 turbínami na 26 tisících hektarech zemědělské půdy přibližně 300 kilometrů severozápadně od Melbourne. Developer WestWind Energy uvádí výkon 1,5 gigawattu, což by stačilo zhruba 1,2 milionu domácností, a farma by tak předstihla dosavadní rekordní Golden Plains. Při výstavbě má vzniknout zhruba 950 pracovních míst a město, které dlouhodobě ztrácí obyvatele, by mohlo získat nové služby. Projekt ale ještě čeká na finální posouzení federální vládou.",
+      "region_cs": "Austrálie, Victoria",
+      "sources": [
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-10-15/warracknabeal-wind-farm-clears-victorian-approvals/107263312"
+        },
+        {
+          "outlet": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/australia-s-victoria-state-approves-country-s-largest-wind-power-project"
+        }
+      ],
+      "original_titles": [
+        "Victoria approves biggest wind farm in southern hemisphere",
+        "Australia’s Victoria State Approves Country’s Largest Wind Power Project"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ochrana přírody je blíž cíli 30 procent, než se čekalo",
+      "summary_cs": "Studie v časopisu Nature odhaduje, že chráněná území a další efektivně spravované oblasti pokrývají na souši zhruba 26,8 procenta planety, zatímco oficiální statistiky uvádějí 18,5 procenta. Vědci vycházeli ze vzorku 25 zemí a území a zahrnuli národní databáze, které globální přehledy dosud nezachycovaly. Cíl z Kunmingu a Montrealu přitom požaduje dosáhnout 30 procent do roku 2030. Autoři zároveň upozorňují, že přidaná plocha výrazně nepokrývá ekologickou reprezentativnost, takže se musí zaměřit i na kvalitu a propojení chráněných sítí.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03081-4"
+        },
+        {
+          "outlet": "Studie: SSRN Electronic Journal",
+          "url": "https://doi.org/10.2139/ssrn.3187388"
+        }
+      ],
+      "original_titles": [
+        "The world is closer to a major conservation target than scientists thought",
+        "Lay of the land: terrestrial conservation efforts cover a wider area than thought",
+        "Global conservation area coverage substantially exceeds current estimates",
+        "Agricultural Suitability and Colonization Choices"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 7,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) covers the global mangrove data; the primary MISHTI page describes India's scheme and does not support the core figures.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Mangroves gain ground globally, marking turnaround after decades of loss",
+        "Programmes & Schemes"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) covers the Belize plan; the IUCN page is generic and does not support the specific facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Belize looks to the deep sea to complete its 30% ocean protection pledge",
+        "The IUCN Green List is a global campaign for successful nature conservation. At its heart is the Green List Sustainability Standard that provides a gl"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Health news about a pope's cancer surgery is not genuinely positive news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A New World of Lung Cancer Therapy Awaits Pope Leo",
+        "Surgery confirms Pope Leo has lung cancer; doctors removed the lower lobe of his right lung"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Zdravé korály dokážou oživit vybělené sousedy, ukázala studie",
+      "summary_cs": "Vědci ze Stanfordovy univerzity zjistili, že vybělené korály se v laboratoři zotaví, pokud se několik dní dotýkají zdravého kusu stejného jedince. Zdravé řasy, tzv. symbionty, se přes propojenou tkáň přesunou k bělejícímu korálu a vrátí mu barvu. Již tři až pět dní kontaktu stačilo k výraznému oživení korálů druhu Pocillopora damicornis. Metoda funguje jen u geneticky shodných korálů, jinak se korály vzájemně žahají. Studie vyšla 14. října v časopisu Science Advances a autoři chtějí myšlenku zkusit přenést do přírodních útesů.",
+      "region_cs": "USA, Stanford",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/healthy-corals-help-bleached-neighbours-regain-colour-study"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/15/theyre-not-dead-yet-bleached-corals-recover-in-record-time-after-touching-healthy-clones"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html"
+        },
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone"
+        },
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03266-x"
+        }
+      ],
+      "original_titles": [
+        "‘They’re not dead yet’: Bleached corals recover in record time after touching healthy clones",
+        "Healthy corals help bleached neighbours regain colour: Study",
+        "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds",
+        "Coral can heal rapidly from bleaching—if it touches a clone",
+        "‘Incredible’: bleached corals thrive within days when touching healthy neighbour"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 102694,
+    "output_tokens": 15087,
+    "cost_usd": 0.0178129
+  },
+  "buttondown_id": "em_6vpppyxxf59pf9gepzatb56c4f",
+  "sent_live": true
+}
