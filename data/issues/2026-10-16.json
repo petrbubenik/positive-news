@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-16",
+  "note": "",
+  "stories": [
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ukrajina testuje sanitní dron StarGate, který má z bojiště vyzvedávat raněné",
+      "summary_cs": "Ukrajinská firma SkyFall představila dron StarGate, který má dopravovat raněné vojáky z míst nepřístupných pozemním vozidlům. Stroj unese až 150 kilogramů a dosahuje rychlosti až 105 km/h, dokáže přelétat minová pole i řeky. Podle výrobce může zkrátit evakuaci z hodin nebo dnů na pouhé minuty. Prototyp byl předán bojové brigádě k testování v podmínkách fronty. Výsledky zatím nejsou zveřejněny a nebyly nezávisle ověřeny. Nápad podle výrobce vzešel přímo od velitele jednotky, který hledal bezpečnější způsob evakuace.",
+      "region_cs": "Ukrajina",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-evacuation-drone-stargate-skyfall-b3067677.html"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/10/16/ukraine-unveils-flying-ambulance-drone-that-could-save-lives-in-minutes"
+        }
+      ],
+      "original_titles": [
+        "Ukraine unveils flying ambulance drone that could save lives in minutes",
+        "Ukraine testing new ‘evacuation drone’ that rescues wounded soldiers from battlefield"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Korály poškozené bělením se zotavují rychleji při dotyku se zdravými klony",
+      "summary_cs": "Vědci zjistili, že korály poškozené bělením se mohou výrazně rychleji zotavit, pokud přijdou do přímého kontaktu se zdravými korály stejného genetického původu. Podle studie, na kterou upozornil časopis Science, dokážou poškozené korály znovu osídlit svou tkáň již za čtyři týdny. Mechanismus, který vědci označují jako algovou transfuzi, může podle nich pomoci při ochraně korálových útesů. Výsledky jsou zatím známy z krátkých zpráv a souhrnů.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html"
+        }
+      ],
+      "original_titles": [
+        "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds",
+        "Coral can heal rapidly from bleaching—if it touches a clone"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vědci upravili imunitní receptory rostlin, které mohou chránit obilí před plísní",
+      "summary_cs": "Vědci z britského institutu John Innes Centre a japonské univerzity v Kobe upravili přirozené imunitní receptory rostlin tak, aby rozpoznávaly více původců plísňových chorob najednou. Cílem je houba Magnaporthe oryzae, která způsobuje nejzávažnější plísňovou chorobu rýže a ohrožuje také pšenici a ječmen v Asii a Africe. Každý rok zničí dost rýže na uživení zhruba 60 milionů lidí. Výsledky vyšly v časopise Science Advances. Zatím jde o pokusy na buňkách, nikoli na celých rostlinách, ale otevírají cestu k odolnějším plodinám.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm"
+        },
+        {
+          "outlet": "jic.ac.uk",
+          "url": "https://jic.ac.uk/press-release/can-this-biotech-innovation-halt-the-destructive-march-of-a-cereal-killer/"
+        }
+      ],
+      "original_titles": [
+        "A fungus is threatening the world’s food supply. Scientists just found a new defense",
+        "Can this biotech innovation halt the destructive march of a cereal killer?"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dinosaurus ležící sto let v londýnském muzeu je novým druhem",
+      "summary_cs": "Zlomek lebky, který téměř sto let ležel ve sbírkách londýnského Přírodovědného muzea, patří dosud neznámému druhu dinosaura. Vědci z University College London jej pojmenovali Invictibellatrix amberina a jde o vůbec první doložený zástupce megaraptorů v Evropě. Tento dravec z příbuzenstva tyranosaurů žil před zhruba 120 miliony let, měřil 3 až 4 metry a lovil menší dinosaury, ještěrky a savce. Fosílie byla nalezena na ostrově Isle of Wight a do muzea se dostala v roce 1924. Studie vyšla v časopise Royal Society Open Science.",
+      "region_cs": "Velká Británie, Isle of Wight",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/16/dinosaur-fossil-hidden-in-londons-natural-history-museum-for-100-years-identified-as-new-s"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/new-dinosaur-species-invictibellatrix-amberina-fossil-overlooked-100-years/"
+        },
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014015457.htm"
+        }
+      ],
+      "original_titles": [
+        "Dinosaur fossil hidden in London’s Natural History Museum for 100 years identified as new species",
+        "Fossil overlooked for 100 years ID'd as new dinosaur species",
+        "A forgotten fossil reveals a fearsome dinosaur with giant claws"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nejstarší londýnská restaurace Rules přechází pod ochranu National Trust",
+      "summary_cs": "Nejstarší londýnská restaurace Rules v Covent Garden, otevřená v roce 1798, připadne díky daru národní památkové organizaci National Trust. Dosavadní majitel budovy J. P. Mayhew věnuje dům spolu se sbírkou předmětů, které zdobí jeho stěny, a s nájmem z provozu restaurace. Hodnota daru je odhadována na 11 milionů liber, tedy přibližně 14 milionů dolarů. Provozovatel Ricky McMenemy zůstane nájemcem a restaurace bude nadále fungovat. Trust chce zajistit, aby podnik a jeho interiér zůstaly zachovány pro další generace.",
+      "region_cs": "Velká Británie, Londýn",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644"
+        },
+        {
+          "outlet": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html"
+        }
+      ],
+      "original_titles": [
+        "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+        "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+        "Building housing London's oldest restaurant is donated to a conservation charity"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 7,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) supports the core facts on global mangrove gains; the other source is a generic Indian government scheme page that does not back the global data.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Mangroves gain ground globally, marking turnaround after decades of loss",
+        "Programmes & Schemes"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "U Turecka objevili nejstarší známý vrak lodi, je starý přes 4 400 let",
+      "summary_cs": "Turečtí archeologové z univerzity Akdeniz objevili u pobřeží Turecka vrak lodi, který podle nich patří mezi nejstarší dosud nalezené ztroskotané lodě. Stáří se odhaduje na 4 400 až 4 700 let, tedy přibližně na dobu výstavby egyptských pyramid v Gíze. Loď byla asi deset metrů dlouhá a převážela nádoby na olej nebo víno, které byly pravděpodobně vyrobeny v oblasti Jordánského údolí. Na dně se našly také kamenné kotvy a některé nádoby stále obsahují stopy původního nákladu. Vědci doufají, že vrak přinese nové poznatky o starobylém obchodu ve Středomoří.",
+      "region_cs": "Turecko, Středozemní moře",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/worlds-oldest-shipwreck-found-turkey-archaeologists/"
+        },
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/scientists-discover-an-ancient-shipwreck-dating-to-when-the-great-pyramid-was-built/"
+        }
+      ],
+      "original_titles": [
+        "Scientists discover an ancient shipwreck dating to when the Great Pyramid was built",
+        "​World's oldest shipwreck found off Turkey's coast, archaeologists say"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 96345,
+    "output_tokens": 14575,
+    "cost_usd": 0.016922
+  },
+  "buttondown_id": "em_3det99qt418r486v1fw3p2vk8h",
+  "sent_live": true
+}
