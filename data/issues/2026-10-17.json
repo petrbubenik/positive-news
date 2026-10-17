@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-17",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 8,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Odlesňování v brazilské Amazonii je nejnižší od roku 1988",
+      "summary_cs": "Odlesňování v brazilské části Amazonského pralesa kleslo od srpna 2025 do července 2026 na nejnižší úroveň od roku 1988, kdy začala měření. Podle dat vesmírné agentury Inpe bylo vykáceno 3 335 kilometrů čtverečních lesa, o 42 procent méně než předchozí rok. Odlesňování výrazně klesá i v savaně Cerrado, kde úbytek lesa spadl o 24 procent. Ministr životního prostředí Joao Paulo Capobianco označil pokles za „naprosto strmý“ a ekologové za historický úspěch. Prezident Lula da Silva si vytyčil cíl nulového nelegálního odlesňování do roku 2030. Výsledky přicházejí jen osm dní před druhým kolem prezidentských voleb 25. října, v nichž Lula svádí těsný souboj s Flávio Bolsonarem.",
+      "region_cs": "Brazílie, Amazonie",
+      "sources": [
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/americas/2026/10/17/deforestation-in-brazils-amazon-falls-to-all-time-low-ahead-of-pivotal-election-vote/"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/10/amazon-deforestation-falls-42-to-a-record-low/"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/deforestation-in-brazil-amazon-hits-nearly-four-decade-low"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441"
+        }
+      ],
+      "original_titles": [
+        "Deforestation in Brazil’s Amazon falls to all-time low ahead of pivotal election vote",
+        "Brazil’s Amazon deforestation hits lowest level on record",
+        "Brazil sees record fall in Amazon deforestation as key election looms",
+        "Brazil: Amazon deforestation lowest in nearly 40 years",
+        "Amazon deforestation falls 42% to a record low",
+        "Deforestation in Brazil Amazon hits nearly four-decade low",
+        "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+        "Brazil says Amazon deforestation fell to the lowest level since 1988"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news feature supports the core story about northeastern US dam removals; the NPS page covers only the Elwha River and does not back the broader claims.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
+        "American expansion spurred a continual demand for lumber. The growth of the logging industry in the region brought rapid change to the Olympic Peninsu"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news article covers the sponge cities story; the EU page tracks the Water Resilience Strategy generally and does not mention the Sponge Facility or sponge city projects.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Europe’s sponge cities are turning rain from waste into a valuable resource",
+        "This page tracks the progress made in the implementation of the main actions foreseen in the European Water Resilience Strategy."
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 90894,
+    "output_tokens": 9207,
+    "cost_usd": 0.013692900000000001
+  },
+  "buttondown_id": "em_5wpjs9tz5p98f82mj5fx50bmmz",
+  "sent_live": true
+}
