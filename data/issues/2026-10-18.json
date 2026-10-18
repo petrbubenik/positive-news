@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-18",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Rovníková Guinea rozšiřuje plán na vymýcení malárie na pevninu",
+      "summary_cs": "Rovníková Guinea chce po úspěchu na ostrově Bioko vymýtit malárii i na své pevninské části. Na ostrově se díky dvěma desetiletím sběru dat, stabilnímu financování a práci terénních pracovníků, kteří chodí od domu k domu, podařilo výskyt nákaz i úmrtí výrazně snížit. Program zahrnuje stříkání domů proti komárům, moskytiéry a kontrolu larev. Přenosu brání nepropustné hranice a rozsáhlé území, takže úkol je náročný. Světová zdravotnická organizace uvádí, že v roce 2024 zemřelo na malárii zhruba 610 tisíc lidí, z toho 95 procent v Africe.",
+      "region_cs": "Rovníková Guinea",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/equatorial-guinea-expanding-ambitious-malaria-elimination-plan-137357434"
+        },
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/malaria-equatorial-guinea-vaccines-r21-bioko-oil-6478c585067f176c2f17e83704a21a30"
+        }
+      ],
+      "original_titles": [
+        "Equatorial Guinea is expanding an ambitious malaria elimination plan",
+        "Equatorial Guinea is expanding an ambitious malaria elimination plan"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vědci z USC našli způsob, jak obnovovat zdroj buněk proti rakovině",
+      "summary_cs": "Vědci z University of Southern California (USC) popsali způsob, jak dlouhodobě pěstovat a geneticky upravovat progenitorové buňky, z nichž vznikají makrofágy, tedy imunitní buňky schopné napadat nádory. Na rozdíl od zralých makrofágů se tyto buňky dají ve velkém množit v laboratoři a zůstávají schopny vytvářet funkční imunitní buňky. V pokusech na myších se upravené buňky usadily v kostní dřeni, tvořily nové imunitní buňky a zpomalily vývoj leukemií i pevných nádorů. Studie vyšla v časopise Cell a otevírá cestu k dostupnějším imunoterapiím, zatím však jde o výzkum na zvířatech.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm"
+        },
+        {
+          "outlet": "stemcell.keck.usc.edu",
+          "url": "https://stemcell.keck.usc.edu/renewable-cell-source-for-cancer-immunotherapy-and-beyond/"
+        }
+      ],
+      "original_titles": [
+        "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+        "Researchers develop a way to grow and genetically engineer the progenitor cells that give rise to macrophages, a type of first-responder immune cell t"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dárce urazil 300 km, aby zachránil tříletého chlapce se vzácnou krevní skupinou",
+      "summary_cs": "Dárce krve z indického státu Karnátaka urazil více než 300 kilometrů z Chikkamagaluru do Dharwadu, aby daroval krev tříletému chlapci se vzácnou krevní skupinou Bombay. Chlapec trpí dědičnou poruchou srážlivosti a po silném krvácení mu výrazně klesl hemoglobin. Krev odpovídající jeho skupině se najde jen výjimečně, proto nadace Swami Vivekananda Blood Donors Foundation hledala vhodného dárce mezi vzácnými dárci. Případ ukazuje, jak důležitá je koordinace mezi dárci vzácných krevních skupin. Dárce strávil na cestě přes pět hodin a krev byla v nemocnici SDM úspěšně podána.",
+      "region_cs": "Indie, Karnátaka",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/karnataka/man-travels-300-km-to-donate-blood-to-child-with-rare-blood-group/article71596728.ece"
+        },
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/hubballi/man-travels-300km-to-donate-bombay-blood-to-save-3-year-old/articleshow/135017376.cms"
+        }
+      ],
+      "original_titles": [
+        "Man travels 300 km to donate blood to child with rare blood group in Karnataka",
+        "Man travels 300km to donate Bombay blood to save 3-year-old"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "tech",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one non-primary source (ScienceDaily aggregator); the underlying paper was published in February 2026, so the October coverage is a resurfaced press release of older research.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Stanford’s new microscope reveals living cells like never before",
+        "Interferometric Image Scanning Microscopy for label-free imaging at 120 nm lateral resolution inside live cells"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Procedural step only: the bill was referred to a committee amid opposition objections; the other source is an opinion piece, so the good news is not clearly established.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Towards an age-ready Keralam: translating rights into care",
+        "Keralam Senior Citizens Bill referred to Assembly Subject Committee",
+        "Explained: Keralam bill proposes first-of-its-kind framework to regulate elderly care"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Results are from animal studies and the underlying paper dates from May 2026; only one non-primary source (ScienceDaily aggregator), so this is resurfaced older research with insufficient news coverage.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "New drug reverses severe fatty liver disease by repairing the gut",
+        "Metabolic dysfunction–associated steatohepatitis exacerbated by Clostridium perfringens–derived ammonia is attenuated by tripeptide DT-109"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "The only other source (a Nigerian park service page) concerns Kainji Lake National Park and does not support the Gashaka-Gumti story, so there is only one relevant source.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Nigeria drove thousands of gold miners from a national park. But can it keep them out?",
+        "The Nation’s premier National Park was established by the amalgamation of two former game reserves-Borgu and Zugurma in 1976 and the legal instrument "
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 78376,
+    "output_tokens": 10112,
+    "cost_usd": 0.012893600000000002
+  },
+  "buttondown_id": "em_364v3jneba8a8bs3wpmk5r6ds1",
+  "sent_live": true
+}
