@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-19",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Indie zastropovala marže na 137 léků proti rakovině, ceny klesnou až o 70 %",
+      "summary_cs": "Indická vláda omezila obchodní marži u 137 léků proti rakovině, které nejsou na seznamu regulovaných léků. Národní úřad pro tvorbu cen léčiv (NPPA) stanovil strop marže na 30 % maximální prodejní ceny, což podle úřadu povede ke snížení cen až o 70 % v závislosti na původní cenové struktuře. Nové ceny začnou platit 9. listopadu. Úřad připomněl, že podobný postup v roce 2019 snížil ceny 526 značek léků až o 90 %. Kritici upozorňují, že samotné opatření nemusí snížit náklady na léčbu, protože nemocnice mohou navýšit ceny jiných položek, například spotřebního materiálu nebo vyšetření.",
+      "region_cs": "Indie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/govt-caps-trade-margins-on-137-anti-cancer-drugs/article71597447.ece"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.msn.com/en-in/news/India/government-caps-trade-margin-for-137-cancer-drugs-at-30-prices-likely-to-fall-by-up-to-70/ar-AA2et1ao"
+        }
+      ],
+      "original_titles": [
+        "Govt. caps trade margins on 137 anti-cancer drugs",
+        "Government caps trade margin for 137 cancer drugs at 30%, prices likely to fall by up to 70%"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Protein TIMP2 chrání mozkové imunitní buňky před stárnutím",
+      "summary_cs": "Vědci z Mount Sinai School of Medicine v USA objevili protein TIMP2, který pomáhá udržovat zdravé mozkové imunitní buňky zvané mikroglie. Bez něj tyto buňky získávaly rysy typické pro stárnutí a hůře odstraňovaly odpadní látky. Když vědci protein dodali starším myším do krevního oběhu, mikroglie lépe čistily tkáň a projevovaly méně známek zánětu. Výsledky, publikované v časopise Nature Communications, naznačují, že by TIMP2 mohl v budoucnu přispět k léčbě stárnutí mozku a Alzheimerovy choroby. Autoři zdůrazňují, že jde o studii na myších a že jsou potřeba další výzkumy.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/science/aging-brain-immunity-youth-protein-b3068917.html"
+        },
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm"
+        }
+      ],
+      "original_titles": [
+        "The ‘youth protein’ that protects brain cells from age-related decline",
+        "Scientists find a youth protein that helps aging brain cells act young again"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one source (Mongabay) supports the core facts about the miners' removal; the NPS page is about the park's history and does not cover the closure.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Nigeria drove thousands of gold miners from a national park. But can it keep them out?",
+        "The Nation’s premier National Park was established by the amalgamation of two former game reserves-Borgu and Zugurma in 1976 and the legal instrument "
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "The story is framed mainly around a wildfire disaster and habitat loss; the rescues are a minor positive detail rather than the genuine core of the news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+        "Dozens of orangutans saved from Indonesia blazes as region grapples with haze"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "No news article supports the finding; it rests on a ScienceDaily repost of a press release plus a paper whose abstract was unavailable, so the core claims are not verified.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+        "Connectomic Determinants of Subcallosal Cingulate Deep Brain Stimulation for Depression"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Animal-only study whose underlying paper was published in May 2026; the October coverage appears to be resurfacing older research, and no news outlet supports it.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "New drug reverses severe fatty liver disease by repairing the gut",
+        "Metabolic dysfunction–associated steatohepatitis exacerbated by Clostridium perfringens–derived ammonia is attenuated by tripeptide DT-109"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Theoretical quantum physics result with no clear positive impact; coverage is essentially one university press release reposted, with no independent news source.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Physicists create a bizarre new quantum state called a fractional fermi sea",
+        "By driving quantum particles, here ultracold Cesium atoms under one-dimensional confinement, far out of equilibrium through cyclic changes of the part"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 78298,
+    "output_tokens": 13380,
+    "cost_usd": 0.014519800000000001
+  },
+  "buttondown_id": "em_6jnxcq3chy8sfryag23kd66r78",
+  "sent_live": true
+}
