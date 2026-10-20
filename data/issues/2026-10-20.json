@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-20",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nadchod pro zvěř v Coloradu snížil počet srážek aut se zvěří o 91 procent",
+      "summary_cs": "Colorado hlásí výrazný úspěch systému pro zvěř u dálnice Interstate 25. Nadchod nad šesti jízdními pruhy, doplněný osmistopými ploty a pěti podchody, snížil počet srážek aut se zvěří o 91 procent. Před výstavbou připadala na tento úsek v průměru jedna taková nehoda denně. Most, který se otevřel v prosinci 2025 a je největší svého druhu v Severní Americe, spojuje 39 tisíc akrů stanovišť. Přecházejí po něm jeleni, vidloroh americký i zajíci a žáby, a úřady chtějí podobné stavby postavit i na dalších místech státu.",
+      "region_cs": "USA, Colorado",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results"
+        },
+        {
+          "outlet": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/how-colorados-wildlife-mitigation-efforts-including-the-largest-animal-crossing-overpass-in-north-america-are-making-everyone-safer-180989704/"
+        }
+      ],
+      "original_titles": [
+        "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+        "How Colorado's Wildlife Mitigation Efforts—Including the Largest Animal Crossing Overpass in North America—Are Making Everyone Safer"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Kvantové počítače se přiblížily spolehlivosti, firma Quantinuum míří k roku 2029",
+      "summary_cs": "Firma Quantinuum oznámila technický milník, který podle ní vede k plně přesným a spolehlivým kvantovým počítačům do roku 2029. Užitečné kvantové stroje budou potřebovat velký počet takzvaných logických kvantových bitů, jejichž spolehlivost vědci nedávno posunuli na nový rekord, jak uvádí list New Scientist. Oba zdroje popisují posun jako důležitý krok k praktickému využití kvantových počítačů. Termín 2029 je cílem společnosti, nikoli potvrzeným výsledkem.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "url": "https://www.msn.com/en-us/news/other/quantinuum-sees-path-to-fault-tolerant-quantum-computing-by-2029-with-new-milestone/ar-AA2fzQbL"
+        }
+      ],
+      "original_titles": [
+        "Error-correction record pushes quantum computers closer to usefulness",
+        "Quantinuum sees path to fault-tolerant quantum computing by 2029 with new milestone"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Japonská sonda MMX vyrazila pro vzorky z Marsova měsíce Phobos",
+      "summary_cs": "Japonská agentura JAXA odstartovala z vesmírného střediska Tanegašima misi MMX, jejímž cílem je dopravit na Zemi vzorky z Phobothough, většího z měsíců Marsu. Raketa H3 vynesla sondu v úterý brzy ráno a hodinu po startu se oddělila od horního stupně. Sonda by měla dorazit k Marsu v srpnu 2027, na Phobosu odebere nejméně deset gramů materiálu a vrátí se na Zemi v roce 2031. Mise má zodpovědět otázku, zda vznikly měsíce po srážce s velkým tělesem, nebo jsou zachycené planetky. Na povrch měsíce také dopraví malý francouzsko-německý vozítko Idefix.",
+      "region_cs": "Japonsko",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/10/20/japan-launches-mission-to-bring-back-samples-from-marss-moon-phobos"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss"
+        },
+        {
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/japan-launches-ambitious-robotic-mission-to-land-on-martian-moon-phobos-return-samples-to-earth/"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/19/science/mmx-mars-moons-jaxa-launch.html"
+        },
+        {
+          "outlet": "Sky News",
+          "url": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139"
+        },
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/japans-mission-to-collect-rocks-from-mars-moon-phobos-achieves-liftoff/"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/"
+        },
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/asia-pacific/2026/10/19/japan-leads-mission-to-make-first-return-trip-to-mars/"
+        },
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/japan-to-launch-mmx-to-phobos-to-collect-moon-samples/article71599258.ece"
+        }
+      ],
+      "original_titles": [
+        "Japan launches mission to bring back samples from Mars’s moon Phobos",
+        "Japan probe sets course for Mars moon",
+        "Japan launches unprecedented mission to bring back samples from Mars' moon Phobos",
+        "Japan launches historic mission to bring back Mars moon samples",
+        "Japan launches probe in historic bid to collect sample from Mars moon",
+        "Japan launches mission to explore Mars' moons and bring back samples",
+        "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+        "Japan launches ambitious robotic mission to Martian moon Phobos",
+        "A Japanese Spacecraft Aims to Bring Back a Bit of a Martian Moon",
+        "Japan launches mission to Mars to bring back samples from its moon",
+        "Japan launches a probe to collect rocks from Mars’s moon Phobos",
+        "Mission blasts off for Mars to grab a piece of its moon",
+        "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+        "Japan leads mission to make first return trip to Mars",
+        "The first mission to sample Mars’s moons launches today",
+        "Japan to launch spacecraft on a mission to get samples from a Martian moon"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one news-type source (an aggregator copy of The Conversation article); the 2003 primary paper supports the underlying science but not the 2026 Nobel prize announcement.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists win 2026 Nobel Prize for controlling brain cells with light",
+        "Channelrhodopsin-2, a directly light-gated cation-selective membrane channel"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Not genuinely positive for a positive-news newsletter: the good news is a military tactic in an active war, and the claim of 'first ever' is only the Ukrainian army's own claim.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Extraordinary footage shows Ukraine carry out first ever drone airlift of wounded soldier from frontline",
+        "Ukraine carries out first drone airlift of wounded soldier from front line",
+        "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+        "Ukraine claims world’s first drone evacuation of wounded soldier"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one source covers the AI alarm-call study; the frontiersin abstract concerns a separate questionnaire survey on human-tiger conflict and does not back the news report.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "In Nepal, AI builds on local knowledge to help prevent tiger attacks",
+        "Abstract"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 103342,
+    "output_tokens": 12255,
+    "cost_usd": 0.016461700000000003
+  },
+  "buttondown_id": "em_2qp011vsww8gnsy9qkysfs8ddb",
+  "sent_live": true
+}
