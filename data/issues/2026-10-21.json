@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-21",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vědci popsali nový podtyp deprese spojený s narušením vnitřních hodin",
+      "summary_cs": "Australští vědci popsali nový podtyp deprese, takzvanou „cirkadiální depresi“, která souvisí s narušením vnitřních biologických hodin člověka. Studie vyšla v časopisu British Journal of Psychiatry a zahrnovala genetická a klinická data 11 380 Australanů s převážně těžkou a opakující se depresí. Přibližně čtvrtina z nich, konkrétně 2604 lidí, splnila kritéria tohoto podtypu. U těchto pacientů se slaběji uplatňují běžná antidepresiva, zato na ně mohou lépe zabírat léčba zaměřená na cirkadiální rytmus, například melatonin nebo světelná terapie. Autoři zatím upozorňují, že výsledky je třeba ověřit na rozmanitějším vzorku.",
+      "region_cs": "Austrálie",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/science/circadian-sleep-cycle-depression-type-b3070557.html"
+        },
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.newscientist.com/article/2594761-1-in-4-cases-of-depression-may-be-caused-by-off-kilter-body-clocks/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        },
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03359-7"
+        }
+      ],
+      "original_titles": [
+        "One in four people with depression may suffer from this new type",
+        "1 in 4 cases of depression may be caused by off-kilter body clocks",
+        "Australian researchers identify new subtype of depression linked to body clock disruptions",
+        "Body clock disruptions contribute to one in four cases of depression, suggests large study"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ukrajinská armáda evakuovala raněného vojáka z frontu dronem",
+      "summary_cs": "Ukrajinská armáda oznámila, že poprvé na světě evakuovala raněného vojáka z frontové linie pomocí těžkého dronu. Podle 92. útočné brigády nebylo možné použít pozemní záchranu, protože voják byl obklopen minami a nad územím létalo mnoho ruských dronů. Konstantyn Vlasenko byl téměř 500 dní uvězněn na jedné pozici. Samotný let trval asi hodinu a čtvrt a přípravy sedm dní, na akci se podílely čtyři brigády. Hexakoptéra původně určená k bombardování byla upravena tak, aby člověka bezpečně přenesla. Výrobce však upozorňuje, že letecká evakuace zůstane až poslední možností.",
+      "region_cs": "Ukrajina",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-evacuation-soldier-aerial-drone-apparent-world-first/"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310"
+        }
+      ],
+      "original_titles": [
+        "Ukraine's military evacuates wounded soldier with aerial drone",
+        "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+        "Ukraine claims world’s first drone evacuation of wounded soldier"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news article (Mongabay) supports the dolphin population news; the other source is a dam-nutrition study that does not back the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Six new calves offer hope amid ongoing threats to Cambodia’s Irrawaddy dolphins",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news interview (Mongabay) covers the Kila mine closure; the UNESCO page is a general park description that does not support the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Nigeria’s parks chief stresses conservation gains amid struggle to protect wildlife",
+        "Gashaka Gumti National Park"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "The supporting primary paper was published in Nature Communications on 2025-11-20, so this is old research resurfacing; the aggregator is the only news-type source.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists finally uncover why statins can cause muscle pain",
+        "Cryo-electron microscopy reveals sequential binding and activation of Ryanodine Receptors by statin triplets"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news article (Mongabay) covers the Nepal AI study; the linked primary paper concerns human-tiger conflict surveys and does not support the AI findings.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "In Nepal, AI builds on local knowledge to help prevent tiger attacks",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the Nature news piece carries a 2025 DOI (d41586-025) and cites a 2025 paper, so the study predates today's date.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Just 3,000 steps a day may help slow Alzheimer's, scientists find",
+        "- NEWS"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 102524,
+    "output_tokens": 11144,
+    "cost_usd": 0.0158244
+  },
+  "buttondown_id": "em_6h5wx68gqw9q2rfv7bgh6c71z8",
+  "sent_live": true
+}
