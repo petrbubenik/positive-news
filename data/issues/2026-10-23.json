@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-23",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 9,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Personalizovaná vakcína proti melanomu snižuje riziko návratu nemoci o 42 %",
+      "summary_cs": "Personalizovaná mRNA vakcína proti melanomu, nazvaná intismeran, výrazně snižuje riziko návratu nádoru nebo úmrtí pacienta. Ve velké klinické studii, do které bylo zapojeno 1 137 dospělých po chirurgickém odstranění nádoru, dostávali všichni pacienti imunoterapii pembrolizumabem a část z nich navíc vakcínu šitou na míru nádoru každého člověka. Po dvou letech měli ti, kteří vakcínu dostali, o 42 procent nižší riziko recidivy nebo úmrtí než skupina s pouhou imunoterapií. Výsledky připravili vývojáři z firem MSD a Moderna spolu s australskými vědci a schvalování regulátory by mohlo přijít příští rok. Odborníci však upozorňují, že o celkovém přežití zatím nelze nic potvrdit.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/23/well/first-of-its-kind-vaccine-ushers-in-new-hope-for-cancer-patients.html"
+        },
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia"
+        },
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03417-0"
+        },
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/heres-what-modernas-latest-mrna-cancer-vaccine-data-actually-show/"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/mrna-cancer-vaccine-moderna-merck-b3071828.html"
+        }
+      ],
+      "original_titles": [
+        "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
+        "First personalised cancer vaccine cuts risk of disease returning in major trial",
+        "Australia at the heart of 'transformational' cancer vaccine breakthrough",
+        "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
+        "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+        "Here’s what Moderna’s latest mRNA cancer vaccine data actually show",
+        "mRNA cancer vaccine slashes melanoma death or recurrence risk by 42%"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Fond OSN pro ztráty a škody poskytne Nepálu první peníze pro konkrétní zemi",
+      "summary_cs": "Fond OSN pro ztráty a škody poprvé v historii vyčlenil peníze konkrétní zemi. Rada fondu na mimořádném zasedání 22. října schválila pro Nepál 21,6 milionu dolarů na obnovu po srpnových záplavách, které způsobila lavina ledu a skály spojená s klimatickou změnou. Nepálská vláda přitom odhaduje minimální potřeby na obnovu přes čtyři miliardy dolarů, takže je částka jen zlomkem. Peníze navíc poteče až po schválení konkrétních projektů, o kterém rozhodne rada v prosinci. Kroky označované za historické mohou být testem důvěryhodnosti fondu před klimatickou konferencí COP31 v Turecku.",
+      "region_cs": "Nepál",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3371840/nepal-set-receive-first-ever-us20-million-payout-un-climate-damage-fund"
+        }
+      ],
+      "original_titles": [
+        "What is the importance of the UN Loss and Damage Fund’s payout to Nepal? | Explained",
+        "Nepal set to receive first-ever US$20 million payout from UN climate damage fund",
+        "UN climate damages fund earmarks $20 million to Nepal for August disaster"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Řecko zakáže sociální sítě dětem do patnácti let",
+      "summary_cs": "Řecký parlament schválil zákon, který od 1. ledna 2027 zakáže používání sociálních sítí dětem mladším patnácti let. Pro zákon hlasovala jen vládní Nová demokracie, opozice byla proti, PASOK se zdržel. Platformy mají do začátku roku ověřit, zda jsou jejich účty a služby určeny dospělým. K ověřování věku má sloužit aplikace Kid's Wallet, která podle ministra digitální správy neposkytne žádné osobní údaje kromě toho, zda je uživatel starší patnácti let. Řecko je jednou ze sedmi zemí EU, které se snaží s Evropskou komisí najít řešení ověřování věku. Cílem je omezit nekonečné scrollování, které dětem bere spánek i soustředění.",
+      "region_cs": "Řecko",
+      "sources": [
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/greece-passes-social-media-ban-for-children-under-15"
+        }
+      ],
+      "original_titles": [
+        "Greece joins countries putting age-limits on social media, banning access for kids under 15",
+        "Greece passes social media ban for children under 15"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Rusko propustilo amerického učitele Stephena Hubbarda po čtyřech letech vězení",
+      "summary_cs": "Rusko propustilo amerického občana Stephena Hubbarda, 74letého bývalého učitele z Michiganu, který byl od roku 2022 vězněn za údajné žoldnéřství pro Ukrajinu. Hubbard, který je podle zpráv ve špatném zdravotním stavu, přiletěl do USA a měl být převezen na léčbu do vojenské nemocnice v Texasu. Jeho rodina poděkovala Putinovi a Trumpovi za propuštění a zároveň uvedla, že neexistují důkazy o jeho vojenské službě. Trump uvedl, že Rusko nic nežádalo na oplátku, kdežto Kreml popřel spekulace o výměně za ruského blogera. Propuštění přišlo v době jednání o ukrajinském konfliktu.",
+      "region_cs": "Rusko, USA",
+      "sources": [
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kremlin-says-russia-did-not-free-us-citizen-stephen-hubbard-in-exchange-for-a-russian-war-blogger"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/10/21/world/europe/who-stephen-hubbard-american-russia-prisoner-release.html"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735"
+        }
+      ],
+      "original_titles": [
+        "Kremlin says Russia did not free US citizen Stephen Hubbard in exchange for a Russian war blogger",
+        "Stephen Hubbard returns to U.S. after Russian detention",
+        "Son of Stephen Hubbard, American freed from Russian jail, speaks out",
+        "American Stephen Hubbard released by Russia, Trump confirms",
+        "Stephen Hubbard's son after his release from Russian prison: \"I want to embrace him\"",
+        "10/21: The Takeout with Major Garrett",
+        "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+        "Who Is Stephen James Hubbard, the American Released From Russian Jail?",
+        "Who is Stephen Hubbard, the retired American teacher freed by Russia?"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one aggregator source (based on a company-driven press release, full findings not yet published) supports the claimed results; the primary VA page covers PTSD prevalence, not the treatment.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "PTSD: National Center for PTSD"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Not genuinely positive news: a scientific reconstruction of Denisovan appearance is a curiosity, and the Nature briefing mentions it only briefly within a roundup.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Good to see you after all this time. Chinese scientists put a face to the Denisovans",
+        "Daily briefing: The tell-tale features of a Denisovan"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Mixed rather than clearly positive: the mayor has not yet signed the ban and the drivers' union has vowed legal action, so the outcome is contested.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Central Park’s horse-drawn carriages face ban as New York votes to end tourist attraction",
+        "New York bans horse-drawn carriages after decadelong battle",
+        "New York City bans horse-drawn carriages from June 2028",
+        "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 108422,
+    "output_tokens": 13088,
+    "cost_usd": 0.0173862
+  },
+  "buttondown_id": "em_00dy9d8h7n9jyrybh45rcc28f1",
+  "sent_live": true
+}
