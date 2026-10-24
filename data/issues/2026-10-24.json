@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-24",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "V Kongu začala první klinická studie vakcíny proti ebole",
+      "summary_cs": "Ve městě Bunia na severovýchodě Demokratické republiky Kongo začala první klinická studie vakcíny proti ebole během probíhající epidemie. Studie nese název Tumaini, což znamená ‚naděje‘ ve svahilštině, a zatím testuje vakcínu Ervebo, schválenou proti běžnějšímu kmenu viru Zaire. Cílem je zjistit, zda chrání i proti kmeni Bundibugyo, na který zatím neexistuje schválená vakcína ani léčba. Epidemie už překročila 9 700 případů a více než 4 600 úmrtí. Později se do studie zapojí dva kandidáti vyvíjení Oxfordskou univerzitou a společností Moderna. Světová zdravotnická organizace označila zahájení studie za důležitý krok.",
+      "region_cs": "Demokratická republika Kongo",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/ebola-vaccine-trial-begins-in-dr-congo/article71617960.ece"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/ebola-vaccine-trial-begins-in-democratic-republic-of-congo"
+        }
+      ],
+      "original_titles": [
+        "Ebola vaccine trial begins in DR Congo",
+        "Ebola vaccine trial begins in Democratic Republic of Congo"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Microsoftova AI diagnostikuje postupně jako lékař a je přesnější než praktici",
+      "summary_cs": "Výzkumníci z Microsoftu představili nástroj umělé inteligence, který diagnostikuje pacienty postupně, podobně jako lékaři: sám určuje, na co se ptát, jaká vyšetření nařídit a jak výsledky vyhodnotit. Ve studii zveřejněné v časopise Science byl při řešení více než 300 složitých lékařských případů více než dvakrát přesnější než praktičtí lékaři, kteří měli k dispozici učebnice a internet. Diagnostika podle výzkumníků zároveň stála méně než postup lidských lékařů. Nástroj bude nyní testován ve spolupráci s nemocnicí Beth Israel Deaconess v Bostonu, kde má pomoci třídit pacienty na pohotovostech.",
+      "region_cs": "USA, Celosvětově",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.msn.com/en-us/technology/artificial-intelligence/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/ar-AA2fUEGx"
+        }
+      ],
+      "original_titles": [
+        "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+        "Microsoft develops AI tool that can diagnose sequentially like a doctor"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nový postup pomůže předpovídat El Niño až s ročním předstihem",
+      "summary_cs": "Vědci z australské agentury CSIRO a Melbourne University zjistili, že spolehlivost předpovědí jevu El Niño a La Niña lze odhadnout podle stavu Tichého oceánu v době, kdy se předpověď sestavuje. Analýza více než 7 500 historických předpovědí z klimatických modelů devíti zemí ukázala, že prognózy začínané během La Niña fungují dobře i na rok dopředu. Tři modely správně předpověděly přechod k El Niño s ročním předstihem ve více než 70 procentech případů. Výzkum vyšel v časopise Science Advances. Autoři ale uvádějí, že k jeho zapracování do modelů používaných předpovědními agenturami zbývá ještě několik kroků.",
+      "region_cs": "Celosvětově, Tichý oceán",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/10/23/a-year-ahead-of-the-wrecking-ball-scientists-find-new-clue-to-predict-when-el-nino-will-st"
+        },
+        {
+          "outlet": "Studie: Science Advances",
+          "url": "https://doi.org/10.1126/sciadv.aeg8654"
+        }
+      ],
+      "original_titles": [
+        "A year ahead of the ‘wrecking ball’: Scientists find new clue to predict when El Niño will strike",
+        "Using initial states to identify successful El Niño–Southern Oscillation forecasts 1 year in advance"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Sources conflict on core facts: the White House says the ceasefire begins 29 October, while Russian and Ukrainian statements say fire stops at 02:00 GMT on 27 October. Sources also differ on how much of the brokering was Melania Trump's doing.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+        "Melania Trump says she brokered truce in war-torn Ukrainian city",
+        "Ukraine-Russia war latest: White House praises Melania Trump as Kyiv clarifies ceasefire details with Moscow",
+        "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+        "First Lady Melania Trump secures ceasefire for Ukrainian city",
+        "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+        "Melania Trump claims to have secured ceasefire for single Ukrainian town in surprising peace breakthrough",
+        "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+        "Melania Trump brokers ceasefire in Russian-occupied Ukraine city, White House says",
+        "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+        "Melania Trump secures ceasefire in Russian-occupied Ukrainian city of Oleshky, White House says"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the core of the coverage is a deadly school shooting with children and a teacher killed. The heroism is a minor framing against the grief, and the event happened on 15 October.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Hero dad who killed Oregon school shooter said children were ‘pleading for their lives’",
+        "‘There were ones I didn’t save:’ Father who killed Oregon school shooter describes anguish",
+        "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+        "Father who killed Oregon school gunman describes anguish over children he couldn't save"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one source (a ScienceDaily reprint of a Texas A&M press release) reports the PTSD treatment results; the VA page is background on PTSD prevalence and does not back the finding.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "PTSD: National Center for PTSD"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news outlet reports the award and its figures; the cited paper on trophy hunting outcomes does not mention the award, so the core facts lack two supporting sources. The story is also a minor company award on a controversial topic.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Mozambique safari operator wins conservation award at COP17",
+        "Outcomes of Trophy Hunting for People and Nature in Sub‐Saharan Africa"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 105227,
+    "output_tokens": 13638,
+    "cost_usd": 0.0173417
+  },
+  "buttondown_id": "em_34ntyk4j2w8f7sjras6as12m3w",
+  "sent_live": true
+}
