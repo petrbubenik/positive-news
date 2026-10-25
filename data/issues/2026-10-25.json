@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "note": "",
+  "stories": [
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Melania Trumpová zprostředkovala příměří v okupovaných Oleškách",
+      "summary_cs": "Americká první dáma Melania Trumpová podle Bílého domu zprostředkovala krátké příměří mezi Ruskem a Ukrajinou kolem okupovaného města Olešky na jihu Ukrajiny, kde několik měsíců chybí jídlo, léky, elektřina i voda. Příměří má umožnit dodání humanitární pomoci a následně evakuaci civilistů, zejména starších obyvatel, kteří chtějí město opustit. Podle ukrajinské ombudsmanky Lubinece se nejprve rozminují trasy do města. Před válkou tam žilo přibližně 24 000 lidí, dnes jich zůstává asi 2 000. Ruský mluvčí Peskov potvrdil, že lidé budou moci odejít. Vatikán připomíná, že o příměří usiloval i papež Leo XIV., což vyvolalo spor o zásluhy.",
+      "region_cs": "Ukrajina, Chersonská oblast",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/melania-trump-brokered-ceasefire-russian-occupied-oleshky-137535127"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-pope-leo-ukraine-ceasefire-b3072693.html"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/nightly-news/video/first-lady-melania-trump-secures-ceasefire-for-ukrainian-city-272143941767"
+        },
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/us/2026/10/23/ukraine-says-starlink-still-restricted-after-trump-says-limits-lifted/"
+        }
+      ],
+      "original_titles": [
+        "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky",
+        "Melania accused of hogging all the credit and ignoring Pope Leo’s role in securing Ukraine ceasefire",
+        "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
+        "First Lady Melania Trump secures ceasefire for Ukrainian city",
+        "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Miniaturní plavací robot poháněný živými svalovými buňkami",
+      "summary_cs": "Inženýři z MIT sestrojili tenkého plovoucího robota, jehož ploutve pohání vrstva živých svalových buněk. Buňky jsou geneticky upraveny tak, aby se stahovaly při osvětlení, a světlo na jednu nebo druhou ploutev robotovi umožňuje plavat a měnit směr. Robot projel jednoduchým podvodním bludištěm a jeho nejvyšší rychlost činí přibližně čtyřnásobek délky těla za minutu. Vědci uvádějí, že podobné tenké biohybridní roboty by mohly být levnější než dosavadní objemné konstrukce a jednou by mohly prozkoumávat křehké prostředí, kam běžné stroje nedosáhnou. Studie vyšla v časopise Advanced Functional Materials.",
+      "region_cs": "USA, Massachusetts",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm"
+        },
+        {
+          "outlet": "news.mit.edu",
+          "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"
+        }
+      ],
+      "original_titles": [
+        "MIT scientists build a tiny robot that swims using living muscle cells",
+        "Swimming can take a lot of muscle. But as MIT engineers have found, even a single layer of muscle cells can power through water if designed right."
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one news-type source (ScienceDaily reposting a university release) reports the 68% remission and 52% reduction figures, which are company claims from an unpublished trial. The VA page covers general PTSD statistics and does not support the treatment news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+        "PTSD: National Center for PTSD"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one source (ScienceDaily) covers the IBD antibody findings. The linked primary paper is a 2023 review on neutrophils and does not match the described study.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
+        "Neutrophils: from IBD to the gut microbiota"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news article (Mongabay) reports the award and wildlife figures, which Mongabay says it has not fully verified. The primary study on trophy hunting outcomes is a broader review that does not cover this award.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Mozambique safari operator wins conservation award at COP17",
+        "Outcomes of Trophy Hunting for People and Nature in Sub‐Saharan Africa"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news article (Smithsonian) covers the cassowary eggs. The linked primary page is a general species description and does not report the event.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "These Big, Fierce Birds Found Love in Australia—and Laid the First Southern Cassowary Eggs at the Adelaide Zoo in 34 Years",
+        "Physical Description"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the underlying EMBO Journal paper was published in January 2025, and the work is early basic research on cells, not a genuine breakthrough. Only one news-type source covers it.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Scientists discover a hidden switch that burns fat and blocks new fat cells",
+        "MTCH2 controls energy demand and expenditure to fuel anabolism during adipogenesis"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 86534,
+    "output_tokens": 9384,
+    "cost_usd": 0.013345400000000002
+  },
+  "buttondown_id": "em_3yvsywfcn185er2yjk2z46t23a",
+  "sent_live": true
+}
