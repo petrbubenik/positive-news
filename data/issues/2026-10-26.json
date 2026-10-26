@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-26",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Lak na zuby zastaví kazy bez vrtání, ukazuje velká studie",
+      "summary_cs": "Velká klinická studie v časopise JAMA Pediatrics potvrdila, že lak se stříbrem a fluoridem, tzv. SDF, dokáže zastavit zubní kaz bez vrtání, injekcí i anestezie. Testu se zúčastnilo 830 dětí do šesti let z Michiganu, New Yorku a Iowy, které dostávaly buď lék, nebo placebo. Přípravek se nanáší na zub během několika sekund malým houbičkovým aplikátorem. U 54 procent léčených kazů se po šesti měsících proces zastavil. Vedoucí studie Margherita Fontana z Michiganské univerzity uvádí, že léčba je účinná a bezpečná i u dětí od jednoho roku věku. Výsledky by mohly ušetřit tisíce dětí bolestivých zákroků.",
+      "region_cs": "Spojené státy",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm"
+        },
+        {
+          "outlet": "Studie: JAMA Pediatrics",
+          "url": "https://doi.org/10.1001/jamapediatrics.2026.2567"
+        }
+      ],
+      "original_titles": [
+        "A simple liquid can stop cavities without drilling, major study confirms",
+        "Efficacy of Silver Diamine Fluoride on Young Children With Severe Early Childhood Caries"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Burnham zdvojnásobí financování boje proti bezdomovectví na téměř 900 milionů liber",
+      "summary_cs": "Britský premiér Andy Burnham oznámil, že výdaje na ukončení nocování venku v Anglii zdvojnásobí na téměř 900 milionů liber do konce současného parlamentního období. Vláda chce do Vánoc nabídnout každému bezdomovci v Anglii bezpečnou cestu z ulice nebo širší podporu. Spolu s charitami, podniky a samosprávami se mají najít nové domovy a lůžka, včetně prázdných nemovitostí, které lze znovu využít. Charita Shelter oznámení uvítala. Konzervativci je naopak kritizovali jako zbytečné utrácení. Ministryně pro bydlení Angela Rayner označila finance za první krok k trvalému řešení.",
+      "region_cs": "Anglie, Velká Británie",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham"
+        },
+        {
+          "outlet": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2026/10/26/burnham-double-funding-rough-sleeping-campaign-874-million/"
+        }
+      ],
+      "original_titles": [
+        "Burnham pledges £900m for homelessness amid drive to end rough sleeping",
+        "Burnham will double funding for rough-sleeping campaign to £874m"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Křemíkové qubity zvládly paralelní řízení s přesností nad 99,9 procenta",
+      "summary_cs": "Vědci z japonského institutu RIKEN a jejich spolupracovníci dokázali přesně řídit několik křemíkových kvantových bitů současně. V pětiqubitovém uspořádání, sdíleném jedním mikrovlnným vedením, zůstala přesnost nad 99,9 procenta, což je hranice, kterou výzkumníci považují za cíl pro spolehlivé kvantové výpočty. Hlavní příčinou chyb byl střídavý Starkův posun způsobený mikrovlnnými signály. Tým proto vyvinul kalibraci založenou pouze na dvojicích qubitů, což je praktické i pro větší procesory. Výsledky vyšly v časopise Nature Physics. Křemík umožňuje výrobu pomocí stejných postupů jako běžné počítačové čipy.",
+      "region_cs": "Japonsko",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm"
+        },
+        {
+          "outlet": "Studie: Nature Physics",
+          "url": "https://doi.org/10.1038/s41567-026-03466-2"
+        }
+      ],
+      "original_titles": [
+        "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "Simultaneous high-fidelity single-qubit gates in a spin qubit array"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ostrov Corvo na Azorech zhasíná, aby pomohl mladým buřňákům",
+      "summary_cs": "Malý azorský ostrov Corvo v Portugalsku každý podzim na pět nocí vypíná veřejné osvětlení, aby mladí buřňáci Cory dokázali najít cestu k moři. Tradice začala v roce 1991, kdy místní lidé našli ve vesnici množství mrtvých mladých ptáků, které se na pouličním osvětlení dezorientovaly a narazily do domů. Obyvatelé je od roku 2019 v noci sbírají a přes den odpočívají v krabicích, než je druhý den vypustí z útesu blízko moře. Kampaň uvádí, že od roku 2015 bylo na Azorech zachráněno přes 30 tisíc mláďat, z toho asi 6 tisíc na Corvu. Iniciativa se rozšířila i na další ostrovy.",
+      "region_cs": "Portugalsko, Azory",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe"
+        },
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.msn.com/en-us/money/general/a-visit-to-the-island-turning-off-its-lights-to-protect-rare-seabirds/ar-AA2fL8fS"
+        }
+      ],
+      "original_titles": [
+        "Lights out: the island that goes dark to save young seabirds – in pictures",
+        "A visit to the island turning off its lights to protect rare seabirds"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Only one source (the Mongabay article) covers the tea-farming story; the cited paper concerns leafhopper herbivory and tea metabolites, not the nature-based farming described.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Taiwan’s tea growers let nature take back control as climate pressures mount",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the study mainly reports pollution accumulating in corals; the monitoring method is a minor detail, and the Mongabay report is about a July study.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Corals keep a record of pollution, pointing to a new monitoring method: Study",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the trial found no significant blood pressure reduction versus sham overall; the subgroup finding is minor, and the Times of India teaser overstates the result.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Could lowering high blood pressure be as simple as stimulating your ear?",
+        "No need to take blood pressure pills now? Scientists are testing a device that can reduce BP by stimulating nerves"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 79534,
+    "output_tokens": 12085,
+    "cost_usd": 0.0139959
+  },
+  "buttondown_id": "em_54b69aymax9a49rat63r7pm9cx",
+  "sent_live": true
+}
