@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-27",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Kombinace léků prodloužila život pacientům s malobuněčným karcinomem plic",
+      "summary_cs": "Kombinace přípravku Imdelltra od firmy Amgen s imunoterapií Imfinzi od AstraZeneca snížila riziko úmrtí o 58 % oproti samotnému Imfinzi u pacientů s rozsáhlým stadiem malobuněčného karcinomu plic. Studie na 563 pacientech, jejíž výsledky byly představeny na kongresu ESMO v Madridu a vyšly v časopise New England Journal of Medicine, ukázala střední přežití 21,1 měsíce oproti 12,7 měsíce. Po roce bylo naživu téměř 80 % pacientů z kombinované léčby oproti 53 % pacientů se samotným Imfinzi.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/amgen-drug-combined-with-immunotherapy-extends-survival-in-lung-cancer-trial/article71626013.ece"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.msn.com/en-us/money/general/amgen-drug-combined-with-immunotherapy-extends-survival-in-lung-cancer-trial/ar-AA2fZOsM"
+        }
+      ],
+      "original_titles": [
+        "Amgen drug combined with immunotherapy extends survival in lung cancer trial",
+        "Amgen drug combined with immunotherapy extends survival in lung cancer trial"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Děti z Ekvádoru monitorováním snížily množství nedopalků na pláži",
+      "summary_cs": "V komunitě Ayangue na ekvádorském pobřeží se děti ve věku 7 až 12 let zapojily do projektu sledování nedopalků cigaret, který vedla nadace Amiguitos del Océano spolu s akademickými a ekologickými organizacemi. Během dvou let se díky němu nepodařilo dostat do oceánu 6 821 nedopalků, přičemž počet nedopalků nasbíraných na písku mezi lety 2023 a 2024 klesl o 53,2 %. Pomohly sběrné koše z recyklovaného PVC na promenádě i výměnné akce za sportovní vybavení. Přes 85 % dětí předalo poznatky rodině a známým a komunita jejich návrhy podpořila. Studie vyšla v časopise Ocean & Coastal Management.",
+      "region_cs": "Ekvádor, Ayangue",
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/nature/children-aged-7-to-12-helped-tackle-cigarette-waste-on-an-ecuador-beach-researchers-recorded-6821-fewer-butts-reaching-the-ocean-over-two-years-and-a-53-2-decline-in-sand-collections/articleshow/135223733.cms"
+        },
+        {
+          "outlet": "Phys.org",
+          "url": "https://phys.org/news/2026-10-child-citizen-science-ecuadorian-community.html"
+        }
+      ],
+      "original_titles": [
+        "Children aged 7-12 helped tackle cigarette waste on an Ecuador beach;recorded 6,821 fewer butts",
+        "Child-led citizen science helps Ecuadorian community tackle beach pollution and shape environmental decisions"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Kmenové buňky z dásní zlepšily stav části pacientů s diabetem 1. typu",
+      "summary_cs": "Čínští vědci z Šanghaje a Guangzhou provedli randomizovanou klinickou studii fáze 1, ve které léčili pacienty s diabetem 1. typu kmenovými buňkami získanými z dásňové tkáně. Studie zahrnovala 18 pacientů, kteří dostali čtyři infuze buď s buňkami, nebo placebo, a výsledky vyšly v časopise Signal Transduction and Targeted Therapy. U pacientů s buňkami se po 12 týdnech zlepšila zbytková funkce beta buněk a klesla potřeba inzulinu, přičemž jeden pacient mohl inzulin zcela vysadit. Terapie nevedla k vyššímu riziku nežádoucích účinků včetně hypoglykemie. Autoři upozorňují, že jde o první studii tohoto typu a výsledky je třeba ověřit na větším vzorku.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/science/article/3372256/china-trial-shows-gum-tissue-stem-cells-help-55-lifetime-diabetes-patients"
+        },
+        {
+          "outlet": "Studie: Signal Transduction and Targeted Therapy",
+          "url": "https://doi.org/10.1038/s41392-026-03021-8"
+        }
+      ],
+      "original_titles": [
+        "China trial shows gum tissue stem cells help 55% of lifetime diabetes patients",
+        "Safety and efficacy of human gingiva-derived mesenchymal stem cells in patients with type 1 diabetes: a double-blind, randomized, placebo-controlled, phase 1 trial"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one source (Mongabay) supports the $500m Species Recovery Alliance pledge; the IUCN primary covers the separate $200m Phoenix Species Project, and the other sources are not about this event.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Bezos Earth Fund and partners pledge $500m for threatened species recovery",
+        "Phoenix Species Project launches global effort to bring 100 of the world’s most threatened species back from the brink"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the Gut paper on the REDMOD AI model was published on 2026-04-28, about six months before today's date.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+        "Next-generation AI for visually occult pancreatic cancer detection in a low-prevalence setting with longitudinal stability and multi-institutional generalisability"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one source (Mongabay) reports the Nigeria clean cooking findings; the WHO primary only defines clean fuels and does not back the news. The story is also mixed, with progress described as uneven and insufficient.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "5 million Nigerians gain clean cooking access annually, but it’s not enough, experts say",
+        "The WHO definition of clean, transitional, and polluting fuels and technologies used for cooking, heating, and lighting is described below. This infor"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the story describes an oxygen bus responding to the most intense haze in over a decade, with the fires showing no sign of easing.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Indonesia’s oxygen bus offers breather to residents choking on toxic haze",
+        "Indonesia sends oxygen bus to aid residents choking on forest fire haze"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 88143,
+    "output_tokens": 10205,
+    "cost_usd": 0.0139168
+  },
+  "buttondown_id": "em_3qhq1v2y078kfb44jr264cga56",
+  "sent_live": true
+}
