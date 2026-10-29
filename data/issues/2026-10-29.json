@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-29",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Austrálie schválila Velký koalí národní park o rozloze 475 000 hektarů",
+      "summary_cs": "Parlament australského státu Nový Jižní Wales schválil zákon o vzniku Velkého koalího národního parku. Park má zahrnovat 178 000 hektarů státních lesů a dalších pozemků a celková chráněná plocha dosáhne 475 000 hektarů. Má chránit přibližně 12 000 koal, 36 000 kluzáků a více než sto ohrožených druhů. Vláda uvádí, že park by se měl otevřít ještě letos a že správu budou spoluutvářet domorodí obyvatelé Gumbaynggirrové a Dunghuttiové. Ochránci přírody oceňují úspěch po více než deseti letech kampaně, zároveň však kritizují, že dlouhodobé financování má stát na obchodování s uhlíkovými kredity.",
+      "region_cs": "Austrálie, Nový Jižní Wales",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/10/historic-win-australian-state-approves-national-koala-park-despite-controversial-funding/"
+        },
+        {
+          "outlet": "nsw.gov.au",
+          "url": "https://www.nsw.gov.au/ministerial-releases/landmark-legislation-introduced-to-create-great-koala-national-park-for-conservation-culture-and-recreation"
+        }
+      ],
+      "original_titles": [
+        "‘Historic win’: Australian state approves national koala park despite controversial funding",
+        "Landmark legislation introduced to create Great Koala National Park for conservation, culture and recreation"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "New York omezí dětem přístup k chatbotům s AI, které předstírají přátelství",
+      "summary_cs": "Newyorský guvernér Kathy Hochul podepsal zákon, který omezuje používání chatbotů s umělou inteligencí, jež fungují jako společníci, pro nezletilé. Provozovatelé musí ověřovat věk uživatelů a u osob mladších osmnácti let blokovat rysy působící lidsky nebo emocionálně, včetně předstírání přátelského nebo partnerského vztahu. Chatboty také nesmějí uchovávat citlivé informace o zdraví dítěte. Zákon patří mezi nejpřísnější v USA a technologický sektor kritizuje jeho vágní formulace. Organizace Common Sense Media jej označila za nejsilnější zákon o bezpečnosti dětí a AI v zemi.",
+      "region_cs": "USA, New York",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/new-york-passes-law-restricting-childrens-use-of-ai-chatbots"
+        },
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/chatbots-ai-new-york-legislation-bans-children-03a4e090a7df1532838a5cb6f93a23ba"
+        }
+      ],
+      "original_titles": [
+        "New York passes law restricting children’s use of AI chatbots",
+        "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Coverage is framed mainly as criticism: experts say the one-time price cuts are insufficient and excessive pricing persists, so the good news is not clearly positive.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Sharp cuts in price of cancer drugs expose excessive pricing, say health experts",
+        "Cancer Drug Prices Slashed By Over 90%, But Experts Say One-Time Cuts Won't End Overpricing"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "The university press release is dated 12 March 2026 while the aggregator dates the study 27 October 2026, so the sources conflict and the news may be old news resurfacing.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A simple daily fiber supplement reduced arthritis pain and improved strength",
+        "Thursday, 12 March 2026"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Only one source covers the Hong Kong cockatoo nest boxes; the second source is generic nest-box guidance from New South Wales and does not support the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Artificial nests help Hong Kong’s rare cockatoos cope with a ‘housing crisis’",
+        "Nest boxes"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Only one source covers the Thai leopard cat rescue; the second source is a general veterinary page on FIV and does not support the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A Thai rescue center gives injured leopard cat cubs a second chance",
+        "Feline Immunodeficiency Virus (FIV)"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 101050,
+    "output_tokens": 9551,
+    "cost_usd": 0.014880500000000001
+  },
+  "buttondown_id": "em_1d6j4rmdc78nzb6mwvejn26pdg",
+  "sent_live": true
+}
