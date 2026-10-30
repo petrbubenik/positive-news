@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-30",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ochránci přírody koupili panství Rothbury za 30 milionů liber",
+      "summary_cs": "Ochránci přírody dokončili koupi rozlehlého panství Rothbury v severoanglickém Northumberlandu. Kampaň, kterou podpořil i sir David Attenborough, vybrala během dvou let 30 milionů liber. Příspěvky poslalo přes 25 tisíc lidí a významnou částku přidal také britský resort Defra, který vložil 1,94 milionu liber. Panství o rozloze 9 500 akrů zahrnuje lesy, vřesoviště i zemědělskou půdu a je domovem ohrožených druhů, například červené veverky. Cílem je vytvořit divoký koridor dlouhý přibližně 64 kilometrů od pobřeží až ke skotským hranicím. Část místních farmářů projekt kritizovala.",
+      "region_cs": "Velká Británie, Northumberland",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate"
+        }
+      ],
+      "original_titles": [
+        "Attenborough-backed appeal secures £30m estate",
+        "Wildlife Trusts hit £30m target to buy and rewild huge Northumberland estate"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Obnova přírody se šíří na 252 milionech hektarů ve 149 zemích",
+      "summary_cs": "Obnova ekosystémů po celém světě nabírá nebývalé tempo. Podle zprávy FAO, UNEP a sekretariátu Úmluvy o biologické rozmanitosti se obnovuje přibližně 252 milionů hektarů půdy a moře ve 149 zemích, což je dosud největší zdokumentované úsilí tohoto druhu. Vzniklo přitom více než milion zelených pracovních míst. Zpráva zároveň upozorňuje, že roční financování musí vzrůst více než čtyřikrát, z 64 na 296 miliard dolarů, a že sladkovodní, mořské a pobřežní ekosystémy zaostávají. Zpráva vyšla u příležitosti poloviny Dekády OSN pro obnovu ekosystémů na konferenci COP17 v arménském Jerevanu.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168700"
+        },
+        {
+          "outlet": "wedocs.unep.org",
+          "url": "https://wedocs.unep.org/items/84e14d66-5e30-4e56-b33d-0a5420454d5a"
+        }
+      ],
+      "original_titles": [
+        "Nature is making a comeback – now restoration funding must quadruple",
+        "Restoration Progress Report: Nature’s comeback - Scaling ecosystem restoration for people and planet"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Čínský export čisté energie letos ušetří 450 milionů tun CO₂",
+      "summary_cs": "Rekordní čínský export technologií čisté energie výrazně snižuje globální emise. Podle zprávy, o níž informovala agentura AP, vyvážené solární panely, větrné turbíny, baterie a elektromobily letos odvrátí odhadem 450 milionů tun oxidu uhličitého. Agentura Reuters uvádí, že jde o množství odpovídající roční emisi Brazílie. Poptávku podpořila energetická krize způsobená válkou v Íránu. Experti přitom upozorňují, že jde jen o malý, ale příznivý signál v jinak váznoucím úsilí o zmírnění klimatické změny. Témata by měla zaznít na klimatických jednáních OSN v Turecku, která začnou příští měsíc.",
+      "region_cs": "Čína, celosvětově",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/10/chinas-record-breaking-exports-of-clean-tech-are-making-a-big-dent-in-emissions-report-says/"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.msn.com/en-us/news/other/china-clean-tech-exports-to-cut-global-emissions-by-brazil-sized-amount-in-2026/ar-AA2ghSc0"
+        }
+      ],
+      "original_titles": [
+        "China’s record-breaking exports of clean tech are making a big dent in emissions, report says",
+        "China clean tech exports to cut global emissions by Brazil-sized amount in 2026"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source supports the 2026 land restitution roadmap; the primary source is a 2025 UN rapporteur visit statement and does not back the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A historic land restitution process offers new hope for Botswana’s Indigenous San",
+        "UN Special Rapporteur hails Boko"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Devět orangutanů zachráněných z požárů se vrátilo do pralesa na Borneu",
+      "summary_cs": "Devět orangutanů, které byly v srpnu a září zachráněny z hořící plantáže oleje z palmy v Ketapangu, se vrátilo do volné přírody. Zvířata měla popáleniny na rukou a nohou a některá byla podvyživená. Po zotavení v záchranném centru je ochránci přepravili vozidlem, lodí i pěšky do chráněného lesa Batu Nyambu o rozloze 23 tisíc hektarů, který nabízí nerušené prostředí a dostatek potravy. Indonéské ministerstvo lesnictví uvádí, že z hořících lesů v Západním Kalimantanu bylo od začátku srpna zachráněno nejméně 51 orangutanů.",
+      "region_cs": "Indonésie, Borneo",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.msn.com/en-us/news/world/new-home-for-orangutans-rescued-from-indonesias-burning-forests/ar-AA2goIOC"
+        }
+      ],
+      "original_titles": [
+        "Indonesia: nine orangutans rescued from wildfires return to the forest",
+        "New home for orangutans rescued from Indonesia's burning forests"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news source covers this Pamarawan project; the primary source describes a different Ormoc City project and does not support the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Philippine village uses nature to defend against floods with bamboo, shells and husks",
+        "The People’s Survival Fund (PSF) approved PHP 42.35 million to support the ‘Building Ormoc’s Community Resilience through Green Riverscaping and Natur"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Effectively single-source: the second source is a teaser about rollout challenges and does not support the core facts about the hydrofoil electric ferries.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A new wave of electric ferries is here in the US. Some even fly",
+        "New York Bought an Electric Ferry. The City Can’t Charge It."
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 93411,
+    "output_tokens": 10968,
+    "cost_usd": 0.0148251
+  },
+  "buttondown_id": "em_4xxn0emdxq9tb9ttq69wh7y165",
+  "sent_live": true
+}
