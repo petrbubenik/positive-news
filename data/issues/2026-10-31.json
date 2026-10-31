@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-31",
+  "note": "",
+  "stories": [
+    {
+      "topic": "tech",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Indie vynesla navigační družici NVS-03 a obnovila systém NavIC",
+      "summary_cs": "Indická vesmírná agentura ISRO v pátek večer úspěšně vypustila z kosmodromu Sriharikota raketu GSLV-F18 s navigační družicí NVS-03. Ta byla vynesena na plánovanou přechodovou dráhu, a regionální navigační systém NavIC se tak vrátil na minimální provozní konfiguraci čtyř družic. Nová družice nese domácí rubidiové atomové hodiny a vysílá také signál L1, který využívají běžné GPS přijímače v chytrých telefonech. Systém slouží k navigaci v Indii a v pásmu zhruba 1 500 kilometrů za jejími hranicemi a sleduje například 10 400 lokomotiv a 64 000 rybářských lodí. Mise má životnost 12 let.",
+      "region_cs": "Indie, Sriharikota",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
+        },
+        {
+          "outlet": "The Times of India",
+          "url": "https://www.msn.com/en-in/news/other/gslv-f18-nvs-03-launch-isro-puts-next-gen-navic-satellite-in-orbit-may-restore-standalone-positioning/ar-AA2grpS1"
+        }
+      ],
+      "original_titles": [
+        "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+        "Launch of NVS-03: PM Modi congratulates scientists, engineers at ISRO",
+        "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan",
+        "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
+        "GSLV places next-generation navigation satellite NVS-03 into orbit",
+        "NVS-03 launched successfully; satellite placed in intended orbit | Highlights",
+        "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
+        "GSLV-F18 NVS-03 launch: ISRO puts next-gen NavIC satellite in orbit; may restore standalone positioning"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Coverage is mainly negative: sources stress that most biodiversity targets are off track and that the summit process is failing. The positive points (a deal reached, about $1.8 billion in new pledges) are minor details, not the main story.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+        "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
+        "Global nature talks reach deal but money remains an issue",
+        "UN nature summit approves two key agreements after marathon negotiations",
+        "Nature recovery is falling behind. Can COP17 get global action back on track?"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "The good news (release of a detained American) is overshadowed by political framing and press-access controversy; the sources do not clearly present it as a positive story and the core facts are contested in part.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Retired Michigan teacher released from Russian prison believed he would never be freed",
+        "Trump and teacher freed from Russia hold bizarre White House press conference with just one reporter",
+        "Newly Freed American Describes His Years in Russian Prison"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 95022,
+    "output_tokens": 8529,
+    "cost_usd": 0.0137667
+  },
+  "buttondown_id": "em_09nnk2prqj8gjrsjn3sq9rsdfm",
+  "sent_live": true
+}
