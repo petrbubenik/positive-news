@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-01",
+  "note": "Only 0 stories passed; no issue.",
+  "stories": [],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Mixed rather than genuinely positive: the deal is overshadowed by missed targets, insufficient finance and critical reporting, so the good news is not the main story.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Countries reach COP17 deal to speed up biodiversity action, but money still short",
+        "COP17 Biodiversity Talks in Yerevan, Armenia",
+        "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+        "200 nations at Cop17 commit to biodiversity goals amid missed opportunities",
+        "Leaders grapple with finance and harmful subsidies at UN’s COP17 biodiversity conference",
+        "Global nature talks reach deal but money remains an issue"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one news source (DW) supports the core facts; the other source is a teaser on a different topic.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Germany's search for a nuclear waste site",
+        "The nuclear option America actually needs"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one source (NPR) reports the FDA approval; the PMC abstract is a general disease review and does not back the news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "How one family gave a critical boost to gene therapy research",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) reports the designation; the Nature correspondence predates it and does not confirm it.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Angola designates Serra do Pingano as a protected area amid rapid forest loss",
+        "The SPFE is unique in that it is a biogeographical melting pot in which elements from the west-central African forest systems of Cameroon and Gabon me"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the JAMA paper was published on 2026-09-15, and the only other source is an aggregator repost of the press release, with no news article.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+        "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the prison move is unconfirmed in its details and the peace process is described as paused and stalled.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Turkey moves Kurdish militant leader to new part of an island prison under peace push",
+        "Turkey moves Kurdish militant leader as part of peace process"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) covers the project; the nature.com primary source is a critique of mangrove planting schemes and contradicts the story.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Aztec methods and crocodiles: How biologists are restoring mangroves in Mexico",
+        "Current mangrove planting schemes aimed at reversing global losses are prioritising short-term increases in area over long-term establishment. Without"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 85392,
+    "output_tokens": 8865,
+    "cost_usd": 0.0129717
+  }
+}
