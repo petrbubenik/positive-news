@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-02",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Anglie zavádí největší systém včasného varování pro nemocné děti",
+      "summary_cs": "Národní zdravotnická služba NHS v Anglii začne letos v zimě používat systém včasného varování PEWS i na pohotovostech. Jde o bodovací systém, který podle životních funkcí, jako je krevní tlak, tepová frekvence, dýchání, hladina kyslíku a vědomí, ukazuje, zda se dítě zhoršuje a potřebuje rychlejší péči. Na pohotovosti v Anglii ročně přijde více než šest milionů dětí. Systém nenahrazuje lékařský úsudek a bere v úvahu i obavy rodičů. Ve více než 90 nemocnicích, kde už funguje pro lůžkovou péči, podle NHS pozorují nižší počet srdečních zastavení.",
+      "region_cs": "Anglie, Spojené království",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.msn.com/en-gb/news/other/new-a-e-warning-system-to-launch-in-nhs-hospitals-across-england/ar-AA2gzOHQ"
+        }
+      ],
+      "original_titles": [
+        "World’s largest early warning system for severe child illness to launch in NHS A&Es across England",
+        "New A&E warning system to launch in NHS hospitals across England"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Jedovatý primát považovaný za vyhynulého na Bangce stále přežívá",
+      "summary_cs": "Vzácný jedovatý primát, kterého vědci považovali za vyhynulého, na indonéském ostrově Bangka stále žije. Studie analyzovala více než 90 lorisů, které místní záchranná stanice Alobi zachránila z zahrad, silnic a plantáží. Nálezy pocházely ze všech čtyř okresů ostrova, což naznačuje, že druh je zde stále široce rozšířen. Hrozby ale přetrvávají: lesní biotop se mezi lety 2000 a 2012 zmenšil o 62 procent kvůli těžbě cínu a plantážím palmy olejné. Autoři doporučují přehodnotit stav druhu na Červeném seznamu IUCN.",
+      "region_cs": "Indonésie, ostrov Bangka",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/venomous-indonesian-primate-feared-extinct-still-clings-on-but-threats-persist/"
+        },
+        {
+          "outlet": "NDTV",
+          "url": "https://www.msn.com/en-in/news/other/worlds-only-venomous-primate-rediscovered-after-89-years-in-indonesia/ar-AA2g8LMI"
+        }
+      ],
+      "original_titles": [
+        "Venomous Indonesian primate feared extinct still clings on – but threats persist",
+        "World's only venomous primate rediscovered after 89 years in Indonesia"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vzácný brouk se po téměř 60 letech znovu objevil ve Walesu",
+      "summary_cs": "Ve Walesu se po téměř 60 letech znovu podařilo potvrdit výskyt vzácného brouka krátkokrkého. Úřad pro přírodní zdroje Walesu nalezl jeho larvy na malé ploše rezervace Castlemartin v hrabství Pembrokeshire. Dospělí brouci, kteří na místě loni uhynuli, jsou závislí na samotářských včelách a vyžadují husté porosty květů. Nález naznačuje, že se druh na místě znovu rozmnožuje. Castlemartin je nyní jediným místem ve Walesu, kde se brouk vyskytuje, a ochránci ho pravidelně sledují.",
+      "region_cs": "Wales, Pembrokeshire",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/01/rare-short-necked-oil-beetle-rediscovered-wales?status=none"
+        }
+      ],
+      "original_titles": [
+        "'Fascinating' rare beetle found in Wales again after 60 years",
+        "Rare beetle that oozes substance from its knees when attacked rediscovered in Wales"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Mostly war and humanitarian reporting; the reunions are a small positive detail amid drone attacks and blackouts, and the number evacuated is not confirmed.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Emotional reunions as residents flee Ukraine’s Oleshky during truce",
+        "Residents evacuated from Russia-occupied city back in Ukraine",
+        "Ukrainian Evacuees From Oleshky Tell Survival Stories",
+        "Evacuees from Russian-occupied Oleshky arrive in Ukraine"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one news source (NPR) covers the core facts. The primary source is a general review abstract that states no effective MPS III therapy exists, so it does not back the news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "How one family gave a critical boost to gene therapy research",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news source reports the boulder action; the primary JNCC page only describes the protected area and does not back the event. The action is also an activist stunt rather than a clearly positive outcome.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
+        "The Southern North Sea SAC has been identified as an area of importance for harbour porpoise. This site falls off the east coast of England and includ"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Mainly a policy and progress update on Germany's nuclear waste search with no clear positive outcome; the Washington Post item is off-topic (US nuclear policy) and only one relevant source is given.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Germany's search for a nuclear waste site",
+        "The nuclear option America actually needs"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 75569,
+    "output_tokens": 11501,
+    "cost_usd": 0.0133074
+  },
+  "buttondown_id": "em_7x1dp8wjh58nxv6gy58p6v5brh",
+  "sent_live": true
+}
