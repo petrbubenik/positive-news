@@ -1,0 +1,182 @@
+{
+  "date": "2026-11-03",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 8,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "USA schválily levnou generickou verzi injekce proti HIV",
+      "summary_cs": "Americký regulátor FDA schválil generickou verzi lenakapaviru, injekce k prevenci HIV, která se podává dvakrát ročně. Vyrábí ji indická firma Dr. Reddy's Laboratories. Léčba má stát přibližně 40 dolarů ročně na osobu a bude dostupná ve 120 nízko- a středněpříjmových zemích. Injekce téměř eliminovaly nové infekce ve dvou klíčových studiích a jsou pohodlnější než denní tablety, které lidé často neberou pravidelně. Experti odhadují, že PrEP by potřebovalo přibližně 20 milionů lidí. Zambie má dostat první dodávky a další by měly následovat během několika týdnů.",
+      "region_cs": "Indie, USA, celosvětově",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/approval-of-india-made-version-of-hiv-prevention-shot-raises-hopes-in-low-income-countries/article71660754.ece"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-hiv-aids-lenacapavir-fda-approval-jab-b3077695.html"
+        },
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/u-s-approval-cheap-generic-hiv-prevention-shot-may-boost-global-rollout"
+        }
+      ],
+      "original_titles": [
+        "Approval of India-made version of HIV-prevention shot raises hopes in low-income countries",
+        "US approves cheap generic version of breakthrough HIV prevention jab – in major step towards ending Aids",
+        "U.S. approval of cheap, generic HIV prevention shot may boost global rollout"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Los Angeles zakázalo těžbu ropy, je to největší americké město",
+      "summary_cs": "Los Angeles se stalo největším americkým městem, které zakázalo těžbu ropy. Městská rada nařízení schválila 28. října po letech sporů a tlaku obyvatel, kteří upozorňovali na znečištění a zdravotní rizika z blízkých vrtů. Nařízení okamžitě zastavuje těžbu, zakazuje znovuvrtání a prohlubování vrtů a během dvaceti let ukončí provoz stávajících. Týká se přibližně 600 aktivních a 1 200 neaktivních vrtů, mnohé z nich leží v pracovních čtvrtích. Průmyslová asociace CIPA označila nařízení za protiprávní zábor majetku a naznačila možné soudní spory.",
+      "region_cs": "USA, Kalifornie, Los Angeles",
+      "sources": [
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "Los Angeles Times",
+          "url": "https://www.msn.com/en-au/news/other/los-angeles-approves-ban-on-oil-production-after-years-long-fight/ar-AA2ggzX5"
+        }
+      ],
+      "original_titles": [
+        "LA communities kick out Big Oil",
+        "Los Angeles approves ban on oil production after years-long fight"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Pět lidí zachráněno u Kiribati po téměř třech měsících na moři",
+      "summary_cs": "Pět lidí, včetně dvou dětí, zachránili místní obyvatelé u ostrova Fanning v Kiribati poté, co téměř tři měsíce driftovali na moři v malé loďce. Loď s devíti lidmi na palubě zmizela 30. července na cestě mezi ostrovy v Mikronésii. Desetidenní pátrání v oblasti o rozloze přes 85 tisíc kilometrů čtverečních loď nenašlo. Přeživší byli těžce dehydrovaní a podvyživení, ale podle ošetřujících se už zotavují a jedí. Čtyři lidé zůstávají nezvěstní. Guvernér mikronéského státu Chuuk jedná s vládou Kiribati o jejich návratu domů.",
+      "region_cs": "Kiribati, Tichý oceán",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186"
+        },
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.msn.com/en-au/news/australia/five-people-rescued-in-kiribati-after-drifting-at-sea-for-nearly-three-months/ar-AA2gxF4S"
+        }
+      ],
+      "original_titles": [
+        "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
+        "Five people rescued in Kiribati after drifting at sea for nearly three months"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vědci v kosti dinosaura z Brazílie našli zkameněné krvinky",
+      "summary_cs": "Mezinárodní tým vědců tvrdí, že v kostech juvenilního masožravého dinosaura druhu Aratasaurus našel zkamenělé červené krvinky, což by bylo vůbec poprvé. Kosti z doby před 115 miliony let byly nalezeny v roce 2008 v dole na severovýchodě Brazílie a uchovávají se v Národním muzeu. Vědci objevili mikroskopické struktury podobné krvinkám a chemické důkazy hemu, molekuly, která umožňuje přenos kyslíku. Studie vyšla v časopise PNAS. Někteří odborníci, například Mary Schweitzerová, s interpretací nesouhlasí, a výsledky proto zůstávají předmětem debaty.",
+      "region_cs": "Brazílie, Ceará",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/dinosaur-bones-red-blood-cells-brazil-researchers-b3077956.html"
+        },
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.newscientist.com/article/2596881-dinosaur-red-blood-cells-recovered-from-115-million-year-old-fossil/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        },
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/did-scientists-just-find-115-million-year-old-dinosaur-blood"
+        }
+      ],
+      "original_titles": [
+        "Evidence of red blood cells found in 115-million-year-old dinosaur’s bones",
+        "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+        "Dinosaur red blood cells recovered from 115-million-year-old fossil",
+        "Did scientists just find 115-million-year-old dinosaur blood?"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Bratři z Bristolu sestrojili Braillovu tiskárnu za 100 liber",
+      "summary_cs": "Tom a Felix Huntovi z Bristolu vyvinuli přenosnou tiskárnu Braillova písma BrailleGo!, kterou lze sestavit přibližně za 100 liber, zatímco komerční tiskárny stojí přes tisíc. Zařízení je určené pro krátké série, například dětské knihy, průvodce muzei nebo veřejné letáky. Devatenáctiletý Tom od září studuje inženýrství na univerzitě v Bristolu, šestnáctiletý Felix je jeho mladším bratrem. Na evropském šampionátu World Robot Olympiad v chorvatském Záhřebu získali cenu za nejlepší startupový nápad. Plánují zveřejnit návrhy, kód a návod jako open source, aby si tiskárnu mohl postavit kdokoli.",
+      "region_cs": "Velká Británie, Bristol",
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/uk/two-bristol-teenage-brothers-build-a-100-braille-printer-inspired-by-their-blind-grandfather-win-international-award-and-plan-to-make-the-design-free-for-everyone/articleshow/135491927.cms"
+        },
+        {
+          "outlet": "bristol.ac.uk",
+          "url": "https://www.bristol.ac.uk/news/2026/november/bristol-student-wins-international-robotics-award-for-affordable-braille-printer.html"
+        }
+      ],
+      "original_titles": [
+        "Two Bristol brothers build £100 Braille printer, win international award",
+        "Tom Hunt, who started studying Design Engineering at the University this September, and his brother Felix created BrailleGo!, a portable device that c"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Elektronický implantát u myší snížil hladinu cukru v krvi",
+      "summary_cs": "Tým pod vedením Martina Fussenggera z ETH Curych vyvinul implantát, který snižuje hladinu glukózy v krvi bez inzulínu a léků. Zařízení napájené bezdrátově přeměňuje přebytečnou glukózu na glukonát, který se vylučuje močí, a brání tak jejímu ukládání jako tuku. U diabetických myší obnovil rovnováhu glukózy během hodiny a během šestitýdenního testu vedl k úbytku hmotnosti bez zjevných nežádoucích účinků. Výsledky vyšly v časopise Science. Zatím jde o experiment na zvířatech a případné lidské testy budou teprve následovat.",
+      "region_cs": "Švýcarsko, celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm"
+        },
+        {
+          "outlet": "Studie: Science",
+          "url": "https://doi.org/10.1126/science.ady8560"
+        }
+      ],
+      "original_titles": [
+        "New diabetes implant uses electricity to lower blood sugar and promote weight loss",
+        "Wireless electrocatalytic closed-loop system for drug-free management of diabesity"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one source (Mongabay) supports the core facts about the COP17 subsidiary body; the IUCN primary source covers a different event, the Ambassadors for Primary Forests recognition.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Indigenous peoples and local communities solidify decision-making powers at COP17",
+        "Indigenous leaders recognised as inaugural Ambassadors for Primary Forests at CBD COP17"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 87693,
+    "output_tokens": 14260,
+    "cost_usd": 0.0158993
+  },
+  "buttondown_id": "em_7khnew95g192q92rfymqkbh68y",
+  "sent_live": true
+}
