@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-04",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Sůl obohacená draslíkem by mohla ročně zachránit téměř tři miliony životů",
+      "summary_cs": "Výměna běžné kuchyňské soli za sůl obohacenou draslíkem by mohla každoročně zabránit téměř třem milionům úmrtí na kardiovaskulární onemocnění a chronická onemocnění ledvin. Vyplývá to z modelové studie v časopise Nature Health, kterou vedli vědci z australského institutu The George Institute for Global Health a která zahrnuje 193 zemí. Alternativa vypadá, chutná i vaří se stejně jako obyčejná sůl, jen část chloridu sodného nahrazuje chloridem draselným. Úplný přechod by podle odhadů ročně zabránil 10,17 milionu nových onemocnění. Autoři zároveň upozorňují na riziko hyperkalémie u pacientů s pokročilým onemocněním ledvin.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/04/healthier-salt-could-prevent-millions-of-deaths-from-heart-disease-and-stroke-study-finds"
+        },
+        {
+          "outlet": "Studie: Nature Health",
+          "url": "https://doi.org/10.1038/s44360-026-00216-9"
+        }
+      ],
+      "original_titles": [
+        "Healthier salt could prevent millions of deaths from heart disease and stroke, study finds",
+        "Global health outcomes from replacing dietary sodium chloride with potassium-enriched salt"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Singapur zpřísnil zákon proti smogu, pokuty vzrostou až desetkrát",
+      "summary_cs": "Singapurský parlament schválil přísnější zákon o přeshraničním znečištění, který počítá s desetinásobnými pokutami pro firmy, jež stojí za lesními požáry v Indonésii. Maximální sankce dosáhne jednoho milionu singapurských dolarů denně, celkem však nejvýše dvaceti milionů. Novela zároveň přidává pravomoc zatýkat a možnost omezit obchodní vztahy firem spojených s požáry. Úprava reaguje na jednu z nejhorších epizod smogu za více než deset let. Zákon byl od roku 2014 použit dvakrát, zatím ale nebyla uložena žádná pokuta.",
+      "region_cs": "Singapur, Indonésie",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/week-asia/health-environment/article/3373296/singapore-passes-tougher-anti-haze-laws-fines-increase-10-times-against-offenders"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.msn.com/en-us/news/other/singapore-toughens-haze-law-with-arrest-powers-bigger-fines/ar-AA2gIGrg"
+        }
+      ],
+      "original_titles": [
+        "Singapore passes tougher anti-haze laws, fines to increase 10 times against offenders",
+        "Singapore toughens haze law with arrest powers, bigger fines"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Testy na více druhů rakoviny z krve přijdou do britských ordinací praktiků",
+      "summary_cs": "Britská národní zdravotní služba NHS spustí na zhruba 200 praxích obecních lékařů v Anglii klinickou studii krevních testů, které hledají více typů rakoviny najednou. Zaměřují se na obtížně odhalitelná nádorová onemocnění břicha, jako jsou rakovina jater, vaječníků a slinivky. Studie STRIDE-RCT, kterou vede Univerzita v Birminghamu, má zapojit více než 20 tisíc pacientů starších 45 let s přetrvávajícími potížemi. Cílem je zjistit, zda jsou testy dostatečně přesné pro širší použití. Každý rok je v Anglii diagnostikováno kolem 71 tisíc lidí s těmito nádory a téměř 35 tisíc z nich zemře.",
+      "region_cs": "Anglie, Spojené království",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "research.birmingham.ac.uk",
+          "url": "https://research.birmingham.ac.uk/en/projects/stride-rct-a-cluster-platform-trial-of-blood-based-multi-cancer-d/"
+        }
+      ],
+      "original_titles": [
+        "'Multi-cancer' blood tests coming to some GP surgeries soon",
+        "Skip to main navigation"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dívka pohřešovaná 17 měsíců se našla živá v Oregonu",
+      "summary_cs": "Sedmnáctiletá dívka z Garden City v Utahu, pohřešovaná od května 2025, byla 1. listopadu 2026 nalezena živá v Oregonu. Společně s ní policisté zadrželi 39letého muže, který byl zatčen bez incidentu. Akce proběhla díky informacím od FBI v Salt Lake City a šerifova úřadu v okrese Rich. Ředitel FBI Kash Patel uvedl, že dívka se může vrátit domů. Vyšetřování případu pokračuje a federální úřady zároveň varovaly před internetovými skupinami, které zneužívají nezletilé.",
+      "region_cs": "USA, Utah a Oregon",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/kylie-arellano-utah-missing-teenager-b3078107.html"
+        },
+        {
+          "outlet": "fbi.gov",
+          "url": "https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/missing-teen-from-garden-city-safely-recovered-in-oregon"
+        }
+      ],
+      "original_titles": [
+        "Utah teen who had been missing for 17 months is found safe and a 39-year-old man was detained",
+        "Missing Teen from Garden City Safely Recovered in Oregon"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Mixed rather than genuinely positive: the Brazilian roadmap is voluntary and non-binding with no deadlines, and the articles stress that it falls short of what is needed.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "‘The transition is inevitable’: Brazil releases first global roadmap for phasing out fossil fuels",
+        "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Sources conflict on core facts: the crew count is 20 in some reports but 21 crew plus two guards in another, and it is unclear whether all crew were safe and where they were moved; the report also notes pirates were released.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+        "Navy rescues 20 crew members from hijacked Iranian vessel"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Implantát bez léků odstraňuje z krve cukr, zatím jen u myší",
+      "summary_cs": "Vědci z ETH Curych vyvinuli bezdrátový implantát, který pod kůží odbourává přebytečnou glukózu z krve bez léků, inzulinu i živých buněk. Katalyzátor ze zlatých a platinových částic na grafitu při nízkém napětí přeměňuje cukr na glukonát, který ledviny vyloučí močí. U myší s diabetem 2. typu a obezitou se hladina cukru vrátila do normálu během 60 až 90 minut od zapnutí a za šest týdnů zvířata zhubla až o 10 procent. Studie vyšla v časopise Science. Nezávislí experti však upozorňují na rizika a další testy na větších zvířatech teprve přijdou.",
+      "region_cs": "Švýcarsko",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/science/diabetes-type-2-obesity-drug-free-treatment-b3078973.html"
+        },
+        {
+          "outlet": "Physics World",
+          "url": "https://physicsworld.com/a/electronic-implant-shows-promise-for-drug-free-diabetes-control/"
+        }
+      ],
+      "original_titles": [
+        "Drug-free diabetes implant offers ‘promising’ future for patients, say scientists",
+        "Electronic implant shows promise for drug-free diabetes control"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 88591,
+    "output_tokens": 11970,
+    "cost_usd": 0.014844100000000002
+  },
+  "buttondown_id": "em_6rbfx0xx8990j9rq2n5y126ehh",
+  "sent_live": true
+}
