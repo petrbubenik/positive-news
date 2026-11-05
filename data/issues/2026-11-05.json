@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-05",
+  "note": "",
+  "stories": [
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Melania Trumpová dostala ukrajinský řád za příměří v Oleškách",
+      "summary_cs": "Ukrajinský prezident Volodymyr Zelenskyj udělil první dámě USA Melanii Trumpové řád Princezny Olgy první třídy za její podíl na dohodě o dočasném příměří v Oleškách v Chersonské oblasti. Šestidenní pauza v bojích, která skončila v neděli, umožnila evakuovat téměř 800 lidí z města, kde chyběly jídlo, léky a pitná voda. Trumpová se má ve čtvrtek ve Washingtonu setkat se zástupci Ruska a Ukrajiny před jednáními v Abú Zabí. Mluvčí Bílého domu označil akci za bezprecedentní diplomatickou iniciativu první dámy.",
+      "region_cs": "Ukrajina, Oleška (Chersonská oblast)",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/05/us-first-lady-melania-trump-to-host-ukrainian-and-russian-officials-at-white-house"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/melania-trump-award-ukraine-russia-oleshky-ceasefire-b3079489.html"
+        }
+      ],
+      "original_titles": [
+        "Tearful reunions as Ukrainians return from Russian-occupied Oleshky",
+        "US First Lady Melania Trump to host Ukrainian and Russian officials at White House",
+        "Zelensky has awarded Melania Trump one of Ukraine’s highest honours. Here’s why"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Solární boom v Dháce: lidé kvůli výpadkům proudu kupují panely a baterie",
+      "summary_cs": "Na tržnici Kaptan Bazar v Dháce roste poptávka po solárních panelech a bateriích. Bangladéš, země se 180 miliony obyvatel, se potýká s energetickou krizí způsobenou válkou na Blízkém východě, kvůli níž přerušení dodávek LNG z Kataru vedou k plánovaným výpadkům až na 18 hodin denně. Podle prodejce Dongjin Group vzrostly prodeje o 50 procent oproti loňsku. Dovoz solárních zařízení z Číny za období březen až září více než zdvojnásobil na zhruba 140 milionů dolarů. Vláda chce do roku 2030 pokrýt 20 procent výroby obnovitelnými zdroji.",
+      "region_cs": "Bangladéš, Dháka",
+      "sources": [
+        {
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/environment/2026/11/05/energy/dhaka-solar-middle-east-war/"
+        },
+        {
+          "outlet": "NDTV",
+          "url": "https://www.ndtv.com/world-news/bangladesh-market-sees-surge-in-solar-panel-demand-amid-energy-crisis-12285578"
+        }
+      ],
+      "original_titles": [
+        "Bustling market in Dhaka shows shift to solar triggered by Middle East war",
+        "Bangladesh Market Sees Surge In Solar Panel Demand Amid Energy Crisis"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Austrálie chce zastavit ropuchy vysušením napajedel v oblasti Pilbara",
+      "summary_cs": "Austrálie spustila projekt v hodnotě 28 milionů australských dolarů, jehož cílem je zabránit invazi ropuchy obrovské do oblasti Pilbara na severozápadě země. Partnery jsou Curtinova univerzita, společnost Rio Tinto a joint venture Rhodes Ridge. Místo likvidace ropuch vytvoří vědci suchý koridor o rozloze 7 500 kilometrů čtverečních jižně od Broome tím, že upraví nebo izoluje 685 vodních zařízení pro dobytek, na která se ropuchy v období sucha spoléhají. Projekt vzniká spolu s domorodými vlastníky půdy a má trvat dva až pět let. Oblast je domovem druhů, které jinde na světě nežijí.",
+      "region_cs": "Austrálie, Západní Austrálie",
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/nature/in-1935-australia-introduced-cane-toads-to-control-pests-now-an-a28-million-project-aims-to-modify-685-infrastructure-items-across-7500-square-kilometres-to-stop-the-invasive-animals-reaching-the-pilbara/articleshow/135535303.cms"
+        },
+        {
+          "outlet": "Financial Times",
+          "url": "https://www.ft.com/content/f43d4e2a-7f11-4d28-a069-d4774bfbd229?syn-25a6b1a6=1"
+        }
+      ],
+      "original_titles": [
+        "Australia launches A$28 million project to stop invasive cane toads from reaching Pilbara after 1935 introduction",
+        "Rio Tinto creates ‘kill zone’ to halt cane toad invasion"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dvě nové vakcíny proti ebole půjdou do klinické studie v Kongu",
+      "summary_cs": "Světová zdravotnická organizace zařadí do probíhající klinické studie Tumaini v Demokratické republice Kongo dva nové kandidátní přípravky proti ebole. Jde o vakcínu ChAdOx1, kterou vyvinula Oxfordská univerzita se Serum Institute of India, a mRNA-1469 od společnosti Moderna. Obě budou testovány proti kmeni Bundibugyo, který způsobuje současnou epidemii, největší v dějinách země s více než 10 500 potvrzenými případy. Jde o vůbec první vakcíny cílené na tento virus, které se budou zkoušet přímo během epidemie. Studie běží od 23. října v Bunii a výsledky vakcíny se očekávají začátkem roku 2027.",
+      "region_cs": "Demokratická republika Kongo, Ituri",
+      "sources": [
+        {
+          "outlet": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168742"
+        },
+        {
+          "outlet": "who.int",
+          "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
+        }
+      ],
+      "original_titles": [
+        "Two new Ebola vaccines to join DR Congo clinical trial",
+        "Expert groups convened by the World Health Organization (WHO) have recommended adding two new Ebola vaccine candidates to the ongoing Tumaini clinical"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "USA stáhly obvinění z pašování žabích embryí proti ruské vědkyni",
+      "summary_cs": "Federální prokuratura v Bostonu stáhla všechna trestní obvinění proti ruské vědkyni Kseniji Petrovové, která pracuje na Harvardově lékařské fakultě. Loni na jaře byla zadržena po návratu z Francie, kde získala vzorky žabích embryí pro výzkum rakoviny a stárnutí. Čtyři měsíce strávila v imigrační vazbě a obávala se deportace do Ruska, kde jí hrozilo vězení. Soudce Leo Sorokin návrh na zastavení případu schválil ve středu bez slyšení. Obhájce označil obvinění za zbytečné, protože vzorky nepředstavovaly žádné riziko.",
+      "region_cs": "USA, Boston",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/kseniia-petrova-frog-embryos-harvard-b3079379.html"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html"
+        }
+      ],
+      "original_titles": [
+        "US prosecutors drop criminal charges against scientist detained over frog embryos",
+        "Russian scientist at Harvard cleared of smuggling charges over frog embryos",
+        "Prosecutors Seek to Drop Charges Against Russian Scientist Accused of Smuggling Frog Embryos"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the article is a podcast interview about human-wildlife conflict and EU loosening of wolf protection; the population recovery is only background. The only primary source is a 2025 perspective paper, which is not current news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Human-wildlife coexistence with wolves in Europe requires a holistic approach",
+        "Bridging the gap between science, policy and stakeholders: Towards sustainable wolf–livestock coexistence in human‐dominated landscapes"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the Nature study was published on March 5 (the Stanford release gives no year and the research dates from 2025), and the aggregator repost is based on the same Stanford press release, so it is not independent confirmation.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+        "A naturally occurring molecule identified by Stanford Medicine researchers appears similar to semaglutide — also known as Ozempic — in suppressing app"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 94451,
+    "output_tokens": 13485,
+    "cost_usd": 0.0161876
+  },
+  "buttondown_id": "em_7y7khw33vw9p5tn02z3vwvtvea",
+  "sent_live": true
+}
