@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-06",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vědci sepsali první mezinárodní pravidla pro léčbu bakteriofágy",
+      "summary_cs": "Mezinárodní tým vedený Německou společností pro infekční nemoci (DGI) vydal první mezinárodně koordinované doporučení pro personalizovanou fágovou terapii, tedy léčbu viry, které cíleně ničí škodlivé bakterie. Dokument v časopise Nature Medicine obsahuje více než 60 doporučení pro výběr, testování, výrobu, podávání i sledování fágů a vznikl za účasti 20 odborných organizací a 18 mezinárodních expertů. Fágy by se měly používat hlavně tehdy, když selžou běžná antibiotika. V belgické sérii 100 pacientů se stav zlepšil u 77 procent z nich. Kontrolované klinické studie ale zatím nedokázaly spolehlivě potvrdit, jak účinná léčba je.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm"
+        },
+        {
+          "outlet": "Studie: Nature Medicine",
+          "url": "https://doi.org/10.1038/s41591-026-04654-6"
+        }
+      ],
+      "original_titles": [
+        "Scientists turn viruses into weapons against deadly superbugs",
+        "A consensus-based guideline for personalized bacteriophage therapy"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "V katalánské jeskyni objevili stovky rytin staré zhruba 26 000 let",
+      "summary_cs": "Archeologové z Katalánského institutu pro lidskou paleoekologii popsali v jeskyni Cova de la Font Major u města Espluga de Francolí přes 280 paleolitických rytin, z nichž 55 zobrazuje zvířata, například koně, medvěda nebo auroxe. Podle časopisu Antiquity jsou staré zhruba 26 000 let. Rytiny si v roce 2019 při plánovaném výzkumu všiml archeolog Josep Maria Vergès mezi moderním graffiti. V Katalánsku, kde se podobné nálezy dosud téměř nevyskytovaly, jde o mimořádný objev. Jeskyně, dlouho přístupná turistům, je nyní kvůli ochraně rytin pro návštěvníky omezena.",
+      "region_cs": "Španělsko, Katalánsko",
+      "sources": [
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/"
+        },
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03585-z"
+        },
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.newscientist.com/article/2597300-stunning-collection-of-prehistoric-engravings-found-in-spanish-cave/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        }
+      ],
+      "original_titles": [
+        "The palaeo cave art that hid in plain sight for 26,000 years",
+        "Hundreds of stunning ice age drawings discovered inside Spanish cave",
+        "Stunning collection of prehistoric engravings found in Spanish cave"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the UNESCO listing happened in July 2026, and the Smithsonian piece is a retrospective travel feature, not new news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "America's Newest UNESCO World Heritage Site Is a Swamp—and That's Exactly Why You Should Go",
+        "Okefenokee National Wildlife Refuge"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Not clearly positive: the sources describe factory shutdowns and protests, the outcome is unclear, and both sources are teasers only.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+        "Bangladesh to increase garment sector pay after protests"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Sources are only loosely related: the primary paper backs only one point of the explainer, and the main findings are from 2025 research, so it is not new news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Exercise and cancer: What \"living longer\" really means",
+        "Article Text"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the primary paper was published in Nature Communications on 2025-11-04, a year before the news report.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
+        "Biomimetic supramolecular protein matrix restores structure and properties of human dental enamel"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 88337,
+    "output_tokens": 11628,
+    "cost_usd": 0.0146477
+  },
+  "buttondown_id": "em_6x0zjk1cbr9bgapjfaj1mwxbvp",
+  "sent_live": true
+}
