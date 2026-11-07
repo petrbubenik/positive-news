@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-07",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "U Kanady objevili ztracené mládě vzácné velryby, vědci mají radost",
+      "summary_cs": "Vědci z Bostonského akvária New England Aquarium zjistili, že mládě velryby severní, které bylo v září zachyceno u ostrova Anticosti v Quebecu, se narodilo již před několika měsíci a při zimních sčítáních uniklo pozornosti. Samice Silt je téměř čtyřicetiletá. Počet mláďat z letošní sezony tak dosáhl 24, což je nejvíce od roku 2009. Populace tohoto kriticky ohroženého druhu přitom čítá jen asi 380 jedinců, takže každé narození má velký význam. Odborníci zároveň upozorňují na rizika, jako jsou srážky s loděmi a zamotání do rybářských sítí.",
+      "region_cs": "Kanada, Quebec, Atlantický oceán",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/baby-right-whale-canada-quebec-north-atlantic-b3080729.html"
+        },
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/short-article/2026/11/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-a-cause-for-joy/"
+        }
+      ],
+      "original_titles": [
+        "Scientists surprised to find 15,000-pound baby whale off Canadian coast",
+        "Scientists discovered an unknown baby right whale off Canada. They say it’s a cause for joy"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Genová terapie přímo v mozku snížila počet záchvatů u pacientů s epilepsií",
+      "summary_cs": "Experimentální genová terapie, při které se virus dopraví přímo do mozkové tkáně, pomohla třem pacientům s epilepsií rezistentní vůči lékům. Virus vnesl gen do excitačních neuronů, které pak reagují na lék clozapin a jejich aktivita se utlumí. U dvou pacientů klesl počet měsíčních záchvatů z 4,5 na 0,5 a u třetího ze čtyř na nulu. Výsledky, které připravil čínský tým, vyšly v časopise New England Journal of Medicine. Nezávislí odborníci je uvítali, upozorňují však na malý počet pacientů a dlouhodobá rizika vysokých dávek clozapinu.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/science/experimental-gene-therapy-brain-reduces-epileptic-seizures-science-b3080366.html"
+        },
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures"
+        }
+      ],
+      "original_titles": [
+        "Experimental gene therapy on human brain reduces epileptic seizures by 90%",
+        "Novel gene therapy lets drug dampen brain cell activity, reducing seizures"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Pákistánský astronaut poletí na čínskou vesmírnou stanici jako první cizinec",
+      "summary_cs": "Čínská agentura pro kosmos vybrala pákistánského astronauta jako specialistu na užitečné zatížení mise Šen-čou 24. Stane se prvním cizincem na čínské vesmírné stanici. Jeho jméno zatím zveřejněno nebylo a termín startu není znám, mise má proběhnout do konce roku. Astronaut absolvuje krátký let na oběžné dráze a na Zemi se vrátí lodí Šen-čou 23. Vycházel z dohody mezi Pákistánem a Čínou z února 2025, v jejímž rámci Pákistánci trénovali v Pekingu včetně intenzivní výuky čínštiny. Pákistán zároveň získá svůj první lunární rover.",
+      "region_cs": "Čína, Pákistán",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456"
+        }
+      ],
+      "original_titles": [
+        "Pakistani astronaut to join China’s next space station mission",
+        "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Pandy Ping Ping a Fu Shuang se poprvé ukázaly návštěvníkům v Atlantě",
+      "summary_cs": "Dvě pandy velké z Číny, samec Ping Ping a samice Fu Šuang, se poprvé veřejnosti představily v zoo v Atlantě. Do Spojených států dorazily v září z Čcheng-tu a v zoo zůstanou deset let na půjčce. Atlanta tak po dvouleté pauze opět hostí pandy díky nové desetileté dohodě, která vznikla po summitu prezidentů USA a Číny. Zoo zrekonstruovala pandí výběh a zajistila dlouhodobé dodávky místního bambusu. Pandy jsou podle ochránců přírody považovány za zranitelné a ve volné přírodě jich žije odhadem 1 800.",
+      "region_cs": "USA, Atlanta",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/chinas-giant-pandas-make-public-debut-at-us-zoo"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/americas/20261107-giant-pandas-loaned-by-china-make-public-debut-at-us-zoo"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3373615/panda-fans-flock-zoo-atlanta-debut-ping-ping-and-fu-shuang"
+        }
+      ],
+      "original_titles": [
+        "US: Giant pandas from China make public debut at Atlanta zoo",
+        "Giant pandas loaned by China make their public debut at US zoo",
+        "China’s giant pandas make public debut at US zoo",
+        "Panda fans flock to Zoo Atlanta for the debut of Ping Ping and Fu Shuang"
+      ]
+    }
+  ],
+  "rejected": [],
+  "usage": {
+    "input_tokens": 83547,
+    "output_tokens": 10272,
+    "cost_usd": 0.013490700000000001
+  },
+  "buttondown_id": "em_3fs2rn78tt969vwpwh6j9z3hf0",
+  "sent_live": true
+}
