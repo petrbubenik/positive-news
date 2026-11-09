@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-09",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Indie snížila ceny 1 364 léků proti rakovině",
+      "summary_cs": "Od pondělí 9. listopadu 2026 platí v Indii snížené nejvyšší maloobchodní ceny 1 364 přípravků proti rakovině od 85 farmaceutických firem. Státní úřad NPPA omezil obchodní marže u 137 léčiv na základě doporučení odborné komise ministerstva zdravotnictví. Podle oficiálního sdělení by pacienti mohli ušetřit odhadem 35,4 miliardy rupií ročně. Ceny u 679 značek klesly o více než polovinu, nejvíce o 96,45 procenta. Lékárny ani nemocnice nesmějí účtovat vyšší cenu, než je nová cena uvedená na obalu.",
+      "region_cs": "Indie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/revised-mrps-of-1364-anti-cancer-formulations-come-into-effect-consumers-to-save-3540-croreyear/article71681795.ece"
+        },
+        {
+          "outlet": "NDTV",
+          "url": "https://www.ndtv.com/health/government-cancer-drug-price-curb-likely-to-create-rs-3-357-crore-savings-estimate-12293466"
+        }
+      ],
+      "original_titles": [
+        "Revised MRPs of 1,364 anti-cancer formulations come into effect; consumers to save ₹3,540 crore/year",
+        "Government Cancer Drug Price Curb Likely To Create Rs 3,357 Crore Savings Estimate"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Robot poprvé postavil konstrukci ve vesmíru bez pomoci astronautů",
+      "summary_cs": "Robot vyvinutý na Kalifornském technologickém institutu (Caltech) s financováním americké agentury DARPA poprvé na oběžné dráze samostatně sestavil část příhradové konstrukce bez astronautů. Robotické rameno bere z zásobníků trubky a spojky a skládá z nich opakující se sekce. Systém pracoval na oběžné dráze šest měsíců. Plánovanou anténu o průměru 1,4 metru se kvůli technickým potížím a časovým omezením nepodařilo dokončit, sestavena byla první sekce. Výsledek naznačuje, že by tato metoda v budoucnu mohla umožnit stavbu obřích dalekohledů, komunikačních antén nebo solárních elektráren na oběžné dráze.",
+      "region_cs": "Vesmír",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm"
+        },
+        {
+          "outlet": "caltech.edu",
+          "url": "https://www.caltech.edu/about/news/caltech-robotic-space-demo-successfully-builds-in-space"
+        }
+      ],
+      "original_titles": [
+        "Caltech robot makes history by building a structure in space",
+        "A robotic truss builder that was conceived, designed, and built by Caltech researchers and funded by the Defense Advanced Research Projects Agency (DA"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Pianista z výletní lodi přežil devět hodin v Pacifiku, zachránili ho rybáři",
+      "summary_cs": "Zaměstnance společnosti Royal Caribbean, pianistu z lodi Ovation of the Seas, našli dva rybáři z Newport Beach zhruba 30 kilometrů od kalifornského pobřeží. Muž pravděpodobně spadl přes palubu asi devět hodin předtím. Rybáři Sean Norton a Grant Garrett ho vytáhli na palubu a zavolali záchranáře z Newport Beach. Muž byl převezen do nemocnice ve stabilním stavu, pobřežní stráž vyšetřuje, jak k pádu došlo. Rybáři přežití připisují i neobvykle teplé vodě způsobené silným jevem El Niño.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/royal-caribbean-employee-rescue-newport-beach-california-b3081314.html"
+        },
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/us/2026/11/09/cruise-ship-pianist-rescued-after-nine-hours-treading-water-miles-from-shore/"
+        }
+      ],
+      "original_titles": [
+        "Pianist who fell from cruise ship found alive by Californian fishermen nine hours later",
+        "Cruise ship pianist rescued after nine hours treading water 30km from shore",
+        "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Senegalští surfaři chtějí dobýt vlny i přes nedostatek vybavení",
+      "summary_cs": "Surfařská škola Anda Surf v rybářské vesnici Ngor na pobřeží u Dakaru vznikla loni a její zakladatelé Ibra Samb a Cherif Fall v ní učí děti z místní komunity. Každou neděli nabízí bezplatné lekce pro děti od 7 do 14 let na prknech darovaných australskými surfaři. Sport přitom naráží na vysoké náklady, protože začátečnické prkno stojí zhruba 200 dolarů, což je dvojnásobek měsíční minimální mzdy. Zájem rodičů i dívek roste. Výuka probíhá v době, kdy Senegal hostí mladežnické olympijské hry, první olympijskou akci na africké půdě.",
+      "region_cs": "Senegal, Ngor",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/09/senegal-dakar-surf-school-helps-young-africans-reclaim-the-waves"
+        }
+      ],
+      "original_titles": [
+        "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
+        "Senegal: Dakar surf school helps young Africans reclaim the waves"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Čínský přístroj jako černá díra zachycuje nádorové buňky v krvi",
+      "summary_cs": "Vědci z Šanghajské univerzity Jiao Tong představili prototyp zařízení, které z krevního oběhu odstraňuje odlomené nádorové buňky. Ty mohou způsobit návrat nemoci a tvorbu metastáz, které jsou hlavní příčinou úmrtí na rakovinu. V experimentech na myších s nádorem prsu zařízení buňky účinně odstranilo, oddálilo návrat nádoru a prodloužilo přežití. Výsledky byly zveřejněny 2. listopadu v odborném časopisu Microsystems & Nanoengineering. Jde zatím o ověření principu a do klinické praxe je ještě daleko.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/china/science/article/3373756/chinese-black-hole-purifier-catches-tumour-cells-blood-stop-cancer-spread"
+        },
+        {
+          "outlet": "Studie: Microsystems & Nanoengineering",
+          "url": "https://doi.org/10.1038/s41378-026-01432-9"
+        }
+      ],
+      "original_titles": [
+        "Chinese ‘black-hole’ purifier catches tumour cells in blood to stop cancer spread",
+        "Black-hole system: in vivo continuous bioligand-assisted elimination of circulating tumor cells to prevent cancer recurrence and metastasis"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Upravené CAR-T buňky u myší zcela zlikvidovaly smrtelný nádor mozku",
+      "summary_cs": "Vědci z Kalifornské univerzity v San Franciscu vyvinuli imunitní buňky B-SYNC CAR-T, které se aktivují až v mozku a jinde v těle zůstávají neaktivní. Ve dvou myších modelech zcela odstranily difuzní střední gliom, agresivní dětský nádor mozku, který téměř vždy vede ke smrti do roku. Léčba poskytla i dlouhodobou ochranu, protože při opětovném podání nádorových buněk po několika týdnech nové nádory nevznikly. Studie vyšla 28. října v časopise Science Translational Medicine. Klinické testy na pacientech by mohly začít už v dubnu 2027.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm"
+        },
+        {
+          "outlet": "Studie: Science Translational Medicine",
+          "url": "https://doi.org/10.1126/scitranslmed.aed9994"
+        }
+      ],
+      "original_titles": [
+        "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+        "Brain-sensing synNotch–CAR T cells enable precise targeting and clearance of diffuse midline glioma in multiple preclinical models"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Běžný doplněk stravy z vitaminu B5 může pomoci proti psoriáze",
+      "summary_cs": "Vědci z Pekingu zjistili, že pantethin, volně dostupný doplněk stravy odvozený z vitaminu B5, dokáže utlumit přehnaně aktivní imunitní buňky podílející se na psoriáze. U myší zabránil rozvoji nemoci, a to díky ovlivnění enzymů Vanin, které pantethin přeměňují. Tím se snižuje nadměrná tvorba cholesterolu v dendritických buňkách. U malého počtu pacientů se v pilotní studii zlepšily příznaky. Výsledky vyšly 27. října v časopise Journal of Experimental Medicine. Jde o předběžný výzkum, který vyžaduje rozsáhlejší ověření.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm"
+        },
+        {
+          "outlet": "Studie: Journal of Experimental Medicine",
+          "url": "https://doi.org/10.1084/jem.20252558"
+        }
+      ],
+      "original_titles": [
+        "Common supplement could help fight psoriasis, scientists discover",
+        "Vanin-pantethine metabolic axis shapes dendritic cell function and affects inflammatory disorder progression"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 80449,
+    "output_tokens": 12598,
+    "cost_usd": 0.014343900000000001
+  },
+  "buttondown_id": "em_0c36kyr5ym896rqt5bqhne471m",
+  "sent_live": true
+}
