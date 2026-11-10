@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-10",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Léčba CAR-T přináší naději pacientům s nemocí, na kterou trpí Céline Dion",
+      "summary_cs": "Lékaři z americké Mayo Clinic oznámili slibné výsledky léčby vzácné autoimunitní choroby stiff person syndrome, na kterou trpí i zpěvačka Céline Dion. Metodu CAR-T, původně vyvinutou proti rakovině, použili na vlastních T-buňkách pacientů, které upravili tak, aby likvidovaly škodlivé buňky. Výsledky zveřejněné v časopisu JAMA Neurology ukazují, že někteří pacienti, kteří dříve potřebovali pomoc s chůzí a běžnými úkony, se vrátili do práce i ke koníčkům. Odborníci upozorňují, že zbývá zjistit, zda zlepšení vydrží dlouho. Dosud přitom neexistuje léčba, která by nemoc vyléčila.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion"
+        },
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/etimes/wellness/car-t-cell-therapy-has-promising-results-for-stiff-person-syndrome-could-this-be-the-medical-breakthrough-for-patients-like-cline-dion/articleshow/135697944.cms"
+        }
+      ],
+      "original_titles": [
+        "Medical breakthrough offers hope to people with same stiff person syndrome as Céline Dion",
+        "CAR-T cell therapy has promising results for stiff-person syndrome: Could this be the medical breakthrough for patients like Céline Dion?"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nová buněčná terapie v myších pokestila smrtelné nádory mozku",
+      "summary_cs": "Vědci z Kalifornské univerzity v San Franciscu vyvinuli nový typ imunitních buněk CAR-T, které se aktivují až po vstupu do mozku. Pokusy na myších, publikované v časopise Science Translational Medicine, ukázaly, že buňky zcela zlikvidovaly nádory difuzního středního gliomu, agresivního dětského nádoru mozku, který je téměř vždy smrtelný do roku. U myší zůstala ochrana zachována i po opětovném nasazení nádorových buněk. Klinické testy na pacientech by podle plánu mohly začít v dubnu 2027. Výsledky jsou zatím pouze předklinické.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104084009.htm"
+        },
+        {
+          "outlet": "Studie: Science Translational Medicine",
+          "url": "https://doi.org/10.1126/scitranslmed.aed9994"
+        }
+      ],
+      "original_titles": [
+        "Scientists wipe out deadly brain tumors in every mouse tested with new cancer therapy",
+        "Brain-sensing synNotch–CAR T cells enable precise targeting and clearance of diffuse midline glioma in multiple preclinical models"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Oxfordské muzeum vrátilo Nagům ostatky 39 jejich předků",
+      "summary_cs": "Univerzita v Oxfordu vrátila komunitě Naga ze severovýchodní indické části Nagálandu ostatky 39 lidí. Většinou jde o lebky, které byly sebrány v éře britské koloniální nadvlády. Muzeum Pitt Rivers je předalo při slavnostním ceremoniálu, kterého se zúčastnila asi třicetičlenná delegace. Ostatky budou pohřbeny pod společným památníkem v parku v Nagálandu. Ředitelka muzea Laura Van Broekhoven to označila za historický okamžik. Muzeum přitom v depozitářích stále uchovává zhruba 2 700 lidských pozůstatků, a proces restitucí tak pokračuje.",
+      "region_cs": "Velká Británie, Indie (Nagaland)",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/oxford-museum-makes-historic-return-of-naga-human-remains"
+        }
+      ],
+      "original_titles": [
+        "Oxford museum returns ancestral Naga skulls to India",
+        "Oxford museum makes ‘historic’ return of Naga human remains"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Rozdělený Kypr otevře dva nové přechody přes nárazníkovou zónu",
+      "summary_cs": "Vůdci rozděleného Kypru, prezident Nikos Christodoulides a tureckocypersky vůdce Tufan Erhürman, se dohodli na otevření dvou nových přechodů pro automobily přes nárazníkovou zónu OSN. Stane se tak poprvé za téměř deset let. Na ostrově dosud existuje devět přechodů na 180 kilometrech hranice a dlouhé fronty u některých z nich trápí tisíce lidí denně. Přechody na severozápadě a jihovýchodě ostrova by se měly otevřít současně, termín zatím není znám. Dohoda je signálem postupu v jednáních, která mohou vést k obnovení mírových rozhovorů, i když zásadní neshody přetrvávají.",
+      "region_cs": "Kypr",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/cyprus-nicosia-antonio-guterres-recep-tayyip-erdogan-greece-b3081848.html"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.msn.com/en-us/news/other/cyprus-rivals-agree-new-crossings-across-island-s-dividing-line/ar-AA2h53oB"
+        }
+      ],
+      "original_titles": [
+        "Ethnically split Cyprus' rival leaders agree to 2 more crossings across island's dividing line",
+        "Cyprus rivals agree new crossings across island’s dividing line"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one source (Scientific American) supports the core finding; the primary PMC source is a narrative review on OSA prevalence and does not back the trial results.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Eli Lilly shows GLP-1 weight-loss pill Foundayo can dramatically improve sleep apnea",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Mixed outbreak coverage where the good news is secondary; the second source is only a teaser on the same theme.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "How word of mouth is helping an Amish community's fight against measles",
+        "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "The only primary source is the 2015 CMS/LHCb paper, which does not support the new 2026 evidence; only one source supports the core facts.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+        "Abstract"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 94882,
+    "output_tokens": 14438,
+    "cost_usd": 0.016707200000000002
+  },
+  "buttondown_id": "em_0hnvrf0z1g9axs6ghq920xz7vv",
+  "sent_live": true
+}
