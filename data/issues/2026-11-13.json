@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-13",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Čína schválila první perorální lék na hubnutí ze skupiny GLP-1",
+      "summary_cs": "Čínský regulátor léků schválil pilulku orforglipron americké farmaceutické společnosti Eli Lilly, prodávanou pod názvem Foundayo. Jde o první dostupný perorální lék ze skupiny GLP-1 na obezitu v Číně. Přípravek se užívá jednou denně a může ho dostat dospělí s obezitou nebo nadváhou k dlouhodobé regulaci hmotnosti. Ve velkém čínském trhu s léky na hubnutí se nyní o místo snaží řada farmaceutických firem, a pacienti tak získají další možnost léčby.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/business/companies/article/3374229/eli-lilly-beats-novo-nordisk-china-approval-first-oral-glp-1-weight-loss-drug"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-approves-eli-lillys-weight-loss-pill-orforglipron-2026-11-12/"
+        }
+      ],
+      "original_titles": [
+        "Eli Lilly beats Novo Nordisk to China approval for first oral GLP-1 weight-loss drug",
+        "Eli Lilly becomes first drugmaker to have a GLP-1 weight-loss pill approved in China"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Rusko a Ukrajina se dohodly na rozsáhlé výměně vězňů",
+      "summary_cs": "Rusko a Ukrajina se po jednáních v Abú Zabí dohodly na výměně zajatců, kterou americký vyslanec Jared Kushner označil za největší za celou válku. Mohla by se týkat tisíců lidí, konkrétní počty měly být upřesněny později. Ukrajinský vyjednavač David Arakhamija hovořil o pozitivním postupu a naději na dohodu do konce roku. Jednání však neskončila příměřím a obě strany přiznávají zásadní rozdíly, zejména v otázce území.",
+      "region_cs": "Rusko, Ukrajina",
+      "sources": [
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/europe/2026/11/12/us-envoys-to-meet-putin-and-zelenskiy-after-peace-talks-end-with-no-breakthrough/"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/kushner-says-us-working-toward-largest-prisoner-exchange-of-russias-war-in-ukraine"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/11/11/russia-ukraine-agree-prisoner-swap-little-else-us-mediated-talks/"
+        }
+      ],
+      "original_titles": [
+        "Kushner says US working towards ‘largest prisoner exchange’ of Russia’s war in Ukraine",
+        "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+        "US envoys to meet Putin and Zelenskiy after peace talks end with no breakthrough",
+        "Russia and Ukraine agree to prisoner swap, but little else, in U.S.-mediated talks"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source (Reuters via The Straits Times) covers the core facts. The WHO survivor-clinic page is a related but different item, and the coverage is mixed, stressing rising insecurity and spread.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "UN hails progress in Ebola response, cites insecurity as biggest challenge",
+        "Bunia, the Democratic Republic of the Congo— Leaving an Ebola treatment centre (ETC) does not mark the end of a patient’s care journey. In Bunia, the "
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news article (NPR) supports the core facts about state insulin caps. The Shaheen press release concerns a federal bill, a different item, so it does not back the state-level news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+        "Shaheen Announces 2 New Cosponsors of Bipartisan Bill to Cap Monthly Insulin Costs at $35, Bringing Total to 28 Bipartisan Senators"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the story centers on a father charged with attempted murder after burying his baby alive; the survival is a detail within a crime report.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Grandpa recounts dramatic rescue of baby boy who was buried alive after dad charged, denied bail",
+        "Father of South Carolina baby who survived being buried alive charged with attempted murder"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the story is a domestic incident with a false imprisonment charge, and the children's escape is secondary to that context.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Florida police rescue kids holding ‘help us’ sign in the window during a domestic incident",
+        "Kid places 'help us' sign in window after Florida police respond to domestic disturbance call"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the main finding is an increased preterm-birth risk for GLP-1 use in diabetes patients. The reassuring weight-management result is only a secondary detail.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
+        "Periconceptional GLP-1 receptor agonist exposure and obstetric outcomes: a Danish nationwide cohort study"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 95395,
+    "output_tokens": 12536,
+    "cost_usd": 0.015807500000000002
+  },
+  "buttondown_id": "em_0xqefk07k485vrwxm9fbm09brk",
+  "sent_live": true
+}
