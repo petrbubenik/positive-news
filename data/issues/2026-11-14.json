@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-14",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Singapur autorizoval první projekt s uhlíkovými kredity v Rwandě",
+      "summary_cs": "Singapur poprvé autorizoval projekt v rámci svého systému uhlíkových kreditů. Jde o projekt firmy Climate Bridge International, který v Rwandě rozdá 300 000 keramických filtrů na vodu. Ty umožní bezpečnou pitnou vodu asi 1,8 milionu lidem a nebude se muset vařit na dřevě nebo dřevěném uhlí. Podle národní agentury NEA tím do roku 2030 ušetří zhruba 780 000 tun emisí. Firmy podléhající singapurské uhlíkové dani si z něj mohou kupovat kredity na částečné vykrytí svých emisí. Oznámení přišlo během klimatického summitu COP31 v turecké Antalyi.",
+      "region_cs": "Rwanda",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/spore-authorises-first-carbon-credit-project-in-rwanda"
+        },
+        {
+          "outlet": "CNA",
+          "url": "https://www.channelnewsasia.com/singapore/carbon-credit-project-safe-drinking-water-rwanda-6551446"
+        }
+      ],
+      "original_titles": [
+        "S’pore authorises first carbon credit project in Rwanda",
+        "Singapore authorises carbon credit project to improve safe drinking water access in Rwanda"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dalekohled Euclid zveřejnil data o více než 900 milionech galaxií",
+      "summary_cs": "Evropská kosmická agentura ESA zveřejnila první velkou datovou sadu z dalekohledu Euclid, který od roku 2023 snímkuje oblohu. Obsahuje snímky více než 900 milionů galaxií a přes 60 milionů kandidátů na kvasary. Zahrnuje také největší dosud sestavený katalog silných gravitačních čoček, tedy zhruba 15 000 kandidátů, které pomohou vážit galaxie včetně temné hmoty. Data pokrývají rozsáhlé části oblohy a astronomům umožní postupně sestavit největší trojrozměrnou mapu vesmíru. Vědci tak získávají základ pro další objevy o temné energii a temné hmotě.",
+      "region_cs": "Vesmír",
+      "sources": [
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail/"
+        },
+        {
+          "outlet": "esa.int",
+          "url": "https://www.esa.int/hu/articles/about-us/directorates/science/euclid/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe"
+        }
+      ],
+      "original_titles": [
+        "The Euclid space telescope captures nearly a billion celestial objects in stunning detail",
+        "maradj tájékozott"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Některé léky, dieta a cvičení zpomalují biologické stárnutí, doplňky ne",
+      "summary_cs": "Vědci z Yalu zjistili, které léčby mohou zpomalit biologické stárnutí, a které nikoli. Analyzovali data z 51 studií a výsledky zveřejnili v časopise Nature Medicine. Měřili je pomocí krevních testů založených na DNA, tzv. epigenetických hodin. Účinek prokázaly některé léky, například metformin a semaglutid, a kombinace zdravé stravy s cvičením. Běžné doplňky stravy se ukázaly jako téměř neúčinné. Autoři upozorňují, že snížení biologického věku automaticky neznamená delší život, a výzkum je třeba dál ověřovat.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm"
+        },
+        {
+          "outlet": "news.yale.edu",
+          "url": "https://news.yale.edu/2026/08/21/can-you-slow-aging-process-study-reveals-which-interventions-might-help"
+        }
+      ],
+      "original_titles": [
+        "Yale scientists reveal what really slows aging and what doesn't",
+        "When Raghav Sehgal arrived at Yale as a graduate student several years ago, he wanted to explore the use of powerful computer science tools in cancer "
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Výroba Rubikovy kostky se vrací do Maďarska, kde vznikla",
+      "summary_cs": "Výroba Rubikovy kostky se vrací do Maďarska, kde ji v roce 1974 navrhl architekt Ernő Rubik. V Jászberényi byla slavnostně otevřena nová plně automatizovaná linka, na které robotická ramena kostky skládají a testují jejich funkčnost i odolnost. Závod má ročně vyrobit až milion kusů. Rubik připomněl, že hlavní vlna popularity přišla v letech 1980 až 1983, kdy se prodalo zhruba 200 milionů kusů. Kostka se podle něj zrodila právě v Maďarsku a nyní se do něj vrací.",
+      "region_cs": "Maďarsko",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/iconic-puzzle-home-production-rubiks-cube-returns-hungary-138101469"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/14/rubiks-cube-production-returns-to-hungary-more-than-50-years-after-invention"
+        }
+      ],
+      "original_titles": [
+        "Rubik's Cube production returns to Hungary more than 50 years after invention",
+        "An iconic puzzle comes home as production of the Rubik's Cube returns to Hungary"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Core event is a cruise ship collision and capsizing; the positive angle (no deaths) is a minor detail of a disaster report, not genuinely positive news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+        "‘Miracle on the Mississippi’: All passengers accounted for after New Orleans riverboat crash, officials say",
+        "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "Tanker collides with cruise ship on Mississippi in New Orleans",
+        "Freighter collides with cruise ship in New Orleans, passengers in the water",
+        "'Miracle on the Mississippi': All passengers rescued after tanker collides with cruise ship in New Orleans",
+        "Tanker hits river cruise ship near New Orleans port",
+        "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news article covers the state insulin caps; the primary source is a press release about a different federal bill and does not back the core facts (29 state caps).",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+        "Shaheen Announces 2 New Cosponsors of Bipartisan Bill to Cap Monthly Insulin Costs at $35, Bringing Total to 28 Bipartisan Senators"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news article (a feature); the supporting primary paper is from 2010, so this is old research resurfacing as news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Fruit bats emerge as unlikely allies in the Atlantic Forest restoration",
+        "Use of Fruit Essential Oils to Assist Forest Regeneration by Bats"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 93414,
+    "output_tokens": 13223,
+    "cost_usd": 0.0159529
+  },
+  "buttondown_id": "em_2mw6nm734f9pvaq1ay59dmhd2j",
+  "sent_live": true
+}
