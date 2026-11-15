@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-15",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Mozkové implantáty pomohly pacientům s ALS znovu mluvit i zpívat",
+      "summary_cs": "Experimentální mozkové implantáty dokázaly přeložit signály mozku 46letého muže postiženého ALS přímo do srozumitelné řeči. Výzkumníci z Kalifornské univerzity v Davisu uvádějí zpoždění pouhých deset milisekund a přesnost srozumitelnosti slov podle nového rozboru 94 procent. Jiná pacientka, 58letá bývalá zpěvačka, dokázala díky podobnému systému zazpívat hudební stupnici a po ní uronila slzy štěstí. Výsledky budou prezentovány na konferenci Společnosti pro neurovědy ve Washingtonu. Odborníci však upozorňují, že je třeba ověřit systém v reálném čase a vyvinout plně implantovatelnou verzi.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/brain-implants-give-als-patients-the-voice-to-speak-and-sing"
+        }
+      ],
+      "original_titles": [
+        "Brain implants give ALS patients the voice to speak and sing",
+        "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "SpaceX poprvé chytila loď Starship při návratu z oběžné dráhy",
+      "summary_cs": "Společnost SpaceX poprvé zachytila horní část rakety Starship mechanickými rameny na startovní věži v Texasu. Loď se po 22hodinovém letu vrátila z oběžné dráhy, kde obletěla Zemi 14krát a vypustila 26 satelitů sítě Starlink. Plán zachytit i spodní stupeň Super Heavy ale selhal, protože se booster odklonil a nad Mexickým zálivem explodoval. Podle firmy motor předčasně vypnul kvůli nízkému množství paliva a příčina se stále vyšetřuje. Firma uvádí, že loď i tepelný štít fungovaly dobře, a NASA zásah ocenila jako krok k plánovanému přistání lidí na Měsíci.",
+      "region_cs": "USA, Texas",
+      "sources": [
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/space/starship-spacex-elon-musk-space-launch-b3085185.html"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/15/watch-spacex-catches-starship-in-midair-on-return-to-launch-tower"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/spacex-makes-rocketry-history-by-recapturing-massive-reusable-rocketship"
+        },
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/spacexs-starship-nears-end-of-15th-test-flight-and-return-landing-attempt"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374463/spacex-successfully-carries-out-first-ever-spaceship-catch"
+        }
+      ],
+      "original_titles": [
+        "SpaceX’s Starship returns to launch pad from orbit – video",
+        "SpaceX’s Starship returns to launch pad from orbit for first time",
+        "Watch: SpaceX catches Starship in midair on return to launch tower",
+        "SpaceX makes rocketry history by recapturing massive reusable rocketship",
+        "SpaceX catches part of its Starship rocket in historic first",
+        "SpaceX pulls off first-ever spaceship ‘catch’",
+        "Highlights From the Starship Landing",
+        "SpaceX Makes History With Successful Rocket Catch in Texas",
+        "SpaceX catches part of its Starship rocket on return to Earth",
+        "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+        "SpaceX successfully catches top of huge Starship rocket for first time",
+        "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+        "SpaceX’s Starship returns to landing pad from orbit, acing test for reusable rockets",
+        "SpaceX successfully catches Starship and makes history",
+        "SpaceX carries out first-ever spaceship capture",
+        "SpaceX successfully carries out first-ever spaceship catch",
+        "SpaceX's Starship completes first-ever mid-air catch after return from orbit"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Čínské elektrické letadlo CE-25A poprvé letělo s posádkou",
+      "summary_cs": "Čínské elektrické cestovní letadlo CE-25A absolvovalo první let s posádkou. Stroj, který vyvinula státní společnost COMAC ve spolupráci s výrobcem baterií CATL, vzlétl a přistál v Binzhou v provincii Šan-tung. Ve vzduchu zůstal 16 minut a 38 sekund a urazil zhruba 60 kilometrů. Na palubě byli dva piloti a jeden inženýr. Letadlo pojme 19 cestujících a je určeno pro krátké lety mezi městy. Certifikaci od čínského úřadu CAAC zatím nemá.",
+      "region_cs": "Čína",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/15/chinese-electric-passenger-plane-completes-first-crewed-flight"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.msn.com/en-in/news/world/chinas-electric-aircraft-ce-25a-successfully-completes-maiden-crewed-flight-video/ar-AA2htsfO"
+        }
+      ],
+      "original_titles": [
+        "Chinese electric passenger plane completes first crewed flight",
+        "China's electric aircraft CE-25A successfully completes maiden crewed flight; video"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Mainly a government policy announcement with mixed framing (shorter guarantee period, welfare cost cuts); the good news is not clearly positive.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "British government to expand, accelerate youth job guarantee programme",
+        "UK Government To Expand, Accelerate Youth Job Guarantee Program"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old research resurfacing: the supporting primary paper dates from 2010, and the only current source is a feature article about that older work.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Fruit bats emerge as unlikely allies in the Atlantic Forest restoration",
+        "Use of Fruit Essential Oils to Assist Forest Regeneration by Bats"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the story is mainly about war and military drones; both sources are the same AFP article.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "In the ‘kill zone’, Ukraine bets on flying evacuation drones",
+        "In the ‘kill zone’, Ukraine bets on flying evacuation drones"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Research-stage observation with speculative benefit for patients; only one press-release aggregator plus a primary paper with no abstract, and no independent news coverage.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Alzheimer’s may start shrinking two brain regions years before memory loss",
+        "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+        "Rostral associations of MRI atrophy of the amygdala and entorhinal cortex across the AD spectrum"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 86325,
+    "output_tokens": 15019,
+    "cost_usd": 0.016142
+  },
+  "buttondown_id": "em_6fwahfgfvh9189dr71z1gk0aqr",
+  "sent_live": true
+}
