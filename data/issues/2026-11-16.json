@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-16",
+  "note": "",
+  "stories": [
+    {
+      "topic": "people",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Ženy stíhané za potrat v Anglii a Walesu dostanou automatickou milost",
+      "summary_cs": "Od pondělí platí v Anglii a Walesu automatická milost pro ženy, které byly v minulosti odsouzeny nebo vyšetřovány kvůli ukončení vlastního těhotenství podle viktoriánského zákona z roku 1861. Jejich trestní záznamy se vymažou a nemusejí o nic žádat. Vláda nezveřejnila přesný počet, ale poslankyně Tonia Antoniazziová uvedla, že policie v předchozích pěti letech vyšetřovala více než sto žen. Změna navazuje na loňské hlasování parlamentu o dekriminalizaci potratů. Pro ženy, jako je Nicola Packerová, která byla zproštěna viny až po téměř pěti letech, je to důležité uznání, i když podle nich stigma zůstává.",
+      "region_cs": "Anglie a Wales",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/british-women-to-receive-automatic-pardons-for-previous-abortion-convictions"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/15/women-pardoned-abortion-england-wales"
+        }
+      ],
+      "original_titles": [
+        "Women's criminal records wiped for abortion offences",
+        "British women to receive automatic pardons for previous abortion convictions",
+        "British women to receive automatic pardons for past abortion convictions",
+        "Women prosecuted for abortions hail ‘historic day’ after receiving pardon"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Indie: výdaje na zdravotnictví z vlastní kapsy klesly na 42,7 procenta",
+      "summary_cs": "Indická vláda zveřejnila nové odhady národních zdravotnických účtů, podle nichž výdaje na zdraví vzrostly více než třikrát na 4,14 bilionu rupií. Podíl výdajů, které hradí domácnosti přímo z vlastní kapsy, klesl mezi lety 2013–2014 a 2023–2024 z 64,2 na 42,7 procenta. Ministerstvo to připisuje rozšiřování státem financované péče a pojištění, například programu Ayushman Bharat. Podíl státu na celkových výdajích vzrostl o 14,9 procentního bodu a výdaje na primární péči dosáhly zhruba 1,53 bilionu rupií.",
+      "region_cs": "Indie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/india-news/indias-health-spending-triples-to-rs-4-14l-cr-out-of-pocket-spending-drops-to-42-7-nha-101794740399998.html"
+        }
+      ],
+      "original_titles": [
+        "Out-of-pocket expenditure on health shows decadal decline | Explained",
+        "India’s health spending triples to ₹4.14 lakh crore, but out-of-pocket share drops to 42.7%: NHA",
+        "India’s health spending triples to ₹4.14L cr, out-of-pocket spending drops to 42.7%: NHA"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Kerala zachránila přes 27 tisíc orchidejí z kácených stromů",
+      "summary_cs": "Výzkumný tým z botanické zahrady Malabar v indickém Kerale za poslední tři roky zachránil více než 27 tisíc vzácných orchidejí, které rostly na stromech kácených kvůli rozšiřování silnic. Rostliny přesadil do botanické zahrady, do městského mokřadu Sarovaram v Kozhikódu a na pláž Kappad, kde byly vystaveny silnému větru a solnému postřiku. Po 12 až 24 měsících přežilo 71,4 procenta exemplářů a řada z nich už kvete. Podle studie v časopise Plants přežila i více než polovina endemických druhů. Projekt ukazuje, že přesazování může omezit ztráty biologické rozmanitosti.",
+      "region_cs": "Indie, Kerala",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece"
+        },
+        {
+          "outlet": "The Times of India",
+          "url": "https://www.msn.com/en-in/news/other/road-construction-in-kerala-threatened-thousands-of-rare-orchids-growing-on-trees/ar-AA2hnSBg"
+        }
+      ],
+      "original_titles": [
+        "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+        "Road construction in Kerala threatened thousands of rare orchids growing on trees"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Náplast s ultrazvukem pomáhá dřív dosáhnout REM spánku bez léků",
+      "summary_cs": "Vědci z University of Texas v Austinu vyvinuli nositelnou náplast NEUSLeeP, která pomocí jemného ultrazvuku stimuluje hluboké oblasti mozku a zároveň sleduje jeho činnost. V menší studii na 28 lidech, zveřejněné v časopise Nature Communications, se účastníci dostali do fáze REM spánku v průměru o 43 minut dříve a v ní zůstali o 16 minut déle. Účinek se projevil u zdravých lidí i u těch s potížemi se spánkem a dobrovolníci uváděli jen minimální nežádoucí účinky. Autoři chtějí nyní provést rozsáhlejší testy, které ověří stabilitu účinku i jeho využití při PTSD nebo nespavosti.",
+      "region_cs": "USA, Texas",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
+        },
+        {
+          "outlet": "news.utexas.edu",
+          "url": "https://news.utexas.edu/2026/07/07/get-better-sleep-with-ultrasound-patch-that-boosts-rem-rest/"
+        }
+      ],
+      "original_titles": [
+        "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+        "Get Better Sleep With Ultrasound Patch That Boosts REM Rest"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news article (Mongabay) covers the 2026 firefly sighting; the PLoS primary is a 2021 Red List paper, not the new study, so the core facts lack two supporting sources.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "A ‘lost’ firefly species flashes back into view in the US",
+        "Figures"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Old news resurfacing: the Berkeley primary source dates the Nature paper to June 24, 2026, so this coverage in November concerns a study published about five months earlier.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "AI discovers a hidden heart signal that could predict sudden death",
+        "With AI, researchers discover new way to detect sudden cardiac death risk"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: it reports a sinking cargo ship amid drone attacks, and the crew rescue is a minor detail of an incident.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Bulgaria rescues crew from capsized wheat ship in Black Sea, transport ministry says",
+        "Bulgaria rescues crew from capsized wheat ship in Black Sea, transport ministry says"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 82662,
+    "output_tokens": 12519,
+    "cost_usd": 0.014525700000000002
+  },
+  "buttondown_id": "em_73pj41d0hf9rj8fzeqwz9cnyz4",
+  "sent_live": true
+}
