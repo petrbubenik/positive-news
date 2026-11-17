@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-17",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Lékaři v Dillí poprvé v Indii operovali páteř nenarozeného dítěte",
+      "summary_cs": "Lékaři z Všeindického institutu lékařských věd (AIIMS) v Dillí poprvé v Indii provedli otevřenou operaci plodu s nejzávažnější formou rozštěpu páteře, lumbosakrální myelomeningokélou. Šestihodinový zákrok proběhl ve 25. týdnu těhotenství a uzavřel defekt, kterým z páteře unikal mozkomíšní mok a vystupovala část míchy. Na operaci se tým více než třiceti odborníků připravoval přes pět týdnů a rodina ji dostala zdarma v rámci státního programu. Neurochirurg Deepak Gupta uvedl, že zákrok může omezit další poškození nervové tkáně a snížit potřebu odvodnění mozku, ale není to léčba. Lékaři zároveň připomínají, že klíčová zůstává prevence, zejména dostatek kyseliny listové před otěhotněním.",
+      "region_cs": "Indie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/aiims-delhi-performs-a-life-changing-spinal-repair-in-utero-before-the-patients-first-breath/article71708137.ece"
+        },
+        {
+          "outlet": "The Indian Express",
+          "url": "https://www.msn.com/en-in/news/other/how-aiims-doctors-operated-on-unborn-baby-to-repair-spinal-defect-all-you-need-to-know/ar-AA2hszfP"
+        }
+      ],
+      "original_titles": [
+        "AIIMS Delhi performs a life-changing spinal repair in utero, before the patient’s first breath",
+        "How AIIMS doctors operated on unborn baby to repair spinal defect: All you need to know"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Mláďata olivových želv se vylíhla v Kalifornii a vypustila se do Pacifiku",
+      "summary_cs": "Na západním pobřeží USA byla poprvé v historii zaznamenána přirozená hnízda mořských želv. V září našli vědci dvě hnízda druhu želva olivová na plážích Seal Beach a Huntington Beach v Kalifornii. Před blížící se tropickou bouří přenesli více než 200 vajec do Akvária Pacifiku v Long Beach, kde se mláďata po 58 dnech líhla. Celkem 75 mláďat bylo v sobotu a v neděli vypuštěno do Pacifiku na plážích, kde se vylíhla. Vědci se domnívají, že na neobvyklém hnízdění se mohl podílet letošní jev El Niño. Odborníci odhadují, že se do dospělosti dostane jen jedno z tisíce mláďat.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched"
+        },
+        {
+          "outlet": "Smithsonian",
+          "url": "https://www.smithsonianmag.com/smart-news/these-adorable-hatchlings-are-from-the-us-west-coasts-first-known-natural-sea-turtle-nests-now-theyve-returned-to-the-wild-180989876/"
+        }
+      ],
+      "original_titles": [
+        "Band of baby sea turtles swims into ocean after historic California nesting",
+        "These Adorable Hatchlings Are From the U.S. West Coast's First Known Natural Sea Turtle Nests. Now, They've Returned to the Wild"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "V Kalifornii vypustili 62 mladých hadů ze seznamu ohrožených druhů",
+      "summary_cs": "V okrese San Mateo v Kalifornii vypustili zoologové do volné přírody 62 mladých hadů druhu podvazkovka sanfranciská. Tento had je na federálním seznamu ohrožených druhů od roku 1967 a v přírodě jich zbývá jen několik tisíc. Mláďata odchovala zoo San Francisco metodou takzvaného head-startingu, tedy chovem v nejzranitelnějším vývojovém období. Přibližně třetina hadů se vrátila do míst, kde žily jejich matky, zbytek byl vypuštěn na místa s větší genetickou rozmanitostí. Přesná místa zůstávají utajena kvůli pytlákům. Další více než 130 mláďat se má vypustit v roce 2027.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/san-francisco-garter-snakes-endangered-california-b3085844.html"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.msn.com/en-us/news/other/62-snakes-were-just-released-into-the-wild-this-is-good-news-we-promise/ar-AA2hBjYB"
+        }
+      ],
+      "original_titles": [
+        "Rare snakes released throughout California - but scientists say it’s for a good reason",
+        "62 snakes were just released into the wild. This is good news, we promise."
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one source (Mongabay) supports the core news about the planned Saleh Bay protected area and newborn sightings. The frontiersin abstract covers whale shark movement ecology and mentions Saleh Bay only in passing, so it does not back the news.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Plans for a new marine protected area boost whale shark conservation in Indonesia’s Saleh Bay",
+        "Abstract"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "The positive finding is modest (about 1-2 weeks of learning per year) and the sources stress that it is disputed: a separate NBER study found close to zero effect, and the Guardian and NPR emphasise scepticism, so the good news is not clearly genuine.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Schools are banning phones in the classroom and it’s paying off in higher test scores",
+        "School phone bans result in ‘modest’ academic gains for students, study shows",
+        "Does locking up a student's cell phone improve test scores? A new study suggests so"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news source (Guardian) covers the lawmakers' menopause bills. The primary source is a March 2026 Michigan report on a different initiative and does not back the core news about Pennsylvania and other states.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Menopause symptoms aren’t always taken seriously. These female lawmakers plan to change that",
+        "The web Browser you are currently using is unsupported, and some features of this site may not work as intended. Please update to a modern browser suc"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only one news-type source (ScienceDaily, an aggregator) reports the new carbon capture material. The EPA overview is generic background and does not support the specific finding.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "This remarkable new material could solve a major carbon capture problem",
+        "Overview of Greenhouse Gases"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 98449,
+    "output_tokens": 9836,
+    "cost_usd": 0.0147629
+  },
+  "buttondown_id": "em_6jn89jsq329cfrh9fqtam916ab",
+  "sent_live": true
+}
