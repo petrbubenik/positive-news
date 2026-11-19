@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-19",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Největší přechod pro zvěř nad dálnicí u Los Angeles už zvířata využívají",
+      "summary_cs": "Největší přechod pro zvěř na světě nad rušnou dálnicí US 101 severozápadně od Los Angeles se blíží oficiálnímu otevření, které je naplánované na 2. prosince. Most, pojmenovaný po filantropce Wallis Annenbergové, stojí 114 milionů dolarů a financovalo ho 6 000 veřejných dárců, nadace i státní fondy. Přes dálnici, kudy denně projede asi 300 000 vozidel, už přecházejí kojoti a další zvířata. Organizátoři doufají, že most brzy využije i puma, pro kterou se projekt inspiroval.",
+      "region_cs": "USA, Kalifornie",
+      "sources": [
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/annenberg-bridge-wildlife-crossing-p22-los-angeles-b3087352.html"
+        },
+        {
+          "outlet": "AP",
+          "url": "https://apnews.com/article/wallis-annenberg-wildlife-crossing-los-angeles-california-af2a0788528d85d6624c5b78b0fe427c"
+        }
+      ],
+      "original_titles": [
+        "World’s largest wildlife crossing opens over busy US freeway and becomes an instant hit",
+        "Over a freeway near Los Angeles, animals can roam safely thanks to world’s largest wildlife crossing"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Poslední šimpanzi z vlastnictví amerických NIH půjdou do útulku",
+      "summary_cs": "Národní instituty zdraví USA (NIH) přesunou poslední šimpanze, které ve svém vlastnictví ještě má, do útulku. Jde o 33 zvířat z výzkumného zařízení a přesun má proběhnout příští rok. NIH přestal invazivní výzkum na šimpanzích podporovat už v roce 2015, a přesun je tak završením dlouhého procesu. Dříve uváděl, že zvířata jsou na přesun příliš stará a křehká, nyní se tedy k přesunu přistupuje.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/last-remaining-nih-owned-chimpanzees-will-retire-sanctuary-next-year"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html"
+        }
+      ],
+      "original_titles": [
+        "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
+        "Last remaining NIH-owned chimpanzees will retire to a sanctuary next year"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Británie chystá konec feudálního pozemkového nájmu a strop na roční poplatky",
+      "summary_cs": "Britský ministr bydlení Matthew Pennycook představil zákon o reformě pozemkového vlastnictví, který má v Anglii a Walesu ukončit systém leaseholdu. Nové byty by se již neměly prodávat v nájmu a usnadní se přechod na společné vlastnictví commonhold, který bude stačit se souhlasem poloviny obyvatel domu. Jedním z prvních opatření bude strop pozemkového nájmu na 250 liber ročně, a to pravděpodobně od roku 2028. Lidé se tak zbaví části neférových poplatků.",
+      "region_cs": "Anglie a Wales",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.msn.com/en-us/news/other/feudal-leasehold-system-set-to-be-scrapped-in-england-and-wales/ar-AA2hJl92"
+        }
+      ],
+      "original_titles": [
+        "Leaseholders in England and Wales to have ground rent capped in 2028",
+        "'Feudal' leasehold system set to be scrapped in England and Wales"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Experimentální vakcína proti leukémii prodloužila život pacientům v pokročilé studii",
+      "summary_cs": "Společnost Sellas Life Sciences oznámila, že její experimentální vakcína galinpepimut-S prodloužila život pacientům s akutní myeloidní leukémií v pokročilé klinické studii. Medián přežití pacientů, kteří vakcínu dostali, byl 24 měsíců, zatímco u těch, kteří dostali nejlepší dostupnou léčbu, to bylo 14,7 měsíce. Firma nyní plánuje jednat s americkým Úřadem pro kontrolu potravin a léčiv (FDA) o možném schválení. Údaje zatím pochází od společnosti a čekají na další posouzení.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/sellas-cancer-vaccine-extends-survival-in-blood-cancer-trial-company-says/article71719791.ece"
+        },
+        {
+          "outlet": "Reuters",
+          "url": "https://www.msn.com/en-us/health/diseases-and-conditions/sellas-vaccine-extends-survival-in-blood-cancer-trial/ar-AA2hCuiW"
+        }
+      ],
+      "original_titles": [
+        "Sellas’ cancer vaccine extends survival in blood cancer trial, company says",
+        "Sellas' vaccine extends survival in blood cancer trial"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Magnetické nanočástice by mohly nahradit implantáty při léčbě Parkinsonovy choroby",
+      "summary_cs": "Mezinárodní tým vědců z Erlangenu, Aachenu, Maastrichtu a Leuvenu vyvinul techniku, která stimuluje hluboké oblasti mozku pomocí magnetického pole a drobných částic. Do mozku se vstříknou magnetické nanodisky, které při působení vnějšího pole vyvíjejí drobné mechanické síly a aktivují nervové buňky. U myší s parkinsonovskými příznaky výrazně zlepšily pohybové potíže, a to bez trvalých elektrod. Autoři uvádějí, že metoda by mohla být šetrnější alternativou, zatím však jde jen o výsledky na myších.",
+      "region_cs": "Německo, Evropa",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm"
+        },
+        {
+          "outlet": "Studie: Advanced Science",
+          "url": "https://doi.org/10.1002/advs.75097"
+        }
+      ],
+      "original_titles": [
+        "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
+        "Remote Magnetomechanical Neuromodulation Uncovers Therapeutic Mechanisms for Alleviating Parkinsonian Symptoms in Freely Moving Mice"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Sources contradict on core facts: the White House release claims an 18-month decline under Trump, while NPR, citing CDC data, shows steady declines since 2023, and credit for the trend is disputed.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+        "U.S. Drug Overdose Deaths Decrease "
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Implantát poháněný glukózou se přibližuje léčbě cukrovky bez baterií",
+      "summary_cs": "Vědci zveřejnili v časopise Nature bioelektronické zařízení NeuroAxis, které funguje bez baterií a bezdrátového napájení. Přístroj využívá glukózu z těla a pomocí uměle vytvořeného nervového reflexu reguluje zánětlivé imunitní reakce. U krys s diabetem prvního i druhého typu obnovil glukózovou toleranci, zlepšil citlivost na inzulin a snížil zánět, a účinky přetrvaly i po ukončení léčby. Výsledky zatím platí jen pro zvířecí modely a k využití u lidí je ještě daleko.",
+      "region_cs": "Laboratorní studie na krysách",
+      "sources": [
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03377-5"
+        },
+        {
+          "outlet": "Studie: Trends in Endocrinology & Metabolism",
+          "url": "https://doi.org/10.1016/j.tem.2026.08.001"
+        }
+      ],
+      "original_titles": [
+        "Glucose-powered implant brings devices for treating diabetes a step closer",
+        "A glucose-powered artificial neuroimmune axis for metabolic control",
+        "Neural regulation and manipulation of pancreatic β cells"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 99817,
+    "output_tokens": 12171,
+    "cost_usd": 0.0160672
+  },
+  "buttondown_id": "em_40p5c7sd818cfsmedrgxbv7wan",
+  "sent_live": true
+}
