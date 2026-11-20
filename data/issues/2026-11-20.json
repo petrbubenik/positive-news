@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-20",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 8,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Tableta proti rakovině slinivky zmenšila nádory, u některých pacientů zmizely",
+      "summary_cs": "Experimentální lék daraxonrasib, podávaný v kombinaci s chemoterapií, pomohl pacientům s pokročilou rakovinou slinivky. Nádory se přestaly zvětšovat téměř u všech 61 účastníků klinické studie a u zhruba jedné dvanáctiny pacientů byl nádor na CT snímcích nezjistitelný. Po roce léčby žilo 76,6 procenta pacientů, zatímco při samotné chemoterapii to bývá 40 až 45 procent. Výsledky představil onkolog Wungki Park na sympoziu v Barceloně. Lékaři zdůrazňují, že nejde o vyléčení a délka účinku zatím není známa.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "original_titles": [
+        "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+        "Massive hope for pancreatic cancer pill after trial saw tumours vanish"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Soud OSN uznal, že Myanmar se dopustil genocidy na Rohingjích",
+      "summary_cs": "Mezinárodní soudní dvůr OSN poprvé v historii označil stát za odpovědný za genocidu. Rozhodl, že Myanmar v roce 2017 spáchal genocidu na muslimské menšině Rohingů, a nařídil mu zabránit opakování zločinů, provést právní reformy a poskytnout oběti odškodnění. Verdikt padl většinou devíti hlasů ku šesti a žalobu podala Gambie před sedmi lety. Podle soudu bylo zabito přibližně 10 000 lidí a více než 700 000 jich uprchlo do Bangladéše. Rohingové verdikt uvítali jako uznání svého utrpení, ale upozorňují, že návrat domů zůstává nejistý.",
+      "region_cs": "Myanmar",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+        },
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/11/19/myanmar-committed-genocide-against-rohingya-minority-top-un-court-rules/"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244"
+        },
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/19/myanmar-committed-acts-of-genocide-against-rohingya-minority-top-un-court-rules/"
+        },
+        {
+          "outlet": "CBS News",
+          "url": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/"
+        },
+        {
+          "outlet": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+        }
+      ],
+      "original_titles": [
+        "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+        "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+        "Myanmar calls international court ruling on Rohingya genocide 'unfair'",
+        "Australian Rohingya hope world will listen after UN court's genocide ruling",
+        "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+        "Myanmar committed genocide against Rohingya minority, top UN court rules",
+        "Rohingya genocide: What was said in court and what happens now?",
+        "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+        "Inside a Rohingya Camp After a Genocide Ruling",
+        "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+        "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
+        "For the first time, UN's highest court finds a country responsible for genocide: Myanmar",
+        "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+        "Myanmar committed acts of genocide against Rohingya minority, top UN court rules",
+        "Myanmar committed genocide against Rohingya, U.N. top court rules",
+        "World’s top court finds Myanmar guilty of genocide against Rohingya"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Úmrtí na předávkování drogami v USA klesají, nejníž za zhruba deset let",
+      "summary_cs": "Počet úmrtí na předávkování drogami v USA klesl podle dat CDC na nejnižší úroveň od roku 2016. Za dvanáct měsíců do června 2026 jich bylo předpovězeno 65 724, což je zhruba o 41,5 procenta méně než na vrcholu za předchozí administrativy. Nejvíce klesla úmrtí na heroin, o 34,8 procenta, a na syntetické opioidy včetně fentanylu, o 18,7 procenta. Kancelář Bílého domu přičítá zásluhu politice prezidenta Trumpa, ale experti upozorňují, že pokles začal už v roce 2023 za Bidena. Fentanyl zůstává hlavní příčinou úmrtí.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
+        },
+        {
+          "outlet": "whitehouse.gov",
+          "url": "https://www.whitehouse.gov/releases/2026/11/u-s-drug-overdose-deaths-decrease-for-18th-consecutive-month-under-trump-administration/"
+        }
+      ],
+      "original_titles": [
+        "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+        "U.S. Drug Overdose Deaths Decrease "
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vietnam zrušil trest smrti za obchod s drogami",
+      "summary_cs": "Vietnam v revidovaném trestním zákoníku zrušil trest smrti za obchod s drogami a několik dalších trestných činů. Popravy zůstávají možné jen za čtyři trestné činy. Vietnam používá smrtící injekci a počty poprav nezveřejňuje. Podle odhadu Amnesty International bylo na konci roku 2023 v zemi přes 1 200 lidí odsouzených k smrti. Změna omezuje rozsah trestu smrti, skutečný dopad na počty odsouzených zatím není znám.",
+      "region_cs": "Vietnam",
+      "sources": [
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375257/vietnam-scraps-death-sentence-drug-trafficking"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/asia/se-asia/vietnam-scraps-capital-punishment-for-drug-trafficking"
+        }
+      ],
+      "original_titles": [
+        "Vietnam scraps death sentence for drug trafficking",
+        "Vietnam scraps capital punishment for drug trafficking"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Brazílie chrání území náčelníka Raoniho v Amazonii zákonem",
+      "summary_cs": "Brazilská vláda zajistila právní ochranu území Kapot Nhinore, kde se narodil známý indiánský vůdce Raoni Metuktire. Ministerstvo spravedlnosti formálně uznalo trvalé držení území o rozloze 362 000 hektarů pro kmeny Mebengokre-Kayapó a Yudja-Juruna. Prezident Lula da Silva to oznámil během návštěvy území. Demarkace ještě není dokončena, protože se území překrývá s asi 200 soukromými statky. Území leží podél řeky Xingu, kde je ochrana lesa klíčová. Raoni, kterému je 94 let, je nyní v paliativní péči.",
+      "region_cs": "Brazílie, Amazonie",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/brazils-lula-moves-protect-chief-raonis-birthplace-amazon-138301684"
+        },
+        {
+          "outlet": "AFP",
+          "url": "https://www.msn.com/en-us/news/world/lula-visits-ailing-amazon-defender-raoni-as-brazil-recognizes-territory/ar-AA2hNcqL"
+        }
+      ],
+      "original_titles": [
+        "Brazil's Lula moves to protect Chief Raoni’s birthplace in the Amazon rainforest",
+        "Lula visits ailing Amazon defender Raoni as Brazil recognizes territory"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source supports the core facts about the e-methanol plant; the EU primary source covers renewables targets in general and does not back the report.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Will e-methanol become a game changer for decarbonising maritime shipping and plastic industries?",
+        "Since the introduction of the original Renewable Energy Directive, the share of renewable energy sources in EU energy consumption has increased from 1"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "EU a Británie se dohodly na obnovení vztahů deset let po brexitu",
+      "summary_cs": "Britský premiér Andy Burnham a představitelé EU se na summitu v Bruselu dohodli na třech dohodách, které odstraní část byrokracie po brexitu. Týkají se jednoduššího obchodu s potravinami, propojení systémů emisních povolenek a programu mobility pro mladé. Ten umožní až 100 000 lidem z každé strany žít a pracovat v druhé zemi až tři roky. Britská vláda odhaduje přínos pro hospodářství na 0,5 procenta HDP. Otázka poplatků za univerzity pro studenty z EU zůstává otevřená a má být vyřešena do šesti měsíců.",
+      "region_cs": "Velká Británie, EU",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss"
+        },
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-21/key-takeaways-from-uk-eu-summit/107406986"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html"
+        },
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/11/20/10-years-britain-reopens-brexit-fight-this-time-embracing-eu/"
+        },
+        {
+          "outlet": "The Irish Times",
+          "url": "https://www.irishtimes.com/world/uk/2026/11/20/the-deal-is-done-uk-says-brexit-reset-deal-with-eu-is-agreed/"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/young-europeans-win-a-route-back-to-the-uk-but-not-cheaper-university-fees-yet"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/britain-eu-set-to-agree-to-reset-but-divisions-persist"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/politics/burnham-eu-deal-youth-mobility-scheme-b3088271.html"
+        }
+      ],
+      "original_titles": [
+        "Key takeaways from UK-EU summit: Idea of Britain rejoining still on table",
+        "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+        "UK-EU deal: What we know so far",
+        "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+        "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+        "‘The deal is done’: UK and EU agree Brexit reset but delivery rests on tuition fees",
+        "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
+        "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+        "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
+        "Young Europeans win a route back to the UK, but not cheaper university fees yet",
+        "Britain and EU launch reset with food and youth mobility deals",
+        "Burnham agrees to ‘let 100,000 come to UK a year in youth scheme’ in new EU deal"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 125432,
+    "output_tokens": 13992,
+    "cost_usd": 0.0195392
+  },
+  "buttondown_id": "em_6q39nkg4679y0rar8zejt9bxv4",
+  "sent_live": true
+}
