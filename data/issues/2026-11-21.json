@@ -1,0 +1,281 @@
+{
+  "date": "2026-11-21",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Indie podala přes 10 milionů dávek vakcíny proti HPV, cíl splnila z 87 %",
+      "summary_cs": "Indická vláda oznámila, že národní očkovací kampaň proti HPV dosáhla v devíti měsících přes 10 milionů dávek pro čtrnáctileté dívky. To odpovídá zhruba 87 % ročního cíle, který činí asi 1,2 milionu dívek. Očkování je bezplatné, dobrovolné a jednodávkové a probíhá ve státních zdravotnických zařízeních se souhlasem rodičů. Plné pokrytí dosáhlo šest států a svazových území, například Gujarát a Uttarpradéš. Ministerstvo zdůrazňuje, že digitální platforma U-WIN pomáhá najít dívky, které zatím očkované nejsou.",
+      "region_cs": "Indie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/over-1-crore-hpv-vaccines-given-to-14-year-old-girls-in-nine-months-health-ministry/article71727507.ece"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.msn.com/en-in/health/diseases-and-conditions/india-gives-10-million-hpv-vaccine-doses-covers-87-of-target-girls-in-nine-months-health-ministry/ar-AA2hTM89"
+        }
+      ],
+      "original_titles": [
+        "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
+        "India gives 10 million HPV vaccine doses, covers 87% of target girls in nine months, health ministry"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Matematik z Anthropicu tvrdí, že s pomocí AI dokázal Riemannovu hypotézu",
+      "summary_cs": "Levent Alpöge, matematik společnosti Anthropic, zveřejnil čtyřstránkový text, v němž tvrdí, že spolu s jazykovým modelem Claude našel důkaz Riemannovy hypotézy. Tato domněnka z roku 1859 se týká rozložení prvočísel a patří mezi sedm úloh tisíciletí, za jejichž vyřešení nabízí Clayův institut milion dolarů. Důkaz je zapsán v programovacím jazyce Lean o zhruba 17 milionech řádků. Nezávislí matematici ho zatím ověřují a někteří potvrdili, že kód prochází kontrolami. Celé vysvětlení však zatím nikdo plně nepřečetl, takže uznání může trvat týdny i měsíce.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
+        },
+        {
+          "outlet": "NPR",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+        },
+        {
+          "outlet": "DW",
+          "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/21/anthropic-worker-claims-to-have-solved-famed-167-year-old-maths-problem-with-help-of-ai"
+        },
+        {
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/"
+        },
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "New Scientist",
+          "url": "https://www.newscientist.com/article/2600235-mathematicians-are-amazed-by-holy-grail-proof-of-riemann-hypothesis/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS"
+        },
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/anthropic-researcher-says-ai-chatbot-claude-solved-maths-greatest-riddle"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle"
+        },
+        {
+          "outlet": "Science (AAAS)",
+          "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer"
+        },
+        {
+          "outlet": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03812-7"
+        }
+      ],
+      "original_titles": [
+        "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+        "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+        "Anthropic researcher uses AI to solve math's greatest riddle",
+        "Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI",
+        "Anthropic researcher says Claude solved math’s greatest riddle",
+        "AI cracks math’s most famous problem. Have mathematicians lost a guiding light?",
+        "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+        "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+        "Mathematicians are amazed by ‘holy grail’ proof of Riemann hypothesis",
+        "What is the Riemann hypothesis and why is its solution so monumental?",
+        "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
+        "Anthropic researcher says AI chatbot Claude solved maths’ greatest riddle",
+        "Anthropic researcher says Claude solved maths’ greatest riddle",
+        "What the Riemann hypothesis proof really means about AI and the future",
+        "Anthropic researcher says Claude AI has solved maths’ greatest riddle: Riemann Hypothesis",
+        "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
+        "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+        "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+        "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "New York chce do roku 2032 zavřít věznici Rikers Island",
+      "summary_cs": "Newyorský starosta Zohran Mamdani představil plán, podle něhož má být proslulý vězeňský komplex Rikers Island uzavřen nejpozději do roku 2032. Klíčem je snížit počet vězňů z přibližně 6 500 na zhruba 4 100 lidí prostřednictvím alternativ k vazbě, dohledu na svobodě a rychlejšího soudního řízení. Místo ostrova by vzniklo čtyři menší moderní věznice v Brooklynu, Bronxu, Queensu a na Manhattanu. Termín ještě musí schválit newyorská městská rada, protože původní lhůta z roku 2027 se nedodrží.",
+      "region_cs": "USA, New York",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/mamdani-rikers-island-jail-closing-b3088549.html"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/20/nyc-mayor-unveils-plan-to-close-notorious-rikers-island-jail-by-2032"
+        }
+      ],
+      "original_titles": [
+        "Mamdani sets plan to close NYC’s notorious Rikers Island jail",
+        "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+        "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
+        "New York City’s notorious jail Rikers Island set to ‘finally’ close, Mayor Mamdani unveils",
+        "NYC mayor unveils plan to close notorious Rikers Island jail by 2032"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Zákazy telefonů ve školách v USA mírně zlepšují výsledky žáků v testech",
+      "summary_cs": "Výzkumníci z Harvardovy univerzity analyzovali údaje 3,3 milionu studentů ze 4 600 amerických škol a zjistili, že přísné zákazy mobilů mírně zlepšují výsledky v matematice a čtení. Nejvýraznější zlepšení přinesly školy, kde žáci odevzdávali telefony v pouzdrech po celý den. Efekt odpovídá zhruba jednomu až dvěma dodatečným týdnům školní výuky ročně a nejsilnější byl ve čtení. Odborníci upozorňují, že dopad je malý, ale může se časem sčítat. Zákazy mohou pomoci i dobrému soustředění ve třídách a psychické pohodě žáků.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/us-school-phone-bans-are-gradually-improving-test-scores-new-evidence-shows"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"
+        }
+      ],
+      "original_titles": [
+        "US school phone bans are gradually improving test scores, new evidence shows",
+        "School Phone Bans Are Gradually Improving Test Scores, New Evidence Shows"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Gepardí samice z Botswany porodila v indickém národním parku Kuno čtyři mláďata",
+      "summary_cs": "V národním parku Kuno ve Madhjapradéši porodila dvouapůlletá samice gepardka KOMG 3, přivezená z Botswany, čtyři zdravá mláďata přirozenou cestou ve volné přírodě. Je to první gepardka z Botswany, která na indickém území porodila, a druhý zaznamenaný porod v divočině od zahájení projektu v roce 2022. Celkový počet gepardů v Indii se díky tomu zvýšil na 62, z toho 43 se narodilo v Indii. Ministr životního prostředí Bhupender Yadav označil narození za významný milník v obnově životaschopné populace gepardů.",
+      "region_cs": "Indie, Madhjapradéš",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/news/national/madhya-pradesh/cheetah-brought-from-botswana-gives-birth-to-four-cubs-at-kuno/article71724112.ece"
+        },
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/genesis/botswanaborn-cheetah-gives-birth-to-four-cubs-at-kuno-india-s-count-rises-to-62-101795179568565.html"
+        }
+      ],
+      "original_titles": [
+        "Cheetah brought from Botswana gives birth to four cubs at Kuno",
+        "Botswana-born cheetah gives birth to four cubs at Kuno, India’s count rises to 62"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Soud v Paříži uznal rasistický podtext útoku policistů na hudebního producenta",
+      "summary_cs": "Pařížský soud odsoudil tři policisty za útok na černošského hudebního producenta Michela Zeclera z roku 2020 a za padělání úředního hlášení. Soud uznal, že útok byl motivován rasismem, a policisté dostali tresty od jednoho do dvou let vězení, část z nich podmíněně. Všichni již nesmějí znovu pracovat u policie. Bezpečnostní kamery ukázaly, že Zecler kladl minimální odpor, a odhalily lži v hlášení. Advokát Serge Money tento rozsudek označil za historický, protože dosud podobné případy často nekončily potrestáním.",
+      "region_cs": "Francie, Paříž",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/french-policemen-convicted-of-racist-assault-on-music-producer"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html"
+        },
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler"
+        }
+      ],
+      "original_titles": [
+        "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+        "French policemen convicted of racist assault on music producer",
+        "French police officers guilty of Michel Zecler assault: What happens now?",
+        "White Police Officers Are Convicted of Beating a Black Man in France",
+        "French police officers sentenced for beating of music producer Michel Zecler",
+        "French police officers found guilty of racist assault on black music producer",
+        "Paris police officers sentenced to prison over 2020 beating of Black man"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Slibný krevní test by mohl v budoucnu odhalovat CTE u živých pacientů",
+      "summary_cs": "Vědci z Bostonské univerzity analyzovali krevní vzorky 21 bývalých americkýcch fotbalistů, kteří odkázali své mozky vědě, a u 18 z nich našli různé stupně chronické traumatické encefalopatie. Biomarker eMTBR-tau v krvi dokázal rozpoznat nejzávažnější případy. Studie vyšla v časopise JAMA a je první svého druhu, ale vzorek je malý a test zatím není schválen americkým úřadem FDA. Podobný výsledek přinesla i druhá studie v témže časopise. Odborníci ji přesto označují za zlomový okamžik, protože by mohla pomoci při výzkumu léčby.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte/"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html"
+        }
+      ],
+      "original_titles": [
+        "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
+        "‘A watershed moment’: Researchers unveil first-of-its-kind blood test for CTE"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 109842,
+    "output_tokens": 13566,
+    "cost_usd": 0.0177672
+  },
+  "buttondown_id": "em_7v0vwpt1wb9xvs9ynb1n6adarb",
+  "sent_live": true
+}
