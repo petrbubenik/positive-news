@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-23",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Největší studie AI při screeningu rakoviny prsu startuje v Anglii",
+      "summary_cs": "Britská národní zdravotní služba NHS spustila největší studii na světě, která ověří, zda umělá inteligence pomůže při screeningu rakoviny prsu. Do projektu EDITH, na který vláda vyčlenila 10 milionů liber, se má zapojit téměř 700 000 žen ve věku 50 až 71 let. AI nástroj bude pomáhat radiology odhalovat drobné nádory na mamografických snímcích a může snížit počet specialistů, kteří musí každý snímek kontrolovat. Pokud se ukáže, že metoda je stejně bezpečná a účinná, mohla by se zavést do běžné péče. Ženy se mohou rozhodnout, že se studie nezúčastní.",
+      "region_cs": "Anglie, Spojené království",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/england-launches-worlds-largest-ai-aided-breast-cancer-screening-trial/article71734765.ece"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/23/can-ai-help-detect-breast-cancer-faster-major-new-trial-will-find-out"
+        }
+      ],
+      "original_titles": [
+        "England launches world's largest AI-aided breast cancer screening trial",
+        "Can AI help detect breast cancer faster? Major new trial will find out",
+        "Can AI improve breast cancer diagnosis?",
+        "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vydry se vracejí do centra Kuala Lumpuru, řeka Klang se čistí",
+      "summary_cs": "V malajsijské metropoli se stále častěji objevují skupiny vydry hladké, které žijí podél řeky Klang. Ta byla ještě nedávno jednou z nejšpinavějších řek světa, po letech čištění se ale zlepšila ze třídy 5 na třídu 3, tedy na středně znečištěnou. Ekolog Woo Chee Yoong uvádí, že přítomnost vyder naznačuje zdravější říční ekosystém s dostatkem ryb. Úřady i ochránci přírody doufají, že se řeka dostane až do stavu vhodného ke koupání. Vydry jsou chráněné, a proto obyvatelé v lokalitě Tropicana chrání své rybníky sítěmi a ploty.",
+      "region_cs": "Malajsie, Kuala Lumpur",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/kuala-lumpur-otters-raise-river-clean-up-hopes/"
+        },
+        {
+          "outlet": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/environment/2026/11/23/wildlife/kuala-lumpur-otters-river/"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375422/otterly-delighted-rare-malaysian-wildlife-returns-once-polluted-kuala-lumpur-river"
+        }
+      ],
+      "original_titles": [
+        "Kuala Lumpur otters raise river revival hopes",
+        "Otterly delightful: rare Malaysian wildlife returns to once-polluted Kuala Lumpur river",
+        "Kuala Lumpur otters raise river revival hopes"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Žena s ledvinou z prasete slaví rok od transplantace",
+      "summary_cs": "Pětapadesátiletá žena z amerického státu New Hampshire si připomíná jeden rok od transplantace ledviny geneticky upraveného prasete. Orgán v jejím těle stále funguje, což ji podle zpráv samotnou překvapuje. Odborníci vidí v tzv. xenotransplantaci možnost, jak by se jednou mohl vyřešit nedostatek orgánů pro pacienty čekající na transplantaci. Jde zatím o jeden případ, který ukazuje možný směr výzkumu.",
+      "region_cs": "USA, New Hampshire",
+      "sources": [
+        {
+          "outlet": "Hindustan Times",
+          "url": "https://www.msn.com/en-in/health/general/us-woman-with-a-pig-kidney-inside-her-marks-one-year-milestone-amazed-that-it-s-still-working/ar-AA2i0yMy"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html"
+        }
+      ],
+      "original_titles": [
+        "Patient Marks One Year Living With Pig Kidney, a Transplant Milestone",
+        "US woman with a pig kidney inside her marks one-year milestone: ‘Amazed that it’s still working’"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Teenager a jeho matka pomohli najít pohřešovanou dívku z online hry",
+      "summary_cs": "Šestnáctiletý Landon Tresp z Colorada si v online hře Among Us povídal s dívkou, která se přiznala, že je utečenka a je držena proti své vůli v Oregonu. Landon se svěřil své matce Khristině, zdravotní sestře, a ta spolu s ním kontaktovala dívčinu matku a následně FBI. Dívka byla zachráněna pouhých 24 hodin od prvního Landonova varování. Případ ukazuje, že i obyčejná online komunikace může pomoci odhalit závažný zločin.",
+      "region_cs": "USA, Colorado a Oregon",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/nightly-news/video/teen-helps-find-missing-girl-using-video-game-273681989922"
+        }
+      ],
+      "original_titles": [
+        "How a teen gamer and his mother helped rescue a missing girl",
+        "Teen helps find missing girl using video game"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: coverage centres on drought and water shortages, the reservoir is a secondary detail, and the two sources are the same AFP wire story.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Britain digging new reservoirs to fight persistent droughts",
+        "UK digging new reservoirs to fight persistent droughts"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Japonští vědci vyvinuli léčbu dásní, která šetří prospěšné bakterie",
+      "summary_cs": "Vědci z japonské univerzity v Nagoji vyvinuli novou léčbu parodontitidy, závažného zánětu dásní, který může vést ke ztrátě zubů. Metoda kombinuje protilátky z vaječných žloutků kuřat imunizovaných proti bakterii Porphyromonas gingivalis s infračerveným světlem. Bakterie je cílena přesně, takže zůstávají zachovány prospěšné mikroby i zdravé buňky dásní. V experimentech na buněčných kulturách a myších léčba významně snížila úbytek kosti kolem zubů. Výsledky zatím nejsou ověřeny u lidí, ale naznačují cestu k cílenějším a levnějším terapiím.",
+      "region_cs": "Japonsko",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm"
+        },
+        {
+          "outlet": "en.nagoya-u.ac.jp",
+          "url": "https://en.nagoya-u.ac.jp/news/articles/pr-new-therapy-eliminates-gum-disease-bacterium/"
+        }
+      ],
+      "original_titles": [
+        "New gum disease treatment kills bad bacteria while sparing the good",
+        "Researchers at Nagoya University in Japan have created an innovative treatment for periodontitis that targets and eliminates harmful bacteria while pr"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 79198,
+    "output_tokens": 13012,
+    "cost_usd": 0.014425799999999999
+  },
+  "buttondown_id": "em_32fzzqhgjz80ab27et1ygd6kb8",
+  "sent_live": true
+}
