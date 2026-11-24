@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-24",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Onkoložka a fyzik sdílejí nejvyšší australskou vědeckou cenu",
+      "summary_cs": "Australskou nejvyšší vědeckou cenu, Prime Minister's Prize for Science, letos získali společně onkoložka Georgina Long a teoretický fyzik Anthony Thomas. Poprvé v historii ji sdíleli vědci z tak odlišných oborů. Georgina Long z Univerzity v Sydney a Melanoma Institute Australia vedla mezinárodní výzkum, díky kterému se podařilo najít první účinné léky na melanom. U pacientů se čtvrtým stádiem onemocnění se tak přežití zlepšilo desetinásobně. Anthony Thomas z Adelaide University se věnuje fyzice malých měřítek a pomáhá vědcům hledat temnou hmotu. Každý z laureátů získá 250 000 dolarů.",
+      "region_cs": "Austrálie",
+      "sources": [
+        {
+          "outlet": "ABC Australia",
+          "url": "https://www.abc.net.au/news/science/2026-11-24/2026-prime-minister-prize-for-science/107415808"
+        },
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science"
+        }
+      ],
+      "original_titles": [
+        "Oncologist and physicist both win Australia's top science prize",
+        "Researcher who helped improve melanoma survival rates among winners of top Australian science prize"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Astronomové našli nejstarší známý kvasar, vznikl 630 milionů let po Velkém třesku",
+      "summary_cs": "Astronomové objevili nejstarší dosud známý kvasar, který dostal jméno Dún Aonghasa podle kamenné pevnosti v Irsku. Vznikl zhruba 630 milionů let po Velkém třesku, vidíme ho tedy tak, jak vypadal před 13,1 miliardy let. Jeho černá díra má přibližně 360 milionů hmotností Slunce, což zpochybňuje představy o tom, jak černé díry v raném vesmíru tak rychle rostou. Objev učinil tým vedený Julienem Wolfem z Evropské jižní observatoře v datech evropského teleskopu Euclid. Výsledky potvrdily i teleskopy Hubble a Webb a studie vyšla v časopise Astronomy & Astrophysics.",
+      "region_cs": "Vesmír",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/24/scientists-discover-quasar-formed-630-million-years-after-the-big-bang"
+        },
+        {
+          "outlet": "The Straits Times",
+          "url": "https://www.straitstimes.com/world/united-states/astronomers-spot-record-setting-quasar-in-the-early-universe"
+        }
+      ],
+      "original_titles": [
+        "Astronomers spot record-setting quasar in the early universe",
+        "Scientists discover quasar formed 630 million years after the Big Bang"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 3,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Kongo a Keňa obnoví plné diplomatické vztahy",
+      "summary_cs": "Prezidenti Demokratické republiky Kongo Félix Tshisekedi a Keni William Ruto se dohodli na obnovení plných diplomatických vztahů, které byly kvůli konfliktu na východě Konga dlouho napjaté. Vztahy se zhoršily v roce 2023, kdy Kinshasa obvinila Keňu z hostění vůdců povstaleckých skupin včetně hnutí M23 a odvolala svého velvyslance. Dohoda vzešla ze summitu v Oyo v Kongu-Brazzaville, který zprostředkoval tamní prezident Denis Sassou Nguesso. Obě země se dohodly také na prohloubení obchodní spolupráce a na společném postupu proti ebole. Lídři se zavázali respektovat suverenitu a nevměšování do vnitřních záležitostí.",
+      "region_cs": "Konžská demokratická republika, Keňa",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/video/20261124-dr-congo-and-kenya-agree-to-restore-ties"
+        }
+      ],
+      "original_titles": [
+        "DR Congo and Kenya agree to restore ties",
+        "Kenya and DR Congo agree to restore ties after tensions over conflict"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only one news source (Mongabay) reports the Bolivian reforestation; the nature.com primary summary is general background on Polylepis forests and does not back the specific news about the Faunagua initiative.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "In the Bolivian Andes, Indigenous women plant native trees to restore water sources",
+        "Polylepis Forest Ecosystems and Biodiversity Conservation"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 3,
+      "published": false,
+      "rejection_reason": "Only one news source (Smithsonian) reports the release of captive-raised snakes; the fws.gov page is species background and does not mention the release, so the core facts lack a second supporting source.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "These Endangered Snakes Are Some of the Most Beautiful in North America. Here's How Conservationists Are Trying to Save Them",
+        "Overview"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 94460,
+    "output_tokens": 10698,
+    "cost_usd": 0.014794999999999999
+  },
+  "buttondown_id": "em_12tdn57p8583cbj99qv2hpd683",
+  "sent_live": true
+}
