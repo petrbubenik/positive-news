@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-26",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 8,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Levnější injekce proti HIV dorazila do Afriky",
+      "summary_cs": "První globální zásilka generické verze léku lenacapavir dorazila v listopadu do Zambie a dodávky mají brzy přijít i do Ugandy a Zimbabwe. Injekce se podává jednou za půl roku a podle Světového fondu, který ji distribuuje, je téměř stoprocentně účinná v prevenci nákazy virem HIV. Generická verze by měla stát zhruba 40 dolarů ročně na osobu, zatímco původní přípravek od Gileadu stál v USA přibližně 28 000 dolarů. Indická firma Hetero plánuje dodávky do dalších deseti afrických zemí a lék má být nakonec dostupný ve 120 státech s nízkými a středními příjmy. Do programu se již zapojilo přes 189 000 lidí z deseti zemí.",
+      "region_cs": "Afrika (Zambie, Uganda, Zimbabwe)",
+      "sources": [
+        {
+          "outlet": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/health/indian-pharma-company-hetero-begins-supply-of-generic-twice-yearly-hiv-prevention-injection-in-africa/article71746403.ece"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/cheaper-generic-hiv-prevention-drug-arrives-in-zambia"
+        }
+      ],
+      "original_titles": [
+        "Indian pharma company Hetero begins supply of generic twice-yearly HIV prevention injection in Africa",
+        "Hope for millions as cheaper HIV prevention jab reaches Africa",
+        "Cheaper, generic HIV prevention drug arrives in Zambia"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Úmrtnost matek v Sierra Leone od roku 2000 klesla téměř o 80 procent",
+      "summary_cs": "Sierra Leone patří mezi africké země s nejprudším poklesem úmrtnosti matek. Podle nejnovějších odhadů OSN klesl počet úmrtí na 100 000 živě narozených dětí z více než 1 600 v roce 2000 na 354 v roce 2023. Přispělo k tomu rozšíření zdravotních služeb, bezplatná péče o matky zavedená v roce 2010 a školení porodních asistentek. Problémem zůstávají neoficiální poplatky, nedůvěra a špatná infrastruktura. Vláda navíc od března běží kampaň „300 dní aktivismu“, která podle ministerstva zdraví do konce října snížila úmrtí matek o 31,3 procenta oproti roku 2025.",
+      "region_cs": "Sierra Leone",
+      "sources": [
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429"
+        },
+        {
+          "outlet": "The Independent",
+          "url": "https://www.msn.com/en-gb/news/other/sierra-leone-sees-steep-decline-in-maternal-mortality-but-barriers-to-care-persist/ar-AA2ifL2G"
+        }
+      ],
+      "original_titles": [
+        "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist",
+        "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist"
+      ]
+    },
+    {
+      "topic": "tech",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "New York zakázal hračky s AI chatboty na pět let",
+      "summary_cs": "Newyorská guvernérka Kathy Hochul podepsala zákon, který na pět let zakazuje výrobu a prodej hraček poháněných AI chatboty. Týká se plyšových zvířátek, panenek i robotů, kteří dokážou s dětmi vést rozhovory přes internet. Generální prokurátorka státu slíbila, že zákaz bude důsledně vymáhat. Hochul zároveň zavedla jednoroční moratorium na výstavbu datových center pro umělou inteligenci. Opatření má chránit děti před technologiemi, jejichž chování není dostatečně kontrolováno.",
+      "region_cs": "USA, New York",
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
+        },
+        {
+          "outlet": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+        }
+      ],
+      "original_titles": [
+        "New York bans AI toys, including those using internet to talk to children",
+        "New York governor Kathy Hochul signs AI toy ban into law"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Britský premiér vyhlásil šetření dopadů jaderných testů na veterány",
+      "summary_cs": "Britský premiér Andy Burnham oznámil nezávislé šetření dopadů studenoválečných jaderných testů na vojenské veterány a jejich rodiny. Testů se mezi lety 1952 a 1967 účastnilo zhruba 22 000 britských vojáků v Indickém a Tichém oceánu a řada z nich tvrdí, že byla vystavena radioaktivnímu spadu. Veteráni o uznání a odškodnění bojují přibližně 40 let. Panel, vzorovaný podle šetření tragédie na Hillsborough, má předložit prozatímní zprávu do 3. října 2027, tedy k 75. výročí prvního britského jaderného testu.",
+      "region_cs": "Velká Británie",
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/26/inquiry-into-uk-nuclear-test"
+        },
+        {
+          "outlet": "ABC News (US)",
+          "url": "https://abcnews.com/International/wireStory/uk-nuclear-test-veterans-win-40-year-battle-138436079"
+        }
+      ],
+      "original_titles": [
+        "Inquiry into UK nuclear test veterans granted after 40 year campaign",
+        "UK nuclear test veterans win 40-year battle for inquiry into Cold War tests"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Rozdíl v úmrtnosti mezi černými a bílými Američany se zmenšuje",
+      "summary_cs": "Rozdíl v počtu nadbytečných úmrtí mezi černými a bílými Američany se mezi lety 1993 a 2023 výrazně zmenšil, uvádí nová studie, o níž informují The Washington Post a The New York Times. Zdravotní nerovnosti mezi rasami ale podle těchto zpráv stále přetrvávají. Pokrok je tedy znatelný, ale zdaleka není dokončen. Výsledky se týkají Spojených států a ukazují, že se rozdíly mezi skupinami obyvatel dají dlouhodobě snižovat.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "The Washington Post",
+          "url": "https://www.msn.com/en-us/news/other/the-mortality-gap-between-black-and-white-americans-keeps-shrinking/ar-AA2ihaIR"
+        },
+        {
+          "outlet": "The New York Times",
+          "url": "https://www.nytimes.com/2026/11/24/well/black-white-americans-health-death-rates.html"
+        }
+      ],
+      "original_titles": [
+        "The Mortality Gap Between Black and White Americans Is Shrinking",
+        "The mortality gap between Black and White Americans keeps shrinking"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Primarily a violent crime story; the rescue is not a genuinely positive news item for this newsletter, and sources differ on hostage counts (about 20 vs. about 30 held).",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "All hostages rescued after Colombian security forces storm supermarket, police say",
+        "Security forces storm scene, end Colombia supermarket siege",
+        "Colombian police storm supermarket, freeing hostages and killing gunman"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Only the Bloomberg teaser (dated before the vote) touches the law, and it does not confirm passage; the Hindu article is the sole source for the core fact. The law is also politically contested, with the opposition promising repeal and the US ambassador objecting.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Australia passes online safety law, putting Big Tech at risk of multibillion-dollar fines",
+        "Australia Bolsters Online Safety Law With Tougher Big Tech Fine"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 101272,
+    "output_tokens": 16340,
+    "cost_usd": 0.0182972
+  },
+  "buttondown_id": "em_6yanx0ay6t8ekbewaz8y44sm3w",
+  "sent_live": true
+}
