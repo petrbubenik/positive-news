@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-27",
+  "note": "",
+  "stories": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Komise ICCAT přijala pravidla proti vyhazování žraločích ploutví",
+      "summary_cs": "Mezinárodní komise pro ochranu atlantských tuňákovitých ryb (ICCAT) na výročním zasedání ve Vilamouře v Portugalsku schválila opatření, které má zpřísnit dlouhodobý zákaz vyhazování žraločích ploutví na moři. Žraloci budou muset být vykládáni s ploutvemi připevněnými k tělu, u zmrazených ryb zůstávají dvě alternativní možnosti. Nová pravidla platí od roku 2027 pro čerstvé žraloky a od roku 2030 pro zmrazené. Ochránci přírody přesto kritizují, že se nepodařilo prosadit bezvýjimečné řešení, a nedohodlo se ani na nových limitech úlovku žlutoploutvého tuňáka.",
+      "region_cs": "Atlantik, Portugalsko",
+      "sources": [
+        {
+          "outlet": "Mongabay",
+          "url": "https://news.mongabay.com/2026/11/nations-hail-new-shark-finning-rules-in-the-atlantic-conservationists-say-japan-blocked-better-ones/"
+        },
+        {
+          "outlet": "oceans-and-fisheries.ec.europa.eu",
+          "url": "https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en"
+        }
+      ],
+      "original_titles": [
+        "Nations hail new shark finning rules in the Atlantic. Conservationists say Japan blocked better ones",
+        "At the 2026 Annual Meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, ICCAT members, which"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Austrálie schválila zákon, který zavazuje technologické firmy chránit uživatele",
+      "summary_cs": "Australský parlament schválil zákon o digitální povinnosti péče, který ukládá online službám, včetně her, aplikací, sociálních sítí a chatbotů s umělou inteligencí, zákonnou odpovědnost za bezpečí uživatelů. Firmy, které zákon poruší, mohou dostat pokutu až 5 % celosvětového obratu, nebo 109,2 milionu australských dolarů, podle toho, co je vyšší. Zákon nahrazuje roztříštěná pravidla a jeho přijetí podpořili i Zelení, kteří v Senátu prosadili přísnější sankce. Premiér Anthony Albanese jej označil za vítězství pro děti a mladé lidi. Opozice slíbila, že jej po volbách v roce 2028 zruší.",
+      "region_cs": "Austrálie",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "url": "https://www.thehindu.com/sci-tech/technology/australia-passes-online-safety-law-putting-big-tech-at-risk-of-multibillion-dollar-fines/article71745112.ece"
+        },
+        {
+          "outlet": "Time",
+          "url": "https://time.com/article/2026/11/25/australia-digital-duty-of-care-big-tech-fines-social-media-platforms-risks-harms-safety/"
+        }
+      ],
+      "original_titles": [
+        "Australia’s Digital Duty of Care law: Why Big Tech is under pressure",
+        "Australia passes online safety law, putting Big Tech at risk of multibillion-dollar fines",
+        "Big Tech Companies May Face Billion-Dollar Fines After Australia Passes ‘Digital Duty of Care’ Law"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Dýchání vzduchu s menším obsahem kyslíku prodloužilo myším život třikrát",
+      "summary_cs": "Vědci z institutu Gladstone spolu s kolegy z univerzit v Pensylvánii a v San Franciscu zjistili, že vadný protein HTRA2 může v tkáních způsobit hromadění kyslíku na nebezpečnou úroveň. U myší s degenerací motorických neuronů, kterou tento defekt způsobuje, dýchání vzduchu s nižším obsahem kyslíku prodloužilo život asi třikrát a zlepšilo funkci mozku. Studie vyšla v časopise Nature Metabolism a naznačuje, že tzv. hypoxická terapie by mohla pomoci i při dalších neurologických onemocněních. Zatím jde jen o výsledky na myších, nikoli o léčbu pro lidi.",
+      "region_cs": "USA",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm"
+        },
+        {
+          "outlet": "Studie: Nature Metabolism",
+          "url": "https://doi.org/10.1038/s42255-026-01566-0"
+        }
+      ],
+      "original_titles": [
+        "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+        "Hypoxia rescues complex 1-associated disease caused by proteostatic defects"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 6,
+      "published": false,
+      "rejection_reason": "Only one news article covers the core claims; the CERP primary page is a generic program description that does not back the specific recovery findings, and the article itself mixes good news with declining nest counts and drought.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+        "Comprehensive Everglades Restoration Plan (CERP)"
+      ]
+    },
+    {
+      "topic": "people",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Not genuinely positive for a positive-news newsletter: the story is a violent siege with a fatality and an unclear identity of the killed man, and the sources are teasers only.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "All hostages rescued after Colombian security forces storm supermarket, police say",
+        "Security forces storm scene, end Colombia supermarket siege"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Not genuinely positive: the article centres on livestock losses, farmer anger, and a government decision to permit wolf culling.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Wolves are returning across Europe. Not everyone is happy about it",
+        "Relearning how to live with wolves in Europe"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": false,
+      "rejection_reason": "Only the BBC article supports the core court-ruling facts; the Los Angeles Times item is a teaser about an auction and does not confirm the same event.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Second court defeat for Trump's deep-sea mining ambitions",
+        "Deep-sea mining auction in California sparks concern for Pacific Islanders"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 90294,
+    "output_tokens": 12715,
+    "cost_usd": 0.0153869
+  },
+  "buttondown_id": "em_7aye5923a69vsvw11ef3m6xsgy",
+  "sent_live": true
+}
