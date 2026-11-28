@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-28",
+  "note": "",
+  "stories": [
+    {
+      "topic": "science_health",
+      "impact": 6,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nová tableta snižuje „špatný“ cholesterol až o 65 procent",
+      "summary_cs": "Americký úřad FDA nedávno schválil první tabletu z třídy inhibitorů PCSK9, přípravek enlicitid pod názvem Lipfendra. Přehledová studie v časopise Annals of Pharmacotherapy, kterou připravili vědci z Binghamton University, shrnuje data o jeho účinku: u pacientů užívajících statiny snižuje „špatný“ LDL cholesterol přibližně o 57 až 65 procent, což je srovnatelné s injekčními léky. Nežádoucí účinky byly vzácné, průjem a závratě se objevily jen mírně častěji než u placeba. Vědci zatím nevědí, zda lék snižuje riziko infarktu nebo mrtvice. Pro pacienty, kteří injekce nesnášejí, jde o novou možnost léčby.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261128014259.htm"
+        },
+        {
+          "outlet": "Studie: Annals of Pharmacotherapy",
+          "url": "https://doi.org/10.1177/10600280261494015"
+        }
+      ],
+      "original_titles": [
+        "New once-daily pill slashes “bad” cholesterol by up to 65%",
+        "Enlicitide: The First Oral PCSK9i for Lowering Low-Density Lipoprotein Cholesterol"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Floridské Everglades se po desetiletích úpadku vracejí ptáci i plameňáci",
+      "summary_cs": "Letecké snímky z Everglades na jihu Floridy ukazují, že se tamní příroda po desetiletích úpadku začíná zotavovat. Díky obnově přirozeného toku vody do Floridského zálivu se vracejí brodiví ptáci, na pobřežních jezerech se shromáždily desítky tisíc kachen a do oblasti přilétají zimovat plameňáci, kteří zde byli vyhubeni před více než stoletím. Ornitolog Mark Ian Cook hnízdiště fotografuje z helikoptéry. Obnova ale zdaleka není hotová: počet hnízd kolísá, sucho v roce 2025 způsobilo nejnižší hnízdění za zhruba třicet let a celý program má vyjít na 26,9 miliardy dolarů a trvat přibližně padesát let.",
+      "region_cs": "USA, Florida",
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/nature/decades-of-drainage-reduced-the-freshwater-flowing-into-florida-bay-26-years-after-a-restoration-plan-began-aerial-photographs-show-flamingos-returning-and-waterfowl-gathering-in-numbers-rarely-seen-in-80-years/articleshow/136246334.cms"
+        },
+        {
+          "outlet": "Mongabay",
+          "url": "https://www.msn.com/en-us/money/general/aerial-photos-show-recovery-of-florida-bay-us-as-restoration-sends-everglades-water/ar-AA2imLJK"
+        }
+      ],
+      "original_titles": [
+        "After decades of decline, Florida’s Everglades see flamingos return",
+        "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 5,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Úmrtí na spalničky v roce 2025 klesla na historické minimum",
+      "summary_cs": "Světová zdravotnická organizace WHO uvedla, že v roce 2025 zemřelo na spalničky přibližně 72 000 lidí, což je nejméně v historii a o zhruba 91 procent méně než v roce 2000, kdy zemřelo asi 769 000 lidí. Počet nakažených se odhaduje na 9,8 milionu, tedy o 74 procent méně než před čtvrt stoletím. Přesto WHO upozorňuje, že miliony dětí stále nedostaly očkování a ohniska se objevují v desítkách zemí. Pokrok je tedy výrazný, ale boj s nemocí zdaleka neskončil.",
+      "region_cs": "Celosvětově",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "url": "https://www.msn.com/en-us/health/general/global-measles-deaths-fall-to-historic-low-in-2025-who-says/ar-AA2inD9o"
+        },
+        {
+          "outlet": "France 24",
+          "url": "https://www.france24.com/en/world-health-organization-sounds-alarm-as-measles-fight-stalls"
+        }
+      ],
+      "original_titles": [
+        "World Health Organization sounds alarm as measles fight stalls",
+        "Global measles deaths fall to historic low in 2025, WHO says"
+      ]
+    },
+    {
+      "topic": "nature",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Vzácné ještěrky niho taniwha se po třiceti letech vrátily na Aotea",
+      "summary_cs": "Na novozélandský ostrov Aotea, známý také jako Great Barrier Island, se po téměř třiceti letech v péči zoo vrátilo jedenáct ještěrek druhu niho taniwha, největší novozélandské ještěrky. Ohrožený druh dnes žije jen na dvou ostrovech v zálivu Hauraki. Skupina pochází ze tří zraněných ještěrek, které byly v letech 1997 až 1999 přivezeny do Auckland Zoo, kde se jejich potomci rozmnožili. Ještěrky byly vypuštěny do predátory chráněné rezervace Glenfern, kde je ochránci sledují pomocí malých vysílačků. Projekt vede ministerstvo ochrany přírody DOC spolu s kmenem Ngāti Rehua.",
+      "region_cs": "Nový Zéland, Aotea",
+      "sources": [
+        {
+          "outlet": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/science/wildlife/three-injured-lizards-were-taken-from-a-new-zealand-island-to-auckland-zoo-in-the-late-1990s-nearly-30-years-later-21-skinks-from-that-group-have-been-returned-to-a-predator-controlled-sanctuary/articleshow/136215478.cms"
+        },
+        {
+          "outlet": "RNZ",
+          "url": "https://www.msn.com/en-nz/news/national/a-proud-moment-for-ng%C4%81ti-rehua-new-zealands-longest-lizard-returns-to-aotea-great-barrier-island/ar-AA2i4Zqr"
+        }
+      ],
+      "original_titles": [
+        "Three injured lizards were taken from a New Zealand island to Auckland Zoo in the late 1990s",
+        "'A proud moment for Ngāti Rehua': New Zealand's longest lizard returns to Aotea Great Barrier Island"
+      ]
+    }
+  ],
+  "rejected": [
+    {
+      "topic": "nature",
+      "impact": 5,
+      "published": false,
+      "rejection_reason": "Duplicate of story 1 (same Mongabay report on Everglades); only one news source supports the core facts, and the CERP program page is generic and does not back the specific findings.",
+      "headline_cs": "",
+      "summary_cs": "",
+      "region_cs": "",
+      "sources": [],
+      "original_titles": [
+        "Aerial photos show recovery of Florida Bay, US, as restoration sends Everglades water",
+        "Comprehensive Everglades Restoration Plan (CERP)"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Uganda zahájila první africkou studii mRNA vakcíny proti ebole",
+      "summary_cs": "Ugandský institut pro výzkum virů spustil ve spolupráci s firmou Moderna první klinickou studii mRNA vakcíny v Africe. Cílí na méně častý kmen Bundibugyo, který způsobuje rozsáhlou epidemii v Demokratické republice Kongo, kde podle údajů úřadů zemřelo přes 5 700 lidí. Studie zapojí 224 dobrovolníků ve věku od jednoho roku do 65 let a ověří bezpečnost vakcíny a schopnost vyvolat imunitní odpověď, včetně dětí, které bývají při epidemiích nejvíce zasaženy. Gavi mezitím zajistila 1,5 milionu dávek jiné kandidátské vakcíny, jejíž testy v Kongu začínají v pondělí.",
+      "region_cs": "Uganda, Demokratická republika Kongo",
+      "sources": [
+        {
+          "outlet": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss"
+        },
+        {
+          "outlet": "Euronews",
+          "url": "https://www.euronews.com/2026/11/27/uganda-begins-africas-first-mrna-ebola-vaccine-trial"
+        }
+      ],
+      "original_titles": [
+        "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+        "Uganda begins Africa's first mRNA Ebola vaccine trial"
+      ]
+    },
+    {
+      "topic": "science_health",
+      "impact": 4,
+      "published": true,
+      "rejection_reason": "",
+      "headline_cs": "Nová látka rozbíjí obranný štít nádorů a probouzí imunitu",
+      "summary_cs": "Experimentální lék vyvinutý týmem vedeným Seong-Jin Kimem z firmy MedPacto v Soulu pomáhá imunitnímu systému proniknout do nádorů, které se před ním běžně skrývají. Studie v časopise Cancer Cell popisuje cílený blokátor signální molekuly TGF-β, který se váže na protein fibronektin ve velkém množství v nádorech, ale téměř ne ve zdravých dospělých tkáních. U myší lék odstranil agresivní nádory slinivky, zabránil šíření rakoviny prsu a vytvořil dlouhodobou imunitní paměť, která chránila i proti jiným typům nádorů. Účinek zatím není ověřen u lidí.",
+      "region_cs": "Jižní Korea, USA (výzkum na myších)",
+      "sources": [
+        {
+          "outlet": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063318.htm"
+        },
+        {
+          "outlet": "Studie: Cancer Cell",
+          "url": "https://doi.org/10.1016/j.ccell.2026.10.007"
+        }
+      ],
+      "original_titles": [
+        "New cancer drug tears down tumors’ walls and unleashes the immune system",
+        "A stroma-sensing TGF-β blockade reprograms CAF-myeloid niches to induce durable tumor immunity"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 79400,
+    "output_tokens": 13891,
+    "cost_usd": 0.014885500000000003
+  },
+  "buttondown_id": "em_2mdt2nky3s84zv8g0eszx6k9hm",
+  "sent_live": true
+}
